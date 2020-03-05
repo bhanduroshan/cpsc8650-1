@@ -1,4 +1,4 @@
-Rainfall - (MM), Year, Statistics, Country, ISO3,
+Rainfall - (MM), Year, Statistics, Country,Code,
 64.7765,1991, Jan Average, Afghanistan, AFG,
 59.4025,1991, Feb Average, Afghanistan, AFG,
 119.625,1991, Mar Average, Afghanistan, AFG,
@@ -3431,318 +3431,318 @@ Rainfall - (MM), Year, Statistics, Country, ISO3,
 63.4341,2016, Oct Average, Azerbaijan, AZE,
 27.001,2016, Nov Average, Azerbaijan, AZE,
 24.1468,2016, Dec Average, Azerbaijan, AZE,
-55.4606,1991, Jan Average, Bahamas, BHS,
-28.9566,1991, Feb Average, Bahamas, BHS,
-62.7395,1991, Mar Average, Bahamas, BHS,
-127.315,1991, Apr Average, Bahamas, BHS,
-96.1168,1991, May Average, Bahamas, BHS,
-181.425,1991, Jun Average, Bahamas, BHS,
-142.522,1991, Jul Average, Bahamas, BHS,
-154.015,1991, Aug Average, Bahamas, BHS,
-196.868,1991, Sep Average, Bahamas, BHS,
-131.166,1991, Oct Average, Bahamas, BHS,
-94.8547,1991, Nov Average, Bahamas, BHS,
-35.0753,1991, Dec Average, Bahamas, BHS,
-17.1381,1992, Jan Average, Bahamas, BHS,
-77.1989,1992, Feb Average, Bahamas, BHS,
-64.9919,1992, Mar Average, Bahamas, BHS,
-121.651,1992, Apr Average, Bahamas, BHS,
-72.1696,1992, May Average, Bahamas, BHS,
-216.837,1992, Jun Average, Bahamas, BHS,
-56.7818,1992, Jul Average, Bahamas, BHS,
-134.473,1992, Aug Average, Bahamas, BHS,
-151.597,1992, Sep Average, Bahamas, BHS,
-51.7644,1992, Oct Average, Bahamas, BHS,
-82.2373,1992, Nov Average, Bahamas, BHS,
-22.3048,1992, Dec Average, Bahamas, BHS,
-111.08,1993, Jan Average, Bahamas, BHS,
-58.743,1993, Feb Average, Bahamas, BHS,
-128.355,1993, Mar Average, Bahamas, BHS,
-158.577,1993, Apr Average, Bahamas, BHS,
-181.813,1993, May Average, Bahamas, BHS,
-117.051,1993, Jun Average, Bahamas, BHS,
-102.262,1993, Jul Average, Bahamas, BHS,
-117.872,1993, Aug Average, Bahamas, BHS,
-154.309,1993, Sep Average, Bahamas, BHS,
-105.119,1993, Oct Average, Bahamas, BHS,
-96.076,1993, Nov Average, Bahamas, BHS,
-27.5756,1993, Dec Average, Bahamas, BHS,
-72.1921,1994, Jan Average, Bahamas, BHS,
-64.0967,1994, Feb Average, Bahamas, BHS,
-62.3027,1994, Mar Average, Bahamas, BHS,
-149.783,1994, Apr Average, Bahamas, BHS,
-139.742,1994, May Average, Bahamas, BHS,
-108.442,1994, Jun Average, Bahamas, BHS,
-95.0275,1994, Jul Average, Bahamas, BHS,
-146.394,1994, Aug Average, Bahamas, BHS,
-169.059,1994, Sep Average, Bahamas, BHS,
-76.7408,1994, Oct Average, Bahamas, BHS,
-147.152,1994, Nov Average, Bahamas, BHS,
-79.7945,1994, Dec Average, Bahamas, BHS,
-48.0331,1995, Jan Average, Bahamas, BHS,
-49.1703,1995, Feb Average, Bahamas, BHS,
-80.7837,1995, Mar Average, Bahamas, BHS,
-130.774,1995, Apr Average, Bahamas, BHS,
-151.172,1995, May Average, Bahamas, BHS,
-288.671,1995, Jun Average, Bahamas, BHS,
-204.659,1995, Jul Average, Bahamas, BHS,
-239.921,1995, Aug Average, Bahamas, BHS,
-211.444,1995, Sep Average, Bahamas, BHS,
-165.073,1995, Oct Average, Bahamas, BHS,
-98.4178,1995, Nov Average, Bahamas, BHS,
-38.1467,1995, Dec Average, Bahamas, BHS,
-52.8372,1996, Jan Average, Bahamas, BHS,
-34.3417,1996, Feb Average, Bahamas, BHS,
-125.902,1996, Mar Average, Bahamas, BHS,
-75.0321,1996, Apr Average, Bahamas, BHS,
-223.412,1996, May Average, Bahamas, BHS,
-244.259,1996, Jun Average, Bahamas, BHS,
-71.3793,1996, Jul Average, Bahamas, BHS,
-160.46,1996, Aug Average, Bahamas, BHS,
-130.628,1996, Sep Average, Bahamas, BHS,
-199.264,1996, Oct Average, Bahamas, BHS,
-66.5482,1996, Nov Average, Bahamas, BHS,
-36.1108,1996, Dec Average, Bahamas, BHS,
-59.8509,1997, Jan Average, Bahamas, BHS,
-39.1258,1997, Feb Average, Bahamas, BHS,
-48.6305,1997, Mar Average, Bahamas, BHS,
-85.6765,1997, Apr Average, Bahamas, BHS,
-100.499,1997, May Average, Bahamas, BHS,
-322.025,1997, Jun Average, Bahamas, BHS,
-133.717,1997, Jul Average, Bahamas, BHS,
-185.73,1997, Aug Average, Bahamas, BHS,
-211.806,1997, Sep Average, Bahamas, BHS,
-72.4752,1997, Oct Average, Bahamas, BHS,
-88.2896,1997, Nov Average, Bahamas, BHS,
-76.4345,1997, Dec Average, Bahamas, BHS,
-44.4884,1998, Jan Average, Bahamas, BHS,
-119.299,1998, Feb Average, Bahamas, BHS,
-196.764,1998, Mar Average, Bahamas, BHS,
-13.9645,1998, Apr Average, Bahamas, BHS,
-59.444,1998, May Average, Bahamas, BHS,
-65.3937,1998, Jun Average, Bahamas, BHS,
-137.448,1998, Jul Average, Bahamas, BHS,
-184.784,1998, Aug Average, Bahamas, BHS,
-211.509,1998, Sep Average, Bahamas, BHS,
-103.807,1998, Oct Average, Bahamas, BHS,
-59.8904,1998, Nov Average, Bahamas, BHS,
-31.9118,1998, Dec Average, Bahamas, BHS,
-46.886,1999, Jan Average, Bahamas, BHS,
-20.4666,1999, Feb Average, Bahamas, BHS,
-22.0099,1999, Mar Average, Bahamas, BHS,
-55.8746,1999, Apr Average, Bahamas, BHS,
-112.334,1999, May Average, Bahamas, BHS,
-184.044,1999, Jun Average, Bahamas, BHS,
-99.5831,1999, Jul Average, Bahamas, BHS,
-124.942,1999, Aug Average, Bahamas, BHS,
-158.026,1999, Sep Average, Bahamas, BHS,
-167.47,1999, Oct Average, Bahamas, BHS,
-50.7065,1999, Nov Average, Bahamas, BHS,
-20.1309,1999, Dec Average, Bahamas, BHS,
-53.5631,2000, Jan Average, Bahamas, BHS,
-69.5341,2000, Feb Average, Bahamas, BHS,
-41.6876,2000, Mar Average, Bahamas, BHS,
-95.6906,2000, Apr Average, Bahamas, BHS,
-52.7924,2000, May Average, Bahamas, BHS,
-134.18,2000, Jun Average, Bahamas, BHS,
-126.532,2000, Jul Average, Bahamas, BHS,
-222.363,2000, Aug Average, Bahamas, BHS,
-202.345,2000, Sep Average, Bahamas, BHS,
-137.873,2000, Oct Average, Bahamas, BHS,
-23.3228,2000, Nov Average, Bahamas, BHS,
-74.239,2000, Dec Average, Bahamas, BHS,
-52.2048,2001, Jan Average, Bahamas, BHS,
-15.0297,2001, Feb Average, Bahamas, BHS,
-141.338,2001, Mar Average, Bahamas, BHS,
-70.6941,2001, Apr Average, Bahamas, BHS,
-249.747,2001, May Average, Bahamas, BHS,
-144.053,2001, Jun Average, Bahamas, BHS,
-181.674,2001, Jul Average, Bahamas, BHS,
-121.643,2001, Aug Average, Bahamas, BHS,
-222.185,2001, Sep Average, Bahamas, BHS,
-180.995,2001, Oct Average, Bahamas, BHS,
-75.4798,2001, Nov Average, Bahamas, BHS,
-67.4855,2001, Dec Average, Bahamas, BHS,
-58.1989,2002, Jan Average, Bahamas, BHS,
-65.023,2002, Feb Average, Bahamas, BHS,
-54.5514,2002, Mar Average, Bahamas, BHS,
-27.1926,2002, Apr Average, Bahamas, BHS,
-226.708,2002, May Average, Bahamas, BHS,
-206.62,2002, Jun Average, Bahamas, BHS,
-131.656,2002, Jul Average, Bahamas, BHS,
-150.229,2002, Aug Average, Bahamas, BHS,
-282.037,2002, Sep Average, Bahamas, BHS,
-76.0759,2002, Oct Average, Bahamas, BHS,
-58.8052,2002, Nov Average, Bahamas, BHS,
-26.4175,2002, Dec Average, Bahamas, BHS,
-51.491,2003, Jan Average, Bahamas, BHS,
-34.5289,2003, Feb Average, Bahamas, BHS,
-128.423,2003, Mar Average, Bahamas, BHS,
-163.807,2003, Apr Average, Bahamas, BHS,
-124.228,2003, May Average, Bahamas, BHS,
-131.843,2003, Jun Average, Bahamas, BHS,
-75.0174,2003, Jul Average, Bahamas, BHS,
-127.243,2003, Aug Average, Bahamas, BHS,
-151.893,2003, Sep Average, Bahamas, BHS,
-113.306,2003, Oct Average, Bahamas, BHS,
-109.8,2003, Nov Average, Bahamas, BHS,
-61.1194,2003, Dec Average, Bahamas, BHS,
-35.5,2004, Jan Average, Bahamas, BHS,
-48.9039,2004, Feb Average, Bahamas, BHS,
-20.299,2004, Mar Average, Bahamas, BHS,
-71.4134,2004, Apr Average, Bahamas, BHS,
-138.808,2004, May Average, Bahamas, BHS,
-91.2828,2004, Jun Average, Bahamas, BHS,
-189.722,2004, Jul Average, Bahamas, BHS,
-164.295,2004, Aug Average, Bahamas, BHS,
-169.685,2004, Sep Average, Bahamas, BHS,
-52.9383,2004, Oct Average, Bahamas, BHS,
-19.8477,2004, Nov Average, Bahamas, BHS,
-23.7904,2004, Dec Average, Bahamas, BHS,
-30.0985,2005, Jan Average, Bahamas, BHS,
-14.5417,2005, Feb Average, Bahamas, BHS,
-64.0493,2005, Mar Average, Bahamas, BHS,
-108.409,2005, Apr Average, Bahamas, BHS,
-110.636,2005, May Average, Bahamas, BHS,
-304.062,2005, Jun Average, Bahamas, BHS,
-88.9193,2005, Jul Average, Bahamas, BHS,
-192.003,2005, Aug Average, Bahamas, BHS,
-192.891,2005, Sep Average, Bahamas, BHS,
-169.906,2005, Oct Average, Bahamas, BHS,
-64.626,2005, Nov Average, Bahamas, BHS,
-31.6078,2005, Dec Average, Bahamas, BHS,
-23.3325,2006, Jan Average, Bahamas, BHS,
-71.6877,2006, Feb Average, Bahamas, BHS,
-17.9631,2006, Mar Average, Bahamas, BHS,
-61.2125,2006, Apr Average, Bahamas, BHS,
-157.82,2006, May Average, Bahamas, BHS,
-162.181,2006, Jun Average, Bahamas, BHS,
-141.228,2006, Jul Average, Bahamas, BHS,
-167.232,2006, Aug Average, Bahamas, BHS,
-174.806,2006, Sep Average, Bahamas, BHS,
-64.2178,2006, Oct Average, Bahamas, BHS,
-88.4125,2006, Nov Average, Bahamas, BHS,
-60.4155,2006, Dec Average, Bahamas, BHS,
-48.0212,2007, Jan Average, Bahamas, BHS,
-87.9302,2007, Feb Average, Bahamas, BHS,
-69.9447,2007, Mar Average, Bahamas, BHS,
-155.56,2007, Apr Average, Bahamas, BHS,
-216.69,2007, May Average, Bahamas, BHS,
-243.374,2007, Jun Average, Bahamas, BHS,
-159.97,2007, Jul Average, Bahamas, BHS,
-107.146,2007, Aug Average, Bahamas, BHS,
-206.585,2007, Sep Average, Bahamas, BHS,
-219.719,2007, Oct Average, Bahamas, BHS,
-55.5364,2007, Nov Average, Bahamas, BHS,
-44.6408,2007, Dec Average, Bahamas, BHS,
-51.5775,2008, Jan Average, Bahamas, BHS,
-52.4473,2008, Feb Average, Bahamas, BHS,
-69.831,2008, Mar Average, Bahamas, BHS,
-63.5406,2008, Apr Average, Bahamas, BHS,
-99.2419,2008, May Average, Bahamas, BHS,
-124.371,2008, Jun Average, Bahamas, BHS,
-154.529,2008, Jul Average, Bahamas, BHS,
-180.427,2008, Aug Average, Bahamas, BHS,
-239.988,2008, Sep Average, Bahamas, BHS,
-96.7867,2008, Oct Average, Bahamas, BHS,
-58.5763,2008, Nov Average, Bahamas, BHS,
-57.0027,2008, Dec Average, Bahamas, BHS,
-32.7355,2009, Jan Average, Bahamas, BHS,
-20.9455,2009, Feb Average, Bahamas, BHS,
-57.6276,2009, Mar Average, Bahamas, BHS,
-47.0016,2009, Apr Average, Bahamas, BHS,
-305.368,2009, May Average, Bahamas, BHS,
-179.93,2009, Jun Average, Bahamas, BHS,
-95.5678,2009, Jul Average, Bahamas, BHS,
-109.191,2009, Aug Average, Bahamas, BHS,
-178.089,2009, Sep Average, Bahamas, BHS,
-46.8917,2009, Oct Average, Bahamas, BHS,
-59.1916,2009, Nov Average, Bahamas, BHS,
-82.3802,2009, Dec Average, Bahamas, BHS,
-30.5255,2010, Jan Average, Bahamas, BHS,
-111.721,2010, Feb Average, Bahamas, BHS,
-65.2336,2010, Mar Average, Bahamas, BHS,
-153.92,2010, Apr Average, Bahamas, BHS,
-78.8508,2010, May Average, Bahamas, BHS,
-79.5644,2010, Jun Average, Bahamas, BHS,
-179.296,2010, Jul Average, Bahamas, BHS,
-174.114,2010, Aug Average, Bahamas, BHS,
-221.9,2010, Sep Average, Bahamas, BHS,
-152.217,2010, Oct Average, Bahamas, BHS,
-61.7514,2010, Nov Average, Bahamas, BHS,
-41.2185,2010, Dec Average, Bahamas, BHS,
-56.8934,2011, Jan Average, Bahamas, BHS,
-27.1801,2011, Feb Average, Bahamas, BHS,
-24.6899,2011, Mar Average, Bahamas, BHS,
-70.2444,2011, Apr Average, Bahamas, BHS,
-60.5368,2011, May Average, Bahamas, BHS,
-117.243,2011, Jun Average, Bahamas, BHS,
-139.497,2011, Jul Average, Bahamas, BHS,
-191.936,2011, Aug Average, Bahamas, BHS,
-241.721,2011, Sep Average, Bahamas, BHS,
-183.437,2011, Oct Average, Bahamas, BHS,
-30.4277,2011, Nov Average, Bahamas, BHS,
-36.0412,2011, Dec Average, Bahamas, BHS,
-10.8735,2012, Jan Average, Bahamas, BHS,
-47.7928,2012, Feb Average, Bahamas, BHS,
-59.6408,2012, Mar Average, Bahamas, BHS,
-187.292,2012, Apr Average, Bahamas, BHS,
-223.129,2012, May Average, Bahamas, BHS,
-153.977,2012, Jun Average, Bahamas, BHS,
-153.065,2012, Jul Average, Bahamas, BHS,
-261.998,2012, Aug Average, Bahamas, BHS,
-210.457,2012, Sep Average, Bahamas, BHS,
-125.248,2012, Oct Average, Bahamas, BHS,
-26.5113,2012, Nov Average, Bahamas, BHS,
-51.599,2012, Dec Average, Bahamas, BHS,
-10.3789,2013, Jan Average, Bahamas, BHS,
-57.0641,2013, Feb Average, Bahamas, BHS,
-34.7738,2013, Mar Average, Bahamas, BHS,
-105.174,2013, Apr Average, Bahamas, BHS,
-217.584,2013, May Average, Bahamas, BHS,
-115.173,2013, Jun Average, Bahamas, BHS,
-208.052,2013, Jul Average, Bahamas, BHS,
-133.955,2013, Aug Average, Bahamas, BHS,
-169.17,2013, Sep Average, Bahamas, BHS,
-64.3868,2013, Oct Average, Bahamas, BHS,
-93.3494,2013, Nov Average, Bahamas, BHS,
-26.0722,2013, Dec Average, Bahamas, BHS,
-61.6012,2014, Jan Average, Bahamas, BHS,
-33.9633,2014, Feb Average, Bahamas, BHS,
-44.3924,2014, Mar Average, Bahamas, BHS,
-157.983,2014, Apr Average, Bahamas, BHS,
-148.362,2014, May Average, Bahamas, BHS,
-291.421,2014, Jun Average, Bahamas, BHS,
-131.545,2014, Jul Average, Bahamas, BHS,
-210.78,2014, Aug Average, Bahamas, BHS,
-145.178,2014, Sep Average, Bahamas, BHS,
-83.4629,2014, Oct Average, Bahamas, BHS,
-82.8271,2014, Nov Average, Bahamas, BHS,
-33.9792,2014, Dec Average, Bahamas, BHS,
-12.7132,2015, Jan Average, Bahamas, BHS,
-58.4886,2015, Feb Average, Bahamas, BHS,
-116.999,2015, Mar Average, Bahamas, BHS,
-103.941,2015, Apr Average, Bahamas, BHS,
-111.377,2015, May Average, Bahamas, BHS,
-133.72,2015, Jun Average, Bahamas, BHS,
-87.2149,2015, Jul Average, Bahamas, BHS,
-191.57,2015, Aug Average, Bahamas, BHS,
-140.762,2015, Sep Average, Bahamas, BHS,
-120.363,2015, Oct Average, Bahamas, BHS,
-81.3283,2015, Nov Average, Bahamas, BHS,
-69.3616,2015, Dec Average, Bahamas, BHS,
-116.119,2016, Jan Average, Bahamas, BHS,
-68.048,2016, Feb Average, Bahamas, BHS,
-65.3507,2016, Mar Average, Bahamas, BHS,
-92.8992,2016, Apr Average, Bahamas, BHS,
-225.613,2016, May Average, Bahamas, BHS,
-153.047,2016, Jun Average, Bahamas, BHS,
-78.7492,2016, Jul Average, Bahamas, BHS,
-171.256,2016, Aug Average, Bahamas, BHS,
-202.744,2016, Sep Average, Bahamas, BHS,
-202.358,2016, Oct Average, Bahamas, BHS,
-46.0235,2016, Nov Average, Bahamas, BHS,
-22.939,2016, Dec Average, Bahamas, BHS,
+55.4606,1991, Jan Average, Bahamas, The, BHS
+28.9566,1991, Feb Average, Bahamas, The, BHS
+62.7395,1991, Mar Average, Bahamas, The, BHS
+127.315,1991, Apr Average, Bahamas, The, BHS
+96.1168,1991, May Average, Bahamas, The, BHS
+181.425,1991, Jun Average, Bahamas, The, BHS
+142.522,1991, Jul Average, Bahamas, The, BHS
+154.015,1991, Aug Average, Bahamas, The, BHS
+196.868,1991, Sep Average, Bahamas, The, BHS
+131.166,1991, Oct Average, Bahamas, The, BHS
+94.8547,1991, Nov Average, Bahamas, The, BHS
+35.0753,1991, Dec Average, Bahamas, The, BHS
+17.1381,1992, Jan Average, Bahamas, The, BHS
+77.1989,1992, Feb Average, Bahamas, The, BHS
+64.9919,1992, Mar Average, Bahamas, The, BHS
+121.651,1992, Apr Average, Bahamas, The, BHS
+72.1696,1992, May Average, Bahamas, The, BHS
+216.837,1992, Jun Average, Bahamas, The, BHS
+56.7818,1992, Jul Average, Bahamas, The, BHS
+134.473,1992, Aug Average, Bahamas, The, BHS
+151.597,1992, Sep Average, Bahamas, The, BHS
+51.7644,1992, Oct Average, Bahamas, The, BHS
+82.2373,1992, Nov Average, Bahamas, The, BHS
+22.3048,1992, Dec Average, Bahamas, The, BHS
+111.08,1993, Jan Average, Bahamas, The, BHS
+58.743,1993, Feb Average, Bahamas, The, BHS
+128.355,1993, Mar Average, Bahamas, The, BHS
+158.577,1993, Apr Average, Bahamas, The, BHS
+181.813,1993, May Average, Bahamas, The, BHS
+117.051,1993, Jun Average, Bahamas, The, BHS
+102.262,1993, Jul Average, Bahamas, The, BHS
+117.872,1993, Aug Average, Bahamas, The, BHS
+154.309,1993, Sep Average, Bahamas, The, BHS
+105.119,1993, Oct Average, Bahamas, The, BHS
+96.076,1993, Nov Average, Bahamas, The, BHS
+27.5756,1993, Dec Average, Bahamas, The, BHS
+72.1921,1994, Jan Average, Bahamas, The, BHS
+64.0967,1994, Feb Average, Bahamas, The, BHS
+62.3027,1994, Mar Average, Bahamas, The, BHS
+149.783,1994, Apr Average, Bahamas, The, BHS
+139.742,1994, May Average, Bahamas, The, BHS
+108.442,1994, Jun Average, Bahamas, The, BHS
+95.0275,1994, Jul Average, Bahamas, The, BHS
+146.394,1994, Aug Average, Bahamas, The, BHS
+169.059,1994, Sep Average, Bahamas, The, BHS
+76.7408,1994, Oct Average, Bahamas, The, BHS
+147.152,1994, Nov Average, Bahamas, The, BHS
+79.7945,1994, Dec Average, Bahamas, The, BHS
+48.0331,1995, Jan Average, Bahamas, The, BHS
+49.1703,1995, Feb Average, Bahamas, The, BHS
+80.7837,1995, Mar Average, Bahamas, The, BHS
+130.774,1995, Apr Average, Bahamas, The, BHS
+151.172,1995, May Average, Bahamas, The, BHS
+288.671,1995, Jun Average, Bahamas, The, BHS
+204.659,1995, Jul Average, Bahamas, The, BHS
+239.921,1995, Aug Average, Bahamas, The, BHS
+211.444,1995, Sep Average, Bahamas, The, BHS
+165.073,1995, Oct Average, Bahamas, The, BHS
+98.4178,1995, Nov Average, Bahamas, The, BHS
+38.1467,1995, Dec Average, Bahamas, The, BHS
+52.8372,1996, Jan Average, Bahamas, The, BHS
+34.3417,1996, Feb Average, Bahamas, The, BHS
+125.902,1996, Mar Average, Bahamas, The, BHS
+75.0321,1996, Apr Average, Bahamas, The, BHS
+223.412,1996, May Average, Bahamas, The, BHS
+244.259,1996, Jun Average, Bahamas, The, BHS
+71.3793,1996, Jul Average, Bahamas, The, BHS
+160.46,1996, Aug Average, Bahamas, The, BHS
+130.628,1996, Sep Average, Bahamas, The, BHS
+199.264,1996, Oct Average, Bahamas, The, BHS
+66.5482,1996, Nov Average, Bahamas, The, BHS
+36.1108,1996, Dec Average, Bahamas, The, BHS
+59.8509,1997, Jan Average, Bahamas, The, BHS
+39.1258,1997, Feb Average, Bahamas, The, BHS
+48.6305,1997, Mar Average, Bahamas, The, BHS
+85.6765,1997, Apr Average, Bahamas, The, BHS
+100.499,1997, May Average, Bahamas, The, BHS
+322.025,1997, Jun Average, Bahamas, The, BHS
+133.717,1997, Jul Average, Bahamas, The, BHS
+185.73,1997, Aug Average, Bahamas, The, BHS
+211.806,1997, Sep Average, Bahamas, The, BHS
+72.4752,1997, Oct Average, Bahamas, The, BHS
+88.2896,1997, Nov Average, Bahamas, The, BHS
+76.4345,1997, Dec Average, Bahamas, The, BHS
+44.4884,1998, Jan Average, Bahamas, The, BHS
+119.299,1998, Feb Average, Bahamas, The, BHS
+196.764,1998, Mar Average, Bahamas, The, BHS
+13.9645,1998, Apr Average, Bahamas, The, BHS
+59.444,1998, May Average, Bahamas, The, BHS
+65.3937,1998, Jun Average, Bahamas, The, BHS
+137.448,1998, Jul Average, Bahamas, The, BHS
+184.784,1998, Aug Average, Bahamas, The, BHS
+211.509,1998, Sep Average, Bahamas, The, BHS
+103.807,1998, Oct Average, Bahamas, The, BHS
+59.8904,1998, Nov Average, Bahamas, The, BHS
+31.9118,1998, Dec Average, Bahamas, The, BHS
+46.886,1999, Jan Average, Bahamas, The, BHS
+20.4666,1999, Feb Average, Bahamas, The, BHS
+22.0099,1999, Mar Average, Bahamas, The, BHS
+55.8746,1999, Apr Average, Bahamas, The, BHS
+112.334,1999, May Average, Bahamas, The, BHS
+184.044,1999, Jun Average, Bahamas, The, BHS
+99.5831,1999, Jul Average, Bahamas, The, BHS
+124.942,1999, Aug Average, Bahamas, The, BHS
+158.026,1999, Sep Average, Bahamas, The, BHS
+167.47,1999, Oct Average, Bahamas, The, BHS
+50.7065,1999, Nov Average, Bahamas, The, BHS
+20.1309,1999, Dec Average, Bahamas, The, BHS
+53.5631,2000, Jan Average, Bahamas, The, BHS
+69.5341,2000, Feb Average, Bahamas, The, BHS
+41.6876,2000, Mar Average, Bahamas, The, BHS
+95.6906,2000, Apr Average, Bahamas, The, BHS
+52.7924,2000, May Average, Bahamas, The, BHS
+134.18,2000, Jun Average, Bahamas, The, BHS
+126.532,2000, Jul Average, Bahamas, The, BHS
+222.363,2000, Aug Average, Bahamas, The, BHS
+202.345,2000, Sep Average, Bahamas, The, BHS
+137.873,2000, Oct Average, Bahamas, The, BHS
+23.3228,2000, Nov Average, Bahamas, The, BHS
+74.239,2000, Dec Average, Bahamas, The, BHS
+52.2048,2001, Jan Average, Bahamas, The, BHS
+15.0297,2001, Feb Average, Bahamas, The, BHS
+141.338,2001, Mar Average, Bahamas, The, BHS
+70.6941,2001, Apr Average, Bahamas, The, BHS
+249.747,2001, May Average, Bahamas, The, BHS
+144.053,2001, Jun Average, Bahamas, The, BHS
+181.674,2001, Jul Average, Bahamas, The, BHS
+121.643,2001, Aug Average, Bahamas, The, BHS
+222.185,2001, Sep Average, Bahamas, The, BHS
+180.995,2001, Oct Average, Bahamas, The, BHS
+75.4798,2001, Nov Average, Bahamas, The, BHS
+67.4855,2001, Dec Average, Bahamas, The, BHS
+58.1989,2002, Jan Average, Bahamas, The, BHS
+65.023,2002, Feb Average, Bahamas, The, BHS
+54.5514,2002, Mar Average, Bahamas, The, BHS
+27.1926,2002, Apr Average, Bahamas, The, BHS
+226.708,2002, May Average, Bahamas, The, BHS
+206.62,2002, Jun Average, Bahamas, The, BHS
+131.656,2002, Jul Average, Bahamas, The, BHS
+150.229,2002, Aug Average, Bahamas, The, BHS
+282.037,2002, Sep Average, Bahamas, The, BHS
+76.0759,2002, Oct Average, Bahamas, The, BHS
+58.8052,2002, Nov Average, Bahamas, The, BHS
+26.4175,2002, Dec Average, Bahamas, The, BHS
+51.491,2003, Jan Average, Bahamas, The, BHS
+34.5289,2003, Feb Average, Bahamas, The, BHS
+128.423,2003, Mar Average, Bahamas, The, BHS
+163.807,2003, Apr Average, Bahamas, The, BHS
+124.228,2003, May Average, Bahamas, The, BHS
+131.843,2003, Jun Average, Bahamas, The, BHS
+75.0174,2003, Jul Average, Bahamas, The, BHS
+127.243,2003, Aug Average, Bahamas, The, BHS
+151.893,2003, Sep Average, Bahamas, The, BHS
+113.306,2003, Oct Average, Bahamas, The, BHS
+109.8,2003, Nov Average, Bahamas, The, BHS
+61.1194,2003, Dec Average, Bahamas, The, BHS
+35.5,2004, Jan Average, Bahamas, The, BHS
+48.9039,2004, Feb Average, Bahamas, The, BHS
+20.299,2004, Mar Average, Bahamas, The, BHS
+71.4134,2004, Apr Average, Bahamas, The, BHS
+138.808,2004, May Average, Bahamas, The, BHS
+91.2828,2004, Jun Average, Bahamas, The, BHS
+189.722,2004, Jul Average, Bahamas, The, BHS
+164.295,2004, Aug Average, Bahamas, The, BHS
+169.685,2004, Sep Average, Bahamas, The, BHS
+52.9383,2004, Oct Average, Bahamas, The, BHS
+19.8477,2004, Nov Average, Bahamas, The, BHS
+23.7904,2004, Dec Average, Bahamas, The, BHS
+30.0985,2005, Jan Average, Bahamas, The, BHS
+14.5417,2005, Feb Average, Bahamas, The, BHS
+64.0493,2005, Mar Average, Bahamas, The, BHS
+108.409,2005, Apr Average, Bahamas, The, BHS
+110.636,2005, May Average, Bahamas, The, BHS
+304.062,2005, Jun Average, Bahamas, The, BHS
+88.9193,2005, Jul Average, Bahamas, The, BHS
+192.003,2005, Aug Average, Bahamas, The, BHS
+192.891,2005, Sep Average, Bahamas, The, BHS
+169.906,2005, Oct Average, Bahamas, The, BHS
+64.626,2005, Nov Average, Bahamas, The, BHS
+31.6078,2005, Dec Average, Bahamas, The, BHS
+23.3325,2006, Jan Average, Bahamas, The, BHS
+71.6877,2006, Feb Average, Bahamas, The, BHS
+17.9631,2006, Mar Average, Bahamas, The, BHS
+61.2125,2006, Apr Average, Bahamas, The, BHS
+157.82,2006, May Average, Bahamas, The, BHS
+162.181,2006, Jun Average, Bahamas, The, BHS
+141.228,2006, Jul Average, Bahamas, The, BHS
+167.232,2006, Aug Average, Bahamas, The, BHS
+174.806,2006, Sep Average, Bahamas, The, BHS
+64.2178,2006, Oct Average, Bahamas, The, BHS
+88.4125,2006, Nov Average, Bahamas, The, BHS
+60.4155,2006, Dec Average, Bahamas, The, BHS
+48.0212,2007, Jan Average, Bahamas, The, BHS
+87.9302,2007, Feb Average, Bahamas, The, BHS
+69.9447,2007, Mar Average, Bahamas, The, BHS
+155.56,2007, Apr Average, Bahamas, The, BHS
+216.69,2007, May Average, Bahamas, The, BHS
+243.374,2007, Jun Average, Bahamas, The, BHS
+159.97,2007, Jul Average, Bahamas, The, BHS
+107.146,2007, Aug Average, Bahamas, The, BHS
+206.585,2007, Sep Average, Bahamas, The, BHS
+219.719,2007, Oct Average, Bahamas, The, BHS
+55.5364,2007, Nov Average, Bahamas, The, BHS
+44.6408,2007, Dec Average, Bahamas, The, BHS
+51.5775,2008, Jan Average, Bahamas, The, BHS
+52.4473,2008, Feb Average, Bahamas, The, BHS
+69.831,2008, Mar Average, Bahamas, The, BHS
+63.5406,2008, Apr Average, Bahamas, The, BHS
+99.2419,2008, May Average, Bahamas, The, BHS
+124.371,2008, Jun Average, Bahamas, The, BHS
+154.529,2008, Jul Average, Bahamas, The, BHS
+180.427,2008, Aug Average, Bahamas, The, BHS
+239.988,2008, Sep Average, Bahamas, The, BHS
+96.7867,2008, Oct Average, Bahamas, The, BHS
+58.5763,2008, Nov Average, Bahamas, The, BHS
+57.0027,2008, Dec Average, Bahamas, The, BHS
+32.7355,2009, Jan Average, Bahamas, The, BHS
+20.9455,2009, Feb Average, Bahamas, The, BHS
+57.6276,2009, Mar Average, Bahamas, The, BHS
+47.0016,2009, Apr Average, Bahamas, The, BHS
+305.368,2009, May Average, Bahamas, The, BHS
+179.93,2009, Jun Average, Bahamas, The, BHS
+95.5678,2009, Jul Average, Bahamas, The, BHS
+109.191,2009, Aug Average, Bahamas, The, BHS
+178.089,2009, Sep Average, Bahamas, The, BHS
+46.8917,2009, Oct Average, Bahamas, The, BHS
+59.1916,2009, Nov Average, Bahamas, The, BHS
+82.3802,2009, Dec Average, Bahamas, The, BHS
+30.5255,2010, Jan Average, Bahamas, The, BHS
+111.721,2010, Feb Average, Bahamas, The, BHS
+65.2336,2010, Mar Average, Bahamas, The, BHS
+153.92,2010, Apr Average, Bahamas, The, BHS
+78.8508,2010, May Average, Bahamas, The, BHS
+79.5644,2010, Jun Average, Bahamas, The, BHS
+179.296,2010, Jul Average, Bahamas, The, BHS
+174.114,2010, Aug Average, Bahamas, The, BHS
+221.9,2010, Sep Average, Bahamas, The, BHS
+152.217,2010, Oct Average, Bahamas, The, BHS
+61.7514,2010, Nov Average, Bahamas, The, BHS
+41.2185,2010, Dec Average, Bahamas, The, BHS
+56.8934,2011, Jan Average, Bahamas, The, BHS
+27.1801,2011, Feb Average, Bahamas, The, BHS
+24.6899,2011, Mar Average, Bahamas, The, BHS
+70.2444,2011, Apr Average, Bahamas, The, BHS
+60.5368,2011, May Average, Bahamas, The, BHS
+117.243,2011, Jun Average, Bahamas, The, BHS
+139.497,2011, Jul Average, Bahamas, The, BHS
+191.936,2011, Aug Average, Bahamas, The, BHS
+241.721,2011, Sep Average, Bahamas, The, BHS
+183.437,2011, Oct Average, Bahamas, The, BHS
+30.4277,2011, Nov Average, Bahamas, The, BHS
+36.0412,2011, Dec Average, Bahamas, The, BHS
+10.8735,2012, Jan Average, Bahamas, The, BHS
+47.7928,2012, Feb Average, Bahamas, The, BHS
+59.6408,2012, Mar Average, Bahamas, The, BHS
+187.292,2012, Apr Average, Bahamas, The, BHS
+223.129,2012, May Average, Bahamas, The, BHS
+153.977,2012, Jun Average, Bahamas, The, BHS
+153.065,2012, Jul Average, Bahamas, The, BHS
+261.998,2012, Aug Average, Bahamas, The, BHS
+210.457,2012, Sep Average, Bahamas, The, BHS
+125.248,2012, Oct Average, Bahamas, The, BHS
+26.5113,2012, Nov Average, Bahamas, The, BHS
+51.599,2012, Dec Average, Bahamas, The, BHS
+10.3789,2013, Jan Average, Bahamas, The, BHS
+57.0641,2013, Feb Average, Bahamas, The, BHS
+34.7738,2013, Mar Average, Bahamas, The, BHS
+105.174,2013, Apr Average, Bahamas, The, BHS
+217.584,2013, May Average, Bahamas, The, BHS
+115.173,2013, Jun Average, Bahamas, The, BHS
+208.052,2013, Jul Average, Bahamas, The, BHS
+133.955,2013, Aug Average, Bahamas, The, BHS
+169.17,2013, Sep Average, Bahamas, The, BHS
+64.3868,2013, Oct Average, Bahamas, The, BHS
+93.3494,2013, Nov Average, Bahamas, The, BHS
+26.0722,2013, Dec Average, Bahamas, The, BHS
+61.6012,2014, Jan Average, Bahamas, The, BHS
+33.9633,2014, Feb Average, Bahamas, The, BHS
+44.3924,2014, Mar Average, Bahamas, The, BHS
+157.983,2014, Apr Average, Bahamas, The, BHS
+148.362,2014, May Average, Bahamas, The, BHS
+291.421,2014, Jun Average, Bahamas, The, BHS
+131.545,2014, Jul Average, Bahamas, The, BHS
+210.78,2014, Aug Average, Bahamas, The, BHS
+145.178,2014, Sep Average, Bahamas, The, BHS
+83.4629,2014, Oct Average, Bahamas, The, BHS
+82.8271,2014, Nov Average, Bahamas, The, BHS
+33.9792,2014, Dec Average, Bahamas, The, BHS
+12.7132,2015, Jan Average, Bahamas, The, BHS
+58.4886,2015, Feb Average, Bahamas, The, BHS
+116.999,2015, Mar Average, Bahamas, The, BHS
+103.941,2015, Apr Average, Bahamas, The, BHS
+111.377,2015, May Average, Bahamas, The, BHS
+133.72,2015, Jun Average, Bahamas, The, BHS
+87.2149,2015, Jul Average, Bahamas, The, BHS
+191.57,2015, Aug Average, Bahamas, The, BHS
+140.762,2015, Sep Average, Bahamas, The, BHS
+120.363,2015, Oct Average, Bahamas, The, BHS
+81.3283,2015, Nov Average, Bahamas, The, BHS
+69.3616,2015, Dec Average, Bahamas, The, BHS
+116.119,2016, Jan Average, Bahamas, The, BHS
+68.048,2016, Feb Average, Bahamas, The, BHS
+65.3507,2016, Mar Average, Bahamas, The, BHS
+92.8992,2016, Apr Average, Bahamas, The, BHS
+225.613,2016, May Average, Bahamas, The, BHS
+153.047,2016, Jun Average, Bahamas, The, BHS
+78.7492,2016, Jul Average, Bahamas, The, BHS
+171.256,2016, Aug Average, Bahamas, The, BHS
+202.744,2016, Sep Average, Bahamas, The, BHS
+202.358,2016, Oct Average, Bahamas, The, BHS
+46.0235,2016, Nov Average, Bahamas, The, BHS
+22.939,2016, Dec Average, Bahamas, The, BHS
 39.5769,1991, Jan Average, Bahrain, BHR,
 3.3618,1991, Feb Average, Bahrain, BHR,
 23.3478,1991, Mar Average, Bahrain, BHR,
@@ -19655,318 +19655,318 @@ Rainfall - (MM), Year, Statistics, Country, ISO3,
 204.42,2016, Oct Average, Gabon, GAB,
 276.945,2016, Nov Average, Gabon, GAB,
 183.193,2016, Dec Average, Gabon, GAB,
-0.05328,1991, Jan Average, Gambia, The, GMB
-0.00532,1991, Feb Average, Gambia, The, GMB
-0.01159,1991, Mar Average, Gambia, The, GMB
-0.0442,1991, Apr Average, Gambia, The, GMB
-0.47415,1991, May Average, Gambia, The, GMB
-30.5946,1991, Jun Average, Gambia, The, GMB
-232.679,1991, Jul Average, Gambia, The, GMB
-228.855,1991, Aug Average, Gambia, The, GMB
-203.295,1991, Sep Average, Gambia, The, GMB
-111.805,1991, Oct Average, Gambia, The, GMB
-0.38742,1991, Nov Average, Gambia, The, GMB
-0.10918,1991, Dec Average, Gambia, The, GMB
-0.18266,1992, Jan Average, Gambia, The, GMB
-0.99476,1992, Feb Average, Gambia, The, GMB
-0.25591,1992, Mar Average, Gambia, The, GMB
-1.062,1992, Apr Average, Gambia, The, GMB
-23.1495,1992, May Average, Gambia, The, GMB
-84.506,1992, Jun Average, Gambia, The, GMB
-196.944,1992, Jul Average, Gambia, The, GMB
-328.985,1992, Aug Average, Gambia, The, GMB
-221.043,1992, Sep Average, Gambia, The, GMB
-58.883,1992, Oct Average, Gambia, The, GMB
-2.29288,1992, Nov Average, Gambia, The, GMB
-0.05474,1992, Dec Average, Gambia, The, GMB
-0.23145,1993, Jan Average, Gambia, The, GMB
-0.07694,1993, Feb Average, Gambia, The, GMB
-0.02568,1993, Mar Average, Gambia, The, GMB
-4.01082,1993, Apr Average, Gambia, The, GMB
-1.87179,1993, May Average, Gambia, The, GMB
-65.2939,1993, Jun Average, Gambia, The, GMB
-265.531,1993, Jul Average, Gambia, The, GMB
-311.322,1993, Aug Average, Gambia, The, GMB
-188.338,1993, Sep Average, Gambia, The, GMB
-64.177,1993, Oct Average, Gambia, The, GMB
-8.14744,1993, Nov Average, Gambia, The, GMB
-0.30555,1993, Dec Average, Gambia, The, GMB
-0.00289,1994, Jan Average, Gambia, The, GMB
-0.01503,1994, Feb Average, Gambia, The, GMB
-0.02513,1994, Mar Average, Gambia, The, GMB
-0.11877,1994, Apr Average, Gambia, The, GMB
-6.1493,1994, May Average, Gambia, The, GMB
-74.1491,1994, Jun Average, Gambia, The, GMB
-251.221,1994, Jul Average, Gambia, The, GMB
-374.986,1994, Aug Average, Gambia, The, GMB
-260.746,1994, Sep Average, Gambia, The, GMB
-80.6589,1994, Oct Average, Gambia, The, GMB
-16.5069,1994, Nov Average, Gambia, The, GMB
-0.01641,1994, Dec Average, Gambia, The, GMB
-0.00289,1995, Jan Average, Gambia, The, GMB
-0.05785,1995, Feb Average, Gambia, The, GMB
-0.00096,1995, Mar Average, Gambia, The, GMB
-0.03294,1995, Apr Average, Gambia, The, GMB
-7.20362,1995, May Average, Gambia, The, GMB
-90.5613,1995, Jun Average, Gambia, The, GMB
-196.573,1995, Jul Average, Gambia, The, GMB
-340.816,1995, Aug Average, Gambia, The, GMB
-210.977,1995, Sep Average, Gambia, The, GMB
-92.5211,1995, Oct Average, Gambia, The, GMB
-0.92731,1995, Nov Average, Gambia, The, GMB
-1.67615,1995, Dec Average, Gambia, The, GMB
-0,1996, Jan Average, Gambia, The, GMB
-0.01503,1996, Feb Average, Gambia, The, GMB
-0.06652,1996, Mar Average, Gambia, The, GMB
-0.00191,1996, Apr Average, Gambia, The, GMB
-6.96167,1996, May Average, Gambia, The, GMB
-48.8976,1996, Jun Average, Gambia, The, GMB
-241.405,1996, Jul Average, Gambia, The, GMB
-298.971,1996, Aug Average, Gambia, The, GMB
-180.345,1996, Sep Average, Gambia, The, GMB
-71.0563,1996, Oct Average, Gambia, The, GMB
-10.0683,1996, Nov Average, Gambia, The, GMB
-0.2221,1996, Dec Average, Gambia, The, GMB
-0.03593,1997, Jan Average, Gambia, The, GMB
-0,1997, Feb Average, Gambia, The, GMB
-0,1997, Mar Average, Gambia, The, GMB
-0.06311,1997, Apr Average, Gambia, The, GMB
-31.7675,1997, May Average, Gambia, The, GMB
-156.227,1997, Jun Average, Gambia, The, GMB
-122.985,1997, Jul Average, Gambia, The, GMB
-310.563,1997, Aug Average, Gambia, The, GMB
-215.63,1997, Sep Average, Gambia, The, GMB
-55.8995,1997, Oct Average, Gambia, The, GMB
-0.77005,1997, Nov Average, Gambia, The, GMB
-0,1997, Dec Average, Gambia, The, GMB
-0,1998, Jan Average, Gambia, The, GMB
-9.00E-05,1998, Feb Average, Gambia, The, GMB
-0,1998, Mar Average, Gambia, The, GMB
-0.00912,1998, Apr Average, Gambia, The, GMB
-1.40775,1998, May Average, Gambia, The, GMB
-52.6423,1998, Jun Average, Gambia, The, GMB
-189.462,1998, Jul Average, Gambia, The, GMB
-313.68,1998, Aug Average, Gambia, The, GMB
-283.41,1998, Sep Average, Gambia, The, GMB
-41.3623,1998, Oct Average, Gambia, The, GMB
-0,1998, Nov Average, Gambia, The, GMB
-0,1998, Dec Average, Gambia, The, GMB
-0.00918,1999, Jan Average, Gambia, The, GMB
-0.07085,1999, Feb Average, Gambia, The, GMB
-0,1999, Mar Average, Gambia, The, GMB
-0.42868,1999, Apr Average, Gambia, The, GMB
-12.0783,1999, May Average, Gambia, The, GMB
-80.8587,1999, Jun Average, Gambia, The, GMB
-240.283,1999, Jul Average, Gambia, The, GMB
-455.8,1999, Aug Average, Gambia, The, GMB
-242.718,1999, Sep Average, Gambia, The, GMB
-204.655,1999, Oct Average, Gambia, The, GMB
-2.83296,1999, Nov Average, Gambia, The, GMB
-0.09545,1999, Dec Average, Gambia, The, GMB
-0.02214,2000, Jan Average, Gambia, The, GMB
-0.00162,2000, Feb Average, Gambia, The, GMB
-0,2000, Mar Average, Gambia, The, GMB
-0.06117,2000, Apr Average, Gambia, The, GMB
-0.89701,2000, May Average, Gambia, The, GMB
-73.719,2000, Jun Average, Gambia, The, GMB
-243.619,2000, Jul Average, Gambia, The, GMB
-290.133,2000, Aug Average, Gambia, The, GMB
-229.593,2000, Sep Average, Gambia, The, GMB
-147.731,2000, Oct Average, Gambia, The, GMB
-3.46519,2000, Nov Average, Gambia, The, GMB
-0,2000, Dec Average, Gambia, The, GMB
-0,2001, Jan Average, Gambia, The, GMB
-0,2001, Feb Average, Gambia, The, GMB
-0,2001, Mar Average, Gambia, The, GMB
-0.04517,2001, Apr Average, Gambia, The, GMB
-0.15873,2001, May Average, Gambia, The, GMB
-141.67,2001, Jun Average, Gambia, The, GMB
-233.295,2001, Jul Average, Gambia, The, GMB
-220.477,2001, Aug Average, Gambia, The, GMB
-222.204,2001, Sep Average, Gambia, The, GMB
-45.6538,2001, Oct Average, Gambia, The, GMB
-33.8013,2001, Nov Average, Gambia, The, GMB
-0,2001, Dec Average, Gambia, The, GMB
-0.11756,2002, Jan Average, Gambia, The, GMB
-0,2002, Feb Average, Gambia, The, GMB
-0,2002, Mar Average, Gambia, The, GMB
-0.07421,2002, Apr Average, Gambia, The, GMB
-5.59069,2002, May Average, Gambia, The, GMB
-73.025,2002, Jun Average, Gambia, The, GMB
-78.6654,2002, Jul Average, Gambia, The, GMB
-228.43,2002, Aug Average, Gambia, The, GMB
-198.918,2002, Sep Average, Gambia, The, GMB
-93.9009,2002, Oct Average, Gambia, The, GMB
-0,2002, Nov Average, Gambia, The, GMB
-0.30411,2002, Dec Average, Gambia, The, GMB
-0,2003, Jan Average, Gambia, The, GMB
-0.4497,2003, Feb Average, Gambia, The, GMB
-0,2003, Mar Average, Gambia, The, GMB
-0.31245,2003, Apr Average, Gambia, The, GMB
-0.59882,2003, May Average, Gambia, The, GMB
-117.099,2003, Jun Average, Gambia, The, GMB
-235.627,2003, Jul Average, Gambia, The, GMB
-368.062,2003, Aug Average, Gambia, The, GMB
-278.265,2003, Sep Average, Gambia, The, GMB
-86.8288,2003, Oct Average, Gambia, The, GMB
-2.03429,2003, Nov Average, Gambia, The, GMB
-0,2003, Dec Average, Gambia, The, GMB
-0.08982,2004, Jan Average, Gambia, The, GMB
-0.24236,2004, Feb Average, Gambia, The, GMB
-0,2004, Mar Average, Gambia, The, GMB
-0.02102,2004, Apr Average, Gambia, The, GMB
-20.9179,2004, May Average, Gambia, The, GMB
-115.021,2004, Jun Average, Gambia, The, GMB
-242.256,2004, Jul Average, Gambia, The, GMB
-283.924,2004, Aug Average, Gambia, The, GMB
-188.549,2004, Sep Average, Gambia, The, GMB
-13.6571,2004, Oct Average, Gambia, The, GMB
-2.09485,2004, Nov Average, Gambia, The, GMB
-0,2004, Dec Average, Gambia, The, GMB
-0,2005, Jan Average, Gambia, The, GMB
-0.61848,2005, Feb Average, Gambia, The, GMB
-0.08038,2005, Mar Average, Gambia, The, GMB
-0,2005, Apr Average, Gambia, The, GMB
-31.7224,2005, May Average, Gambia, The, GMB
-112.284,2005, Jun Average, Gambia, The, GMB
-314.656,2005, Jul Average, Gambia, The, GMB
-329.172,2005, Aug Average, Gambia, The, GMB
-297.055,2005, Sep Average, Gambia, The, GMB
-101.025,2005, Oct Average, Gambia, The, GMB
-0.54673,2005, Nov Average, Gambia, The, GMB
-0,2005, Dec Average, Gambia, The, GMB
-0,2006, Jan Average, Gambia, The, GMB
-0.02077,2006, Feb Average, Gambia, The, GMB
-0,2006, Mar Average, Gambia, The, GMB
-0,2006, Apr Average, Gambia, The, GMB
-3.47384,2006, May Average, Gambia, The, GMB
-121.047,2006, Jun Average, Gambia, The, GMB
-151.929,2006, Jul Average, Gambia, The, GMB
-379.628,2006, Aug Average, Gambia, The, GMB
-274.488,2006, Sep Average, Gambia, The, GMB
-100.205,2006, Oct Average, Gambia, The, GMB
-0,2006, Nov Average, Gambia, The, GMB
-0,2006, Dec Average, Gambia, The, GMB
-0,2007, Jan Average, Gambia, The, GMB
-0,2007, Feb Average, Gambia, The, GMB
-0,2007, Mar Average, Gambia, The, GMB
-0,2007, Apr Average, Gambia, The, GMB
-14.9001,2007, May Average, Gambia, The, GMB
-47.2019,2007, Jun Average, Gambia, The, GMB
-197.242,2007, Jul Average, Gambia, The, GMB
-275.847,2007, Aug Average, Gambia, The, GMB
-296.508,2007, Sep Average, Gambia, The, GMB
-59.9995,2007, Oct Average, Gambia, The, GMB
-12.0698,2007, Nov Average, Gambia, The, GMB
-0,2007, Dec Average, Gambia, The, GMB
-0,2008, Jan Average, Gambia, The, GMB
-0.60356,2008, Feb Average, Gambia, The, GMB
-0,2008, Mar Average, Gambia, The, GMB
-0,2008, Apr Average, Gambia, The, GMB
-6.56239,2008, May Average, Gambia, The, GMB
-156.505,2008, Jun Average, Gambia, The, GMB
-300.867,2008, Jul Average, Gambia, The, GMB
-359.189,2008, Aug Average, Gambia, The, GMB
-255.494,2008, Sep Average, Gambia, The, GMB
-89.4403,2008, Oct Average, Gambia, The, GMB
-0,2008, Nov Average, Gambia, The, GMB
-0,2008, Dec Average, Gambia, The, GMB
-0,2009, Jan Average, Gambia, The, GMB
-0,2009, Feb Average, Gambia, The, GMB
-0.01677,2009, Mar Average, Gambia, The, GMB
-0,2009, Apr Average, Gambia, The, GMB
-8.51253,2009, May Average, Gambia, The, GMB
-66.6138,2009, Jun Average, Gambia, The, GMB
-299.098,2009, Jul Average, Gambia, The, GMB
-390.64,2009, Aug Average, Gambia, The, GMB
-272.215,2009, Sep Average, Gambia, The, GMB
-46.9528,2009, Oct Average, Gambia, The, GMB
-0.02621,2009, Nov Average, Gambia, The, GMB
-0.0156,2009, Dec Average, Gambia, The, GMB
-0,2010, Jan Average, Gambia, The, GMB
-0,2010, Feb Average, Gambia, The, GMB
-0,2010, Mar Average, Gambia, The, GMB
-0.46467,2010, Apr Average, Gambia, The, GMB
-4.56104,2010, May Average, Gambia, The, GMB
-105.763,2010, Jun Average, Gambia, The, GMB
-272.59,2010, Jul Average, Gambia, The, GMB
-330.423,2010, Aug Average, Gambia, The, GMB
-410.748,2010, Sep Average, Gambia, The, GMB
-59.071,2010, Oct Average, Gambia, The, GMB
-3.86653,2010, Nov Average, Gambia, The, GMB
-0,2010, Dec Average, Gambia, The, GMB
-0,2011, Jan Average, Gambia, The, GMB
-0,2011, Feb Average, Gambia, The, GMB
-0,2011, Mar Average, Gambia, The, GMB
-0.00025,2011, Apr Average, Gambia, The, GMB
-8.06507,2011, May Average, Gambia, The, GMB
-73.6311,2011, Jun Average, Gambia, The, GMB
-159.981,2011, Jul Average, Gambia, The, GMB
-366.896,2011, Aug Average, Gambia, The, GMB
-210.035,2011, Sep Average, Gambia, The, GMB
-71.3388,2011, Oct Average, Gambia, The, GMB
-0,2011, Nov Average, Gambia, The, GMB
-0.00272,2011, Dec Average, Gambia, The, GMB
-0,2012, Jan Average, Gambia, The, GMB
-0,2012, Feb Average, Gambia, The, GMB
-0,2012, Mar Average, Gambia, The, GMB
-0.64372,2012, Apr Average, Gambia, The, GMB
-29.0286,2012, May Average, Gambia, The, GMB
-104.24,2012, Jun Average, Gambia, The, GMB
-209.393,2012, Jul Average, Gambia, The, GMB
-347.489,2012, Aug Average, Gambia, The, GMB
-346.083,2012, Sep Average, Gambia, The, GMB
-86.2949,2012, Oct Average, Gambia, The, GMB
-0,2012, Nov Average, Gambia, The, GMB
-0.00604,2012, Dec Average, Gambia, The, GMB
-0,2013, Jan Average, Gambia, The, GMB
-0,2013, Feb Average, Gambia, The, GMB
-0,2013, Mar Average, Gambia, The, GMB
-0.19873,2013, Apr Average, Gambia, The, GMB
-15.1671,2013, May Average, Gambia, The, GMB
-86.2116,2013, Jun Average, Gambia, The, GMB
-181.828,2013, Jul Average, Gambia, The, GMB
-389.214,2013, Aug Average, Gambia, The, GMB
-285.55,2013, Sep Average, Gambia, The, GMB
-98.8116,2013, Oct Average, Gambia, The, GMB
-5.37615,2013, Nov Average, Gambia, The, GMB
-0.01173,2013, Dec Average, Gambia, The, GMB
-0.01525,2014, Jan Average, Gambia, The, GMB
-0.08506,2014, Feb Average, Gambia, The, GMB
-0,2014, Mar Average, Gambia, The, GMB
-0,2014, Apr Average, Gambia, The, GMB
-38.6837,2014, May Average, Gambia, The, GMB
-38.8571,2014, Jun Average, Gambia, The, GMB
-172.952,2014, Jul Average, Gambia, The, GMB
-329.896,2014, Aug Average, Gambia, The, GMB
-234.997,2014, Sep Average, Gambia, The, GMB
-120.505,2014, Oct Average, Gambia, The, GMB
-0.0426,2014, Nov Average, Gambia, The, GMB
-0,2014, Dec Average, Gambia, The, GMB
-0,2015, Jan Average, Gambia, The, GMB
-0.05051,2015, Feb Average, Gambia, The, GMB
-0.03377,2015, Mar Average, Gambia, The, GMB
-0.12319,2015, Apr Average, Gambia, The, GMB
-1.3121,2015, May Average, Gambia, The, GMB
-48.2768,2015, Jun Average, Gambia, The, GMB
-165.526,2015, Jul Average, Gambia, The, GMB
-440.016,2015, Aug Average, Gambia, The, GMB
-221.788,2015, Sep Average, Gambia, The, GMB
-154.853,2015, Oct Average, Gambia, The, GMB
-1.13946,2015, Nov Average, Gambia, The, GMB
-0.3147,2015, Dec Average, Gambia, The, GMB
-0,2016, Jan Average, Gambia, The, GMB
-0.15968,2016, Feb Average, Gambia, The, GMB
-0,2016, Mar Average, Gambia, The, GMB
-0.10754,2016, Apr Average, Gambia, The, GMB
-10.8883,2016, May Average, Gambia, The, GMB
-36.0758,2016, Jun Average, Gambia, The, GMB
-306.235,2016, Jul Average, Gambia, The, GMB
-306.786,2016, Aug Average, Gambia, The, GMB
-354.773,2016, Sep Average, Gambia, The, GMB
-22.9583,2016, Oct Average, Gambia, The, GMB
-0.45825,2016, Nov Average, Gambia, The, GMB
-0,2016, Dec Average, Gambia, The, GMB
+0.05328,1991, Jan Average, Gambia, GMB,
+0.00532,1991, Feb Average, Gambia, GMB,
+0.01159,1991, Mar Average, Gambia, GMB,
+0.0442,1991, Apr Average, Gambia, GMB,
+0.47415,1991, May Average, Gambia, GMB,
+30.5946,1991, Jun Average, Gambia, GMB,
+232.679,1991, Jul Average, Gambia, GMB,
+228.855,1991, Aug Average, Gambia, GMB,
+203.295,1991, Sep Average, Gambia, GMB,
+111.805,1991, Oct Average, Gambia, GMB,
+0.38742,1991, Nov Average, Gambia, GMB,
+0.10918,1991, Dec Average, Gambia, GMB,
+0.18266,1992, Jan Average, Gambia, GMB,
+0.99476,1992, Feb Average, Gambia, GMB,
+0.25591,1992, Mar Average, Gambia, GMB,
+1.062,1992, Apr Average, Gambia, GMB,
+23.1495,1992, May Average, Gambia, GMB,
+84.506,1992, Jun Average, Gambia, GMB,
+196.944,1992, Jul Average, Gambia, GMB,
+328.985,1992, Aug Average, Gambia, GMB,
+221.043,1992, Sep Average, Gambia, GMB,
+58.883,1992, Oct Average, Gambia, GMB,
+2.29288,1992, Nov Average, Gambia, GMB,
+0.05474,1992, Dec Average, Gambia, GMB,
+0.23145,1993, Jan Average, Gambia, GMB,
+0.07694,1993, Feb Average, Gambia, GMB,
+0.02568,1993, Mar Average, Gambia, GMB,
+4.01082,1993, Apr Average, Gambia, GMB,
+1.87179,1993, May Average, Gambia, GMB,
+65.2939,1993, Jun Average, Gambia, GMB,
+265.531,1993, Jul Average, Gambia, GMB,
+311.322,1993, Aug Average, Gambia, GMB,
+188.338,1993, Sep Average, Gambia, GMB,
+64.177,1993, Oct Average, Gambia, GMB,
+8.14744,1993, Nov Average, Gambia, GMB,
+0.30555,1993, Dec Average, Gambia, GMB,
+0.00289,1994, Jan Average, Gambia, GMB,
+0.01503,1994, Feb Average, Gambia, GMB,
+0.02513,1994, Mar Average, Gambia, GMB,
+0.11877,1994, Apr Average, Gambia, GMB,
+6.1493,1994, May Average, Gambia, GMB,
+74.1491,1994, Jun Average, Gambia, GMB,
+251.221,1994, Jul Average, Gambia, GMB,
+374.986,1994, Aug Average, Gambia, GMB,
+260.746,1994, Sep Average, Gambia, GMB,
+80.6589,1994, Oct Average, Gambia, GMB,
+16.5069,1994, Nov Average, Gambia, GMB,
+0.01641,1994, Dec Average, Gambia, GMB,
+0.00289,1995, Jan Average, Gambia, GMB,
+0.05785,1995, Feb Average, Gambia, GMB,
+0.00096,1995, Mar Average, Gambia, GMB,
+0.03294,1995, Apr Average, Gambia, GMB,
+7.20362,1995, May Average, Gambia, GMB,
+90.5613,1995, Jun Average, Gambia, GMB,
+196.573,1995, Jul Average, Gambia, GMB,
+340.816,1995, Aug Average, Gambia, GMB,
+210.977,1995, Sep Average, Gambia, GMB,
+92.5211,1995, Oct Average, Gambia, GMB,
+0.92731,1995, Nov Average, Gambia, GMB,
+1.67615,1995, Dec Average, Gambia, GMB,
+0,1996, Jan Average, Gambia, GMB,
+0.01503,1996, Feb Average, Gambia, GMB,
+0.06652,1996, Mar Average, Gambia, GMB,
+0.00191,1996, Apr Average, Gambia, GMB,
+6.96167,1996, May Average, Gambia, GMB,
+48.8976,1996, Jun Average, Gambia, GMB,
+241.405,1996, Jul Average, Gambia, GMB,
+298.971,1996, Aug Average, Gambia, GMB,
+180.345,1996, Sep Average, Gambia, GMB,
+71.0563,1996, Oct Average, Gambia, GMB,
+10.0683,1996, Nov Average, Gambia, GMB,
+0.2221,1996, Dec Average, Gambia, GMB,
+0.03593,1997, Jan Average, Gambia, GMB,
+0,1997, Feb Average, Gambia, GMB,
+0,1997, Mar Average, Gambia, GMB,
+0.06311,1997, Apr Average, Gambia, GMB,
+31.7675,1997, May Average, Gambia, GMB,
+156.227,1997, Jun Average, Gambia, GMB,
+122.985,1997, Jul Average, Gambia, GMB,
+310.563,1997, Aug Average, Gambia, GMB,
+215.63,1997, Sep Average, Gambia, GMB,
+55.8995,1997, Oct Average, Gambia, GMB,
+0.77005,1997, Nov Average, Gambia, GMB,
+0,1997, Dec Average, Gambia, GMB,
+0,1998, Jan Average, Gambia, GMB,
+9.00E-05,1998, Feb Average, Gambia, GMB,
+0,1998, Mar Average, Gambia, GMB,
+0.00912,1998, Apr Average, Gambia, GMB,
+1.40775,1998, May Average, Gambia, GMB,
+52.6423,1998, Jun Average, Gambia, GMB,
+189.462,1998, Jul Average, Gambia, GMB,
+313.68,1998, Aug Average, Gambia, GMB,
+283.41,1998, Sep Average, Gambia, GMB,
+41.3623,1998, Oct Average, Gambia, GMB,
+0,1998, Nov Average, Gambia, GMB,
+0,1998, Dec Average, Gambia, GMB,
+0.00918,1999, Jan Average, Gambia, GMB,
+0.07085,1999, Feb Average, Gambia, GMB,
+0,1999, Mar Average, Gambia, GMB,
+0.42868,1999, Apr Average, Gambia, GMB,
+12.0783,1999, May Average, Gambia, GMB,
+80.8587,1999, Jun Average, Gambia, GMB,
+240.283,1999, Jul Average, Gambia, GMB,
+455.8,1999, Aug Average, Gambia, GMB,
+242.718,1999, Sep Average, Gambia, GMB,
+204.655,1999, Oct Average, Gambia, GMB,
+2.83296,1999, Nov Average, Gambia, GMB,
+0.09545,1999, Dec Average, Gambia, GMB,
+0.02214,2000, Jan Average, Gambia, GMB,
+0.00162,2000, Feb Average, Gambia, GMB,
+0,2000, Mar Average, Gambia, GMB,
+0.06117,2000, Apr Average, Gambia, GMB,
+0.89701,2000, May Average, Gambia, GMB,
+73.719,2000, Jun Average, Gambia, GMB,
+243.619,2000, Jul Average, Gambia, GMB,
+290.133,2000, Aug Average, Gambia, GMB,
+229.593,2000, Sep Average, Gambia, GMB,
+147.731,2000, Oct Average, Gambia, GMB,
+3.46519,2000, Nov Average, Gambia, GMB,
+0,2000, Dec Average, Gambia, GMB,
+0,2001, Jan Average, Gambia, GMB,
+0,2001, Feb Average, Gambia, GMB,
+0,2001, Mar Average, Gambia, GMB,
+0.04517,2001, Apr Average, Gambia, GMB,
+0.15873,2001, May Average, Gambia, GMB,
+141.67,2001, Jun Average, Gambia, GMB,
+233.295,2001, Jul Average, Gambia, GMB,
+220.477,2001, Aug Average, Gambia, GMB,
+222.204,2001, Sep Average, Gambia, GMB,
+45.6538,2001, Oct Average, Gambia, GMB,
+33.8013,2001, Nov Average, Gambia, GMB,
+0,2001, Dec Average, Gambia, GMB,
+0.11756,2002, Jan Average, Gambia, GMB,
+0,2002, Feb Average, Gambia, GMB,
+0,2002, Mar Average, Gambia, GMB,
+0.07421,2002, Apr Average, Gambia, GMB,
+5.59069,2002, May Average, Gambia, GMB,
+73.025,2002, Jun Average, Gambia, GMB,
+78.6654,2002, Jul Average, Gambia, GMB,
+228.43,2002, Aug Average, Gambia, GMB,
+198.918,2002, Sep Average, Gambia, GMB,
+93.9009,2002, Oct Average, Gambia, GMB,
+0,2002, Nov Average, Gambia, GMB,
+0.30411,2002, Dec Average, Gambia, GMB,
+0,2003, Jan Average, Gambia, GMB,
+0.4497,2003, Feb Average, Gambia, GMB,
+0,2003, Mar Average, Gambia, GMB,
+0.31245,2003, Apr Average, Gambia, GMB,
+0.59882,2003, May Average, Gambia, GMB,
+117.099,2003, Jun Average, Gambia, GMB,
+235.627,2003, Jul Average, Gambia, GMB,
+368.062,2003, Aug Average, Gambia, GMB,
+278.265,2003, Sep Average, Gambia, GMB,
+86.8288,2003, Oct Average, Gambia, GMB,
+2.03429,2003, Nov Average, Gambia, GMB,
+0,2003, Dec Average, Gambia, GMB,
+0.08982,2004, Jan Average, Gambia, GMB,
+0.24236,2004, Feb Average, Gambia, GMB,
+0,2004, Mar Average, Gambia, GMB,
+0.02102,2004, Apr Average, Gambia, GMB,
+20.9179,2004, May Average, Gambia, GMB,
+115.021,2004, Jun Average, Gambia, GMB,
+242.256,2004, Jul Average, Gambia, GMB,
+283.924,2004, Aug Average, Gambia, GMB,
+188.549,2004, Sep Average, Gambia, GMB,
+13.6571,2004, Oct Average, Gambia, GMB,
+2.09485,2004, Nov Average, Gambia, GMB,
+0,2004, Dec Average, Gambia, GMB,
+0,2005, Jan Average, Gambia, GMB,
+0.61848,2005, Feb Average, Gambia, GMB,
+0.08038,2005, Mar Average, Gambia, GMB,
+0,2005, Apr Average, Gambia, GMB,
+31.7224,2005, May Average, Gambia, GMB,
+112.284,2005, Jun Average, Gambia, GMB,
+314.656,2005, Jul Average, Gambia, GMB,
+329.172,2005, Aug Average, Gambia, GMB,
+297.055,2005, Sep Average, Gambia, GMB,
+101.025,2005, Oct Average, Gambia, GMB,
+0.54673,2005, Nov Average, Gambia, GMB,
+0,2005, Dec Average, Gambia, GMB,
+0,2006, Jan Average, Gambia, GMB,
+0.02077,2006, Feb Average, Gambia, GMB,
+0,2006, Mar Average, Gambia, GMB,
+0,2006, Apr Average, Gambia, GMB,
+3.47384,2006, May Average, Gambia, GMB,
+121.047,2006, Jun Average, Gambia, GMB,
+151.929,2006, Jul Average, Gambia, GMB,
+379.628,2006, Aug Average, Gambia, GMB,
+274.488,2006, Sep Average, Gambia, GMB,
+100.205,2006, Oct Average, Gambia, GMB,
+0,2006, Nov Average, Gambia, GMB,
+0,2006, Dec Average, Gambia, GMB,
+0,2007, Jan Average, Gambia, GMB,
+0,2007, Feb Average, Gambia, GMB,
+0,2007, Mar Average, Gambia, GMB,
+0,2007, Apr Average, Gambia, GMB,
+14.9001,2007, May Average, Gambia, GMB,
+47.2019,2007, Jun Average, Gambia, GMB,
+197.242,2007, Jul Average, Gambia, GMB,
+275.847,2007, Aug Average, Gambia, GMB,
+296.508,2007, Sep Average, Gambia, GMB,
+59.9995,2007, Oct Average, Gambia, GMB,
+12.0698,2007, Nov Average, Gambia, GMB,
+0,2007, Dec Average, Gambia, GMB,
+0,2008, Jan Average, Gambia, GMB,
+0.60356,2008, Feb Average, Gambia, GMB,
+0,2008, Mar Average, Gambia, GMB,
+0,2008, Apr Average, Gambia, GMB,
+6.56239,2008, May Average, Gambia, GMB,
+156.505,2008, Jun Average, Gambia, GMB,
+300.867,2008, Jul Average, Gambia, GMB,
+359.189,2008, Aug Average, Gambia, GMB,
+255.494,2008, Sep Average, Gambia, GMB,
+89.4403,2008, Oct Average, Gambia, GMB,
+0,2008, Nov Average, Gambia, GMB,
+0,2008, Dec Average, Gambia, GMB,
+0,2009, Jan Average, Gambia, GMB,
+0,2009, Feb Average, Gambia, GMB,
+0.01677,2009, Mar Average, Gambia, GMB,
+0,2009, Apr Average, Gambia, GMB,
+8.51253,2009, May Average, Gambia, GMB,
+66.6138,2009, Jun Average, Gambia, GMB,
+299.098,2009, Jul Average, Gambia, GMB,
+390.64,2009, Aug Average, Gambia, GMB,
+272.215,2009, Sep Average, Gambia, GMB,
+46.9528,2009, Oct Average, Gambia, GMB,
+0.02621,2009, Nov Average, Gambia, GMB,
+0.0156,2009, Dec Average, Gambia, GMB,
+0,2010, Jan Average, Gambia, GMB,
+0,2010, Feb Average, Gambia, GMB,
+0,2010, Mar Average, Gambia, GMB,
+0.46467,2010, Apr Average, Gambia, GMB,
+4.56104,2010, May Average, Gambia, GMB,
+105.763,2010, Jun Average, Gambia, GMB,
+272.59,2010, Jul Average, Gambia, GMB,
+330.423,2010, Aug Average, Gambia, GMB,
+410.748,2010, Sep Average, Gambia, GMB,
+59.071,2010, Oct Average, Gambia, GMB,
+3.86653,2010, Nov Average, Gambia, GMB,
+0,2010, Dec Average, Gambia, GMB,
+0,2011, Jan Average, Gambia, GMB,
+0,2011, Feb Average, Gambia, GMB,
+0,2011, Mar Average, Gambia, GMB,
+0.00025,2011, Apr Average, Gambia, GMB,
+8.06507,2011, May Average, Gambia, GMB,
+73.6311,2011, Jun Average, Gambia, GMB,
+159.981,2011, Jul Average, Gambia, GMB,
+366.896,2011, Aug Average, Gambia, GMB,
+210.035,2011, Sep Average, Gambia, GMB,
+71.3388,2011, Oct Average, Gambia, GMB,
+0,2011, Nov Average, Gambia, GMB,
+0.00272,2011, Dec Average, Gambia, GMB,
+0,2012, Jan Average, Gambia, GMB,
+0,2012, Feb Average, Gambia, GMB,
+0,2012, Mar Average, Gambia, GMB,
+0.64372,2012, Apr Average, Gambia, GMB,
+29.0286,2012, May Average, Gambia, GMB,
+104.24,2012, Jun Average, Gambia, GMB,
+209.393,2012, Jul Average, Gambia, GMB,
+347.489,2012, Aug Average, Gambia, GMB,
+346.083,2012, Sep Average, Gambia, GMB,
+86.2949,2012, Oct Average, Gambia, GMB,
+0,2012, Nov Average, Gambia, GMB,
+0.00604,2012, Dec Average, Gambia, GMB,
+0,2013, Jan Average, Gambia, GMB,
+0,2013, Feb Average, Gambia, GMB,
+0,2013, Mar Average, Gambia, GMB,
+0.19873,2013, Apr Average, Gambia, GMB,
+15.1671,2013, May Average, Gambia, GMB,
+86.2116,2013, Jun Average, Gambia, GMB,
+181.828,2013, Jul Average, Gambia, GMB,
+389.214,2013, Aug Average, Gambia, GMB,
+285.55,2013, Sep Average, Gambia, GMB,
+98.8116,2013, Oct Average, Gambia, GMB,
+5.37615,2013, Nov Average, Gambia, GMB,
+0.01173,2013, Dec Average, Gambia, GMB,
+0.01525,2014, Jan Average, Gambia, GMB,
+0.08506,2014, Feb Average, Gambia, GMB,
+0,2014, Mar Average, Gambia, GMB,
+0,2014, Apr Average, Gambia, GMB,
+38.6837,2014, May Average, Gambia, GMB,
+38.8571,2014, Jun Average, Gambia, GMB,
+172.952,2014, Jul Average, Gambia, GMB,
+329.896,2014, Aug Average, Gambia, GMB,
+234.997,2014, Sep Average, Gambia, GMB,
+120.505,2014, Oct Average, Gambia, GMB,
+0.0426,2014, Nov Average, Gambia, GMB,
+0,2014, Dec Average, Gambia, GMB,
+0,2015, Jan Average, Gambia, GMB,
+0.05051,2015, Feb Average, Gambia, GMB,
+0.03377,2015, Mar Average, Gambia, GMB,
+0.12319,2015, Apr Average, Gambia, GMB,
+1.3121,2015, May Average, Gambia, GMB,
+48.2768,2015, Jun Average, Gambia, GMB,
+165.526,2015, Jul Average, Gambia, GMB,
+440.016,2015, Aug Average, Gambia, GMB,
+221.788,2015, Sep Average, Gambia, GMB,
+154.853,2015, Oct Average, Gambia, GMB,
+1.13946,2015, Nov Average, Gambia, GMB,
+0.3147,2015, Dec Average, Gambia, GMB,
+0,2016, Jan Average, Gambia, GMB,
+0.15968,2016, Feb Average, Gambia, GMB,
+0,2016, Mar Average, Gambia, GMB,
+0.10754,2016, Apr Average, Gambia, GMB,
+10.8883,2016, May Average, Gambia, GMB,
+36.0758,2016, Jun Average, Gambia, GMB,
+306.235,2016, Jul Average, Gambia, GMB,
+306.786,2016, Aug Average, Gambia, GMB,
+354.773,2016, Sep Average, Gambia, GMB,
+22.9583,2016, Oct Average, Gambia, GMB,
+0.45825,2016, Nov Average, Gambia, GMB,
+0,2016, Dec Average, Gambia, GMB,
 75.8007,1991, Jan Average, Georgia, GEO,
 49.8921,1991, Feb Average, Georgia, GEO,
 59.2962,1991, Mar Average, Georgia, GEO,
@@ -28391,630 +28391,630 @@ Rainfall - (MM), Year, Statistics, Country, ISO3,
 47.8101,2016, Oct Average, Kiribati, KIR,
 56.0787,2016, Nov Average, Kiribati, KIR,
 61.4835,2016, Dec Average, Kiribati, KIR,
-7.6721,1991, Jan Average, Korea, Democratic People's Republic of, PRK
-13.2964,1991, Feb Average, Korea, Democratic People's Republic of, PRK
-36.9868,1991, Mar Average, Korea, Democratic People's Republic of, PRK
-36.9938,1991, Apr Average, Korea, Democratic People's Republic of, PRK
-73.0663,1991, May Average, Korea, Democratic People's Republic of, PRK
-139.871,1991, Jun Average, Korea, Democratic People's Republic of, PRK
-334.299,1991, Jul Average, Korea, Democratic People's Republic of, PRK
-55.946,1991, Aug Average, Korea, Democratic People's Republic of, PRK
-95.7396,1991, Sep Average, Korea, Democratic People's Republic of, PRK
-75.9141,1991, Oct Average, Korea, Democratic People's Republic of, PRK
-21.5149,1991, Nov Average, Korea, Democratic People's Republic of, PRK
-23.9261,1991, Dec Average, Korea, Democratic People's Republic of, PRK
-14.4679,1992, Jan Average, Korea, Democratic People's Republic of, PRK
-16.6985,1992, Feb Average, Korea, Democratic People's Republic of, PRK
-11.0745,1992, Mar Average, Korea, Democratic People's Republic of, PRK
-56.5972,1992, Apr Average, Korea, Democratic People's Republic of, PRK
-95.4607,1992, May Average, Korea, Democratic People's Republic of, PRK
-156.994,1992, Jun Average, Korea, Democratic People's Republic of, PRK
-200.872,1992, Jul Average, Korea, Democratic People's Republic of, PRK
-136.033,1992, Aug Average, Korea, Democratic People's Republic of, PRK
-221.347,1992, Sep Average, Korea, Democratic People's Republic of, PRK
-54.3939,1992, Oct Average, Korea, Democratic People's Republic of, PRK
-47.7715,1992, Nov Average, Korea, Democratic People's Republic of, PRK
-32.7691,1992, Dec Average, Korea, Democratic People's Republic of, PRK
-7.01129,1993, Jan Average, Korea, Democratic People's Republic of, PRK
-23.1434,1993, Feb Average, Korea, Democratic People's Republic of, PRK
-12.9532,1993, Mar Average, Korea, Democratic People's Republic of, PRK
-55.6076,1993, Apr Average, Korea, Democratic People's Republic of, PRK
-81.6769,1993, May Average, Korea, Democratic People's Republic of, PRK
-223.787,1993, Jun Average, Korea, Democratic People's Republic of, PRK
-169.25,1993, Jul Average, Korea, Democratic People's Republic of, PRK
-164.005,1993, Aug Average, Korea, Democratic People's Republic of, PRK
-81.7253,1993, Sep Average, Korea, Democratic People's Republic of, PRK
-29.6102,1993, Oct Average, Korea, Democratic People's Republic of, PRK
-61.4859,1993, Nov Average, Korea, Democratic People's Republic of, PRK
-18.6032,1993, Dec Average, Korea, Democratic People's Republic of, PRK
-12.9645,1994, Jan Average, Korea, Democratic People's Republic of, PRK
-8.32028,1994, Feb Average, Korea, Democratic People's Republic of, PRK
-25.5406,1994, Mar Average, Korea, Democratic People's Republic of, PRK
-43.4479,1994, Apr Average, Korea, Democratic People's Republic of, PRK
-158.569,1994, May Average, Korea, Democratic People's Republic of, PRK
-88.0016,1994, Jun Average, Korea, Democratic People's Republic of, PRK
-204.859,1994, Jul Average, Korea, Democratic People's Republic of, PRK
-268.758,1994, Aug Average, Korea, Democratic People's Republic of, PRK
-101.492,1994, Sep Average, Korea, Democratic People's Republic of, PRK
-80.2833,1994, Oct Average, Korea, Democratic People's Republic of, PRK
-41.9035,1994, Nov Average, Korea, Democratic People's Republic of, PRK
-10.9946,1994, Dec Average, Korea, Democratic People's Republic of, PRK
-5.88239,1995, Jan Average, Korea, Democratic People's Republic of, PRK
-18.6803,1995, Feb Average, Korea, Democratic People's Republic of, PRK
-28.8815,1995, Mar Average, Korea, Democratic People's Republic of, PRK
-34.6273,1995, Apr Average, Korea, Democratic People's Republic of, PRK
-118.821,1995, May Average, Korea, Democratic People's Republic of, PRK
-163.296,1995, Jun Average, Korea, Democratic People's Republic of, PRK
-283.706,1995, Jul Average, Korea, Democratic People's Republic of, PRK
-421.885,1995, Aug Average, Korea, Democratic People's Republic of, PRK
-51.4871,1995, Sep Average, Korea, Democratic People's Republic of, PRK
-61.2423,1995, Oct Average, Korea, Democratic People's Republic of, PRK
-23.5446,1995, Nov Average, Korea, Democratic People's Republic of, PRK
-2.83087,1995, Dec Average, Korea, Democratic People's Republic of, PRK
-6.34343,1996, Jan Average, Korea, Democratic People's Republic of, PRK
-5.04234,1996, Feb Average, Korea, Democratic People's Republic of, PRK
-47.2313,1996, Mar Average, Korea, Democratic People's Republic of, PRK
-33.0337,1996, Apr Average, Korea, Democratic People's Republic of, PRK
-58.1808,1996, May Average, Korea, Democratic People's Republic of, PRK
-197.595,1996, Jun Average, Korea, Democratic People's Republic of, PRK
-351.31,1996, Jul Average, Korea, Democratic People's Republic of, PRK
-177.646,1996, Aug Average, Korea, Democratic People's Republic of, PRK
-59.3209,1996, Sep Average, Korea, Democratic People's Republic of, PRK
-74.1174,1996, Oct Average, Korea, Democratic People's Republic of, PRK
-21.2394,1996, Nov Average, Korea, Democratic People's Republic of, PRK
-5.01359,1996, Dec Average, Korea, Democratic People's Republic of, PRK
-14.6025,1997, Jan Average, Korea, Democratic People's Republic of, PRK
-17.606,1997, Feb Average, Korea, Democratic People's Republic of, PRK
-27.4158,1997, Mar Average, Korea, Democratic People's Republic of, PRK
-22.6253,1997, Apr Average, Korea, Democratic People's Republic of, PRK
-208.302,1997, May Average, Korea, Democratic People's Republic of, PRK
-83.8802,1997, Jun Average, Korea, Democratic People's Republic of, PRK
-157.843,1997, Jul Average, Korea, Democratic People's Republic of, PRK
-178.303,1997, Aug Average, Korea, Democratic People's Republic of, PRK
-53.8229,1997, Sep Average, Korea, Democratic People's Republic of, PRK
-43.3983,1997, Oct Average, Korea, Democratic People's Republic of, PRK
-41.2789,1997, Nov Average, Korea, Democratic People's Republic of, PRK
-21.5855,1997, Dec Average, Korea, Democratic People's Republic of, PRK
-10.1576,1998, Jan Average, Korea, Democratic People's Republic of, PRK
-20.6953,1998, Feb Average, Korea, Democratic People's Republic of, PRK
-30.6352,1998, Mar Average, Korea, Democratic People's Republic of, PRK
-64.8807,1998, Apr Average, Korea, Democratic People's Republic of, PRK
-116.389,1998, May Average, Korea, Democratic People's Republic of, PRK
-143.271,1998, Jun Average, Korea, Democratic People's Republic of, PRK
-292.853,1998, Jul Average, Korea, Democratic People's Republic of, PRK
-312.853,1998, Aug Average, Korea, Democratic People's Republic of, PRK
-113.343,1998, Sep Average, Korea, Democratic People's Republic of, PRK
-37.2528,1998, Oct Average, Korea, Democratic People's Republic of, PRK
-41.7626,1998, Nov Average, Korea, Democratic People's Republic of, PRK
-13.368,1998, Dec Average, Korea, Democratic People's Republic of, PRK
-8.36356,1999, Jan Average, Korea, Democratic People's Republic of, PRK
-2.66158,1999, Feb Average, Korea, Democratic People's Republic of, PRK
-56.0812,1999, Mar Average, Korea, Democratic People's Republic of, PRK
-59.9673,1999, Apr Average, Korea, Democratic People's Republic of, PRK
-102.512,1999, May Average, Korea, Democratic People's Republic of, PRK
-112.415,1999, Jun Average, Korea, Democratic People's Republic of, PRK
-193.774,1999, Jul Average, Korea, Democratic People's Republic of, PRK
-261.133,1999, Aug Average, Korea, Democratic People's Republic of, PRK
-160.382,1999, Sep Average, Korea, Democratic People's Republic of, PRK
-55.8313,1999, Oct Average, Korea, Democratic People's Republic of, PRK
-23.3476,1999, Nov Average, Korea, Democratic People's Republic of, PRK
-10.233,1999, Dec Average, Korea, Democratic People's Republic of, PRK
-32.5454,2000, Jan Average, Korea, Democratic People's Republic of, PRK
-5.18211,2000, Feb Average, Korea, Democratic People's Republic of, PRK
-30.6233,2000, Mar Average, Korea, Democratic People's Republic of, PRK
-42.7664,2000, Apr Average, Korea, Democratic People's Republic of, PRK
-80.4436,2000, May Average, Korea, Democratic People's Republic of, PRK
-66.7193,2000, Jun Average, Korea, Democratic People's Republic of, PRK
-172.988,2000, Jul Average, Korea, Democratic People's Republic of, PRK
-282.131,2000, Aug Average, Korea, Democratic People's Republic of, PRK
-139.577,2000, Sep Average, Korea, Democratic People's Republic of, PRK
-30.7593,2000, Oct Average, Korea, Democratic People's Republic of, PRK
-28.0084,2000, Nov Average, Korea, Democratic People's Republic of, PRK
-20.2114,2000, Dec Average, Korea, Democratic People's Republic of, PRK
-23.7068,2001, Jan Average, Korea, Democratic People's Republic of, PRK
-12.6517,2001, Feb Average, Korea, Democratic People's Republic of, PRK
-25.6961,2001, Mar Average, Korea, Democratic People's Republic of, PRK
-8.7869,2001, Apr Average, Korea, Democratic People's Republic of, PRK
-74.5567,2001, May Average, Korea, Democratic People's Republic of, PRK
-152.121,2001, Jun Average, Korea, Democratic People's Republic of, PRK
-343.329,2001, Jul Average, Korea, Democratic People's Republic of, PRK
-152.056,2001, Aug Average, Korea, Democratic People's Republic of, PRK
-55.6824,2001, Sep Average, Korea, Democratic People's Republic of, PRK
-69.8784,2001, Oct Average, Korea, Democratic People's Republic of, PRK
-9.48248,2001, Nov Average, Korea, Democratic People's Republic of, PRK
-8.55501,2001, Dec Average, Korea, Democratic People's Republic of, PRK
-28.3586,2002, Jan Average, Korea, Democratic People's Republic of, PRK
-5.99968,2002, Feb Average, Korea, Democratic People's Republic of, PRK
-34.029,2002, Mar Average, Korea, Democratic People's Republic of, PRK
-86.6228,2002, Apr Average, Korea, Democratic People's Republic of, PRK
-43.799,2002, May Average, Korea, Democratic People's Republic of, PRK
-94.0233,2002, Jun Average, Korea, Democratic People's Republic of, PRK
-245.709,2002, Jul Average, Korea, Democratic People's Republic of, PRK
-254.071,2002, Aug Average, Korea, Democratic People's Republic of, PRK
-45.5155,2002, Sep Average, Korea, Democratic People's Republic of, PRK
-88.6223,2002, Oct Average, Korea, Democratic People's Republic of, PRK
-20.8042,2002, Nov Average, Korea, Democratic People's Republic of, PRK
-18.896,2002, Dec Average, Korea, Democratic People's Republic of, PRK
-12.0195,2003, Jan Average, Korea, Democratic People's Republic of, PRK
-13.8974,2003, Feb Average, Korea, Democratic People's Republic of, PRK
-27.5413,2003, Mar Average, Korea, Democratic People's Republic of, PRK
-101.69,2003, Apr Average, Korea, Democratic People's Republic of, PRK
-68.8176,2003, May Average, Korea, Democratic People's Republic of, PRK
-134.979,2003, Jun Average, Korea, Democratic People's Republic of, PRK
-291.568,2003, Jul Average, Korea, Democratic People's Republic of, PRK
-259.976,2003, Aug Average, Korea, Democratic People's Republic of, PRK
-131.034,2003, Sep Average, Korea, Democratic People's Republic of, PRK
-65.2753,2003, Oct Average, Korea, Democratic People's Republic of, PRK
-59.0167,2003, Nov Average, Korea, Democratic People's Republic of, PRK
-6.06835,2003, Dec Average, Korea, Democratic People's Republic of, PRK
-6.53136,2004, Jan Average, Korea, Democratic People's Republic of, PRK
-52.1471,2004, Feb Average, Korea, Democratic People's Republic of, PRK
-39.6533,2004, Mar Average, Korea, Democratic People's Republic of, PRK
-47.7167,2004, Apr Average, Korea, Democratic People's Republic of, PRK
-119.871,2004, May Average, Korea, Democratic People's Republic of, PRK
-100.682,2004, Jun Average, Korea, Democratic People's Republic of, PRK
-410.701,2004, Jul Average, Korea, Democratic People's Republic of, PRK
-142.586,2004, Aug Average, Korea, Democratic People's Republic of, PRK
-151.359,2004, Sep Average, Korea, Democratic People's Republic of, PRK
-15.3193,2004, Oct Average, Korea, Democratic People's Republic of, PRK
-57.2923,2004, Nov Average, Korea, Democratic People's Republic of, PRK
-21.9109,2004, Dec Average, Korea, Democratic People's Republic of, PRK
-7.11745,2005, Jan Average, Korea, Democratic People's Republic of, PRK
-19.2756,2005, Feb Average, Korea, Democratic People's Republic of, PRK
-7.63066,2005, Mar Average, Korea, Democratic People's Republic of, PRK
-79.9152,2005, Apr Average, Korea, Democratic People's Republic of, PRK
-156.524,2005, May Average, Korea, Democratic People's Republic of, PRK
-184.671,2005, Jun Average, Korea, Democratic People's Republic of, PRK
-236.827,2005, Jul Average, Korea, Democratic People's Republic of, PRK
-302.911,2005, Aug Average, Korea, Democratic People's Republic of, PRK
-127.88,2005, Sep Average, Korea, Democratic People's Republic of, PRK
-31.7595,2005, Oct Average, Korea, Democratic People's Republic of, PRK
-25.0045,2005, Nov Average, Korea, Democratic People's Republic of, PRK
-8.444,2005, Dec Average, Korea, Democratic People's Republic of, PRK
-16.3025,2006, Jan Average, Korea, Democratic People's Republic of, PRK
-21.9804,2006, Feb Average, Korea, Democratic People's Republic of, PRK
-14.9716,2006, Mar Average, Korea, Democratic People's Republic of, PRK
-75.7778,2006, Apr Average, Korea, Democratic People's Republic of, PRK
-130.47,2006, May Average, Korea, Democratic People's Republic of, PRK
-188.846,2006, Jun Average, Korea, Democratic People's Republic of, PRK
-260.77,2006, Jul Average, Korea, Democratic People's Republic of, PRK
-182.553,2006, Aug Average, Korea, Democratic People's Republic of, PRK
-30.9034,2006, Sep Average, Korea, Democratic People's Republic of, PRK
-96.507,2006, Oct Average, Korea, Democratic People's Republic of, PRK
-22.5792,2006, Nov Average, Korea, Democratic People's Republic of, PRK
-9.52233,2006, Dec Average, Korea, Democratic People's Republic of, PRK
-13.0399,2007, Jan Average, Korea, Democratic People's Republic of, PRK
-21.2308,2007, Feb Average, Korea, Democratic People's Republic of, PRK
-81.8644,2007, Mar Average, Korea, Democratic People's Republic of, PRK
-59.0627,2007, Apr Average, Korea, Democratic People's Republic of, PRK
-138.173,2007, May Average, Korea, Democratic People's Republic of, PRK
-57.0004,2007, Jun Average, Korea, Democratic People's Republic of, PRK
-145.86,2007, Jul Average, Korea, Democratic People's Republic of, PRK
-327.038,2007, Aug Average, Korea, Democratic People's Republic of, PRK
-239.917,2007, Sep Average, Korea, Democratic People's Republic of, PRK
-77.4399,2007, Oct Average, Korea, Democratic People's Republic of, PRK
-21.041,2007, Nov Average, Korea, Democratic People's Republic of, PRK
-10.0824,2007, Dec Average, Korea, Democratic People's Republic of, PRK
-5.63144,2008, Jan Average, Korea, Democratic People's Republic of, PRK
-5.00955,2008, Feb Average, Korea, Democratic People's Republic of, PRK
-35.6417,2008, Mar Average, Korea, Democratic People's Republic of, PRK
-30.7494,2008, Apr Average, Korea, Democratic People's Republic of, PRK
-102.473,2008, May Average, Korea, Democratic People's Republic of, PRK
-112.621,2008, Jun Average, Korea, Democratic People's Republic of, PRK
-304.482,2008, Jul Average, Korea, Democratic People's Republic of, PRK
-213.858,2008, Aug Average, Korea, Democratic People's Republic of, PRK
-41.114,2008, Sep Average, Korea, Democratic People's Republic of, PRK
-41.9201,2008, Oct Average, Korea, Democratic People's Republic of, PRK
-9.7091,2008, Nov Average, Korea, Democratic People's Republic of, PRK
-12.4497,2008, Dec Average, Korea, Democratic People's Republic of, PRK
-7.60026,2009, Jan Average, Korea, Democratic People's Republic of, PRK
-33.744,2009, Feb Average, Korea, Democratic People's Republic of, PRK
-27.6837,2009, Mar Average, Korea, Democratic People's Republic of, PRK
-78.4356,2009, Apr Average, Korea, Democratic People's Republic of, PRK
-65.2899,2009, May Average, Korea, Democratic People's Republic of, PRK
-166.781,2009, Jun Average, Korea, Democratic People's Republic of, PRK
-296.415,2009, Jul Average, Korea, Democratic People's Republic of, PRK
-138.402,2009, Aug Average, Korea, Democratic People's Republic of, PRK
-48.336,2009, Sep Average, Korea, Democratic People's Republic of, PRK
-91.14,2009, Oct Average, Korea, Democratic People's Republic of, PRK
-32.2132,2009, Nov Average, Korea, Democratic People's Republic of, PRK
-21.2543,2009, Dec Average, Korea, Democratic People's Republic of, PRK
-11.7328,2010, Jan Average, Korea, Democratic People's Republic of, PRK
-26.5588,2010, Feb Average, Korea, Democratic People's Republic of, PRK
-62.2874,2010, Mar Average, Korea, Democratic People's Republic of, PRK
-64.2345,2010, Apr Average, Korea, Democratic People's Republic of, PRK
-109.513,2010, May Average, Korea, Democratic People's Republic of, PRK
-84.0754,2010, Jun Average, Korea, Democratic People's Republic of, PRK
-300.35,2010, Jul Average, Korea, Democratic People's Republic of, PRK
-328.631,2010, Aug Average, Korea, Democratic People's Republic of, PRK
-231.43,2010, Sep Average, Korea, Democratic People's Republic of, PRK
-51.6648,2010, Oct Average, Korea, Democratic People's Republic of, PRK
-55.9991,2010, Nov Average, Korea, Democratic People's Republic of, PRK
-21.5992,2010, Dec Average, Korea, Democratic People's Republic of, PRK
-2.98347,2011, Jan Average, Korea, Democratic People's Republic of, PRK
-13.2266,2011, Feb Average, Korea, Democratic People's Republic of, PRK
-9.07303,2011, Mar Average, Korea, Democratic People's Republic of, PRK
-52.9199,2011, Apr Average, Korea, Democratic People's Republic of, PRK
-88.9152,2011, May Average, Korea, Democratic People's Republic of, PRK
-186.075,2011, Jun Average, Korea, Democratic People's Republic of, PRK
-269.552,2011, Jul Average, Korea, Democratic People's Republic of, PRK
-226.71,2011, Aug Average, Korea, Democratic People's Republic of, PRK
-74.5335,2011, Sep Average, Korea, Democratic People's Republic of, PRK
-32.9576,2011, Oct Average, Korea, Democratic People's Republic of, PRK
-60.2524,2011, Nov Average, Korea, Democratic People's Republic of, PRK
-6.70064,2011, Dec Average, Korea, Democratic People's Republic of, PRK
-4.59526,2012, Jan Average, Korea, Democratic People's Republic of, PRK
-9.44942,2012, Feb Average, Korea, Democratic People's Republic of, PRK
-42.0351,2012, Mar Average, Korea, Democratic People's Republic of, PRK
-81.1597,2012, Apr Average, Korea, Democratic People's Republic of, PRK
-55.5849,2012, May Average, Korea, Democratic People's Republic of, PRK
-169.993,2012, Jun Average, Korea, Democratic People's Republic of, PRK
-337.71,2012, Jul Average, Korea, Democratic People's Republic of, PRK
-279.425,2012, Aug Average, Korea, Democratic People's Republic of, PRK
-155.616,2012, Sep Average, Korea, Democratic People's Republic of, PRK
-93.809,2012, Oct Average, Korea, Democratic People's Republic of, PRK
-56.8975,2012, Nov Average, Korea, Democratic People's Republic of, PRK
-24.7216,2012, Dec Average, Korea, Democratic People's Republic of, PRK
-12.0663,2013, Jan Average, Korea, Democratic People's Republic of, PRK
-33.2122,2013, Feb Average, Korea, Democratic People's Republic of, PRK
-37.2971,2013, Mar Average, Korea, Democratic People's Republic of, PRK
-63.6498,2013, Apr Average, Korea, Democratic People's Republic of, PRK
-89.9609,2013, May Average, Korea, Democratic People's Republic of, PRK
-99.3098,2013, Jun Average, Korea, Democratic People's Republic of, PRK
-456.354,2013, Jul Average, Korea, Democratic People's Republic of, PRK
-238.248,2013, Aug Average, Korea, Democratic People's Republic of, PRK
-94.3624,2013, Sep Average, Korea, Democratic People's Republic of, PRK
-54.8553,2013, Oct Average, Korea, Democratic People's Republic of, PRK
-53.1884,2013, Nov Average, Korea, Democratic People's Republic of, PRK
-12.0787,2013, Dec Average, Korea, Democratic People's Republic of, PRK
-6.58488,2014, Jan Average, Korea, Democratic People's Republic of, PRK
-15.9507,2014, Feb Average, Korea, Democratic People's Republic of, PRK
-15.6786,2014, Mar Average, Korea, Democratic People's Republic of, PRK
-37.0895,2014, Apr Average, Korea, Democratic People's Republic of, PRK
-86.3435,2014, May Average, Korea, Democratic People's Republic of, PRK
-92.3876,2014, Jun Average, Korea, Democratic People's Republic of, PRK
-165.024,2014, Jul Average, Korea, Democratic People's Republic of, PRK
-157.354,2014, Aug Average, Korea, Democratic People's Republic of, PRK
-76.6638,2014, Sep Average, Korea, Democratic People's Republic of, PRK
-58.0488,2014, Oct Average, Korea, Democratic People's Republic of, PRK
-27.6722,2014, Nov Average, Korea, Democratic People's Republic of, PRK
-8.90287,2014, Dec Average, Korea, Democratic People's Republic of, PRK
-10.4587,2015, Jan Average, Korea, Democratic People's Republic of, PRK
-21.1647,2015, Feb Average, Korea, Democratic People's Republic of, PRK
-19.4639,2015, Mar Average, Korea, Democratic People's Republic of, PRK
-50.1321,2015, Apr Average, Korea, Democratic People's Republic of, PRK
-56.9879,2015, May Average, Korea, Democratic People's Republic of, PRK
-118.837,2015, Jun Average, Korea, Democratic People's Republic of, PRK
-167.606,2015, Jul Average, Korea, Democratic People's Republic of, PRK
-215.069,2015, Aug Average, Korea, Democratic People's Republic of, PRK
-35.5969,2015, Sep Average, Korea, Democratic People's Republic of, PRK
-79.0568,2015, Oct Average, Korea, Democratic People's Republic of, PRK
-64.655,2015, Nov Average, Korea, Democratic People's Republic of, PRK
-14.1411,2015, Dec Average, Korea, Democratic People's Republic of, PRK
-9.29037,2016, Jan Average, Korea, Democratic People's Republic of, PRK
-26.4979,2016, Feb Average, Korea, Democratic People's Republic of, PRK
-31.9413,2016, Mar Average, Korea, Democratic People's Republic of, PRK
-54.3268,2016, Apr Average, Korea, Democratic People's Republic of, PRK
-165.142,2016, May Average, Korea, Democratic People's Republic of, PRK
-120.97,2016, Jun Average, Korea, Democratic People's Republic of, PRK
-242.087,2016, Jul Average, Korea, Democratic People's Republic of, PRK
-156.628,2016, Aug Average, Korea, Democratic People's Republic of, PRK
-76.3551,2016, Sep Average, Korea, Democratic People's Republic of, PRK
-77.5902,2016, Oct Average, Korea, Democratic People's Republic of, PRK
-51.6351,2016, Nov Average, Korea, Democratic People's Republic of, PRK
-24.4094,2016, Dec Average, Korea, Democratic People's Republic of, PRK
-25.7248,1991, Jan Average, Korea, Republic of, KOR
-46.2784,1991, Feb Average, Korea, Republic of, KOR
-85.3888,1991, Mar Average, Korea, Republic of, KOR
-88.2667,1991, Apr Average, Korea, Republic of, KOR
-79.7667,1991, May Average, Korea, Republic of, KOR
-154.111,1991, Jun Average, Korea, Republic of, KOR
-440.52,1991, Jul Average, Korea, Republic of, KOR
-227.884,1991, Aug Average, Korea, Republic of, KOR
-165.65,1991, Sep Average, Korea, Republic of, KOR
-17.166,1991, Oct Average, Korea, Republic of, KOR
-20.6337,1991, Nov Average, Korea, Republic of, KOR
-57.2474,1991, Dec Average, Korea, Republic of, KOR
-24.5275,1992, Jan Average, Korea, Republic of, KOR
-31.6902,1992, Feb Average, Korea, Republic of, KOR
-57.3645,1992, Mar Average, Korea, Republic of, KOR
-114.52,1992, Apr Average, Korea, Republic of, KOR
-107.949,1992, May Average, Korea, Republic of, KOR
-58.8577,1992, Jun Average, Korea, Republic of, KOR
-187.443,1992, Jul Average, Korea, Republic of, KOR
-293.99,1992, Aug Average, Korea, Republic of, KOR
-173.693,1992, Sep Average, Korea, Republic of, KOR
-36.7228,1992, Oct Average, Korea, Republic of, KOR
-40.5563,1992, Nov Average, Korea, Republic of, KOR
-48.6197,1992, Dec Average, Korea, Republic of, KOR
-25.7929,1993, Jan Average, Korea, Republic of, KOR
-65.5564,1993, Feb Average, Korea, Republic of, KOR
-50.0594,1993, Mar Average, Korea, Republic of, KOR
-57.2619,1993, Apr Average, Korea, Republic of, KOR
-145.152,1993, May Average, Korea, Republic of, KOR
-223.398,1993, Jun Average, Korea, Republic of, KOR
-335.595,1993, Jul Average, Korea, Republic of, KOR
-392.977,1993, Aug Average, Korea, Republic of, KOR
-71.0516,1993, Sep Average, Korea, Republic of, KOR
-41.5724,1993, Oct Average, Korea, Republic of, KOR
-73.3624,1993, Nov Average, Korea, Republic of, KOR
-21.7799,1993, Dec Average, Korea, Republic of, KOR
-25.3809,1994, Jan Average, Korea, Republic of, KOR
-23.5634,1994, Feb Average, Korea, Republic of, KOR
-33.6883,1994, Mar Average, Korea, Republic of, KOR
-53.1749,1994, Apr Average, Korea, Republic of, KOR
-150.747,1994, May Average, Korea, Republic of, KOR
-112.176,1994, Jun Average, Korea, Republic of, KOR
-114.826,1994, Jul Average, Korea, Republic of, KOR
-188.232,1994, Aug Average, Korea, Republic of, KOR
-44.0341,1994, Sep Average, Korea, Republic of, KOR
-126.189,1994, Oct Average, Korea, Republic of, KOR
-41.0047,1994, Nov Average, Korea, Republic of, KOR
-14.8644,1994, Dec Average, Korea, Republic of, KOR
-24.6909,1995, Jan Average, Korea, Republic of, KOR
-19.5084,1995, Feb Average, Korea, Republic of, KOR
-58.3916,1995, Mar Average, Korea, Republic of, KOR
-72.3944,1995, Apr Average, Korea, Republic of, KOR
-76.5272,1995, May Average, Korea, Republic of, KOR
-97.219,1995, Jun Average, Korea, Republic of, KOR
-240.817,1995, Jul Average, Korea, Republic of, KOR
-393.218,1995, Aug Average, Korea, Republic of, KOR
-55.8884,1995, Sep Average, Korea, Republic of, KOR
-35.5744,1995, Oct Average, Korea, Republic of, KOR
-19.8453,1995, Nov Average, Korea, Republic of, KOR
-5.47,1995, Dec Average, Korea, Republic of, KOR
-25.6889,1996, Jan Average, Korea, Republic of, KOR
-10.3919,1996, Feb Average, Korea, Republic of, KOR
-118.851,1996, Mar Average, Korea, Republic of, KOR
-59.6123,1996, Apr Average, Korea, Republic of, KOR
-49.43,1996, May Average, Korea, Republic of, KOR
-364.855,1996, Jun Average, Korea, Republic of, KOR
-245.589,1996, Jul Average, Korea, Republic of, KOR
-140.846,1996, Aug Average, Korea, Republic of, KOR
-30.1289,1996, Sep Average, Korea, Republic of, KOR
-71.251,1996, Oct Average, Korea, Republic of, KOR
-62.8065,1996, Nov Average, Korea, Republic of, KOR
-23.8176,1996, Dec Average, Korea, Republic of, KOR
-15.9149,1997, Jan Average, Korea, Republic of, KOR
-29.1997,1997, Feb Average, Korea, Republic of, KOR
-40.2842,1997, Mar Average, Korea, Republic of, KOR
-67.9888,1997, Apr Average, Korea, Republic of, KOR
-199.542,1997, May Average, Korea, Republic of, KOR
-228.03,1997, Jun Average, Korea, Republic of, KOR
-282.799,1997, Jul Average, Korea, Republic of, KOR
-243.087,1997, Aug Average, Korea, Republic of, KOR
-54.6025,1997, Sep Average, Korea, Republic of, KOR
-12.9491,1997, Oct Average, Korea, Republic of, KOR
-134.482,1997, Nov Average, Korea, Republic of, KOR
-56.358,1997, Dec Average, Korea, Republic of, KOR
-43.7604,1998, Jan Average, Korea, Republic of, KOR
-49.5877,1998, Feb Average, Korea, Republic of, KOR
-49.4687,1998, Mar Average, Korea, Republic of, KOR
-161.835,1998, Apr Average, Korea, Republic of, KOR
-119.005,1998, May Average, Korea, Republic of, KOR
-306.953,1998, Jun Average, Korea, Republic of, KOR
-315.28,1998, Jul Average, Korea, Republic of, KOR
-405.411,1998, Aug Average, Korea, Republic of, KOR
-239.151,1998, Sep Average, Korea, Republic of, KOR
-65.835,1998, Oct Average, Korea, Republic of, KOR
-29.5731,1998, Nov Average, Korea, Republic of, KOR
-5.77052,1998, Dec Average, Korea, Republic of, KOR
-19.7928,1999, Jan Average, Korea, Republic of, KOR
-21.3007,1999, Feb Average, Korea, Republic of, KOR
-96.1401,1999, Mar Average, Korea, Republic of, KOR
-90.5745,1999, Apr Average, Korea, Republic of, KOR
-150.549,1999, May Average, Korea, Republic of, KOR
-188.639,1999, Jun Average, Korea, Republic of, KOR
-283.852,1999, Jul Average, Korea, Republic of, KOR
-427.281,1999, Aug Average, Korea, Republic of, KOR
-337.437,1999, Sep Average, Korea, Republic of, KOR
-105.312,1999, Oct Average, Korea, Republic of, KOR
-24.8857,1999, Nov Average, Korea, Republic of, KOR
-9.55286,1999, Dec Average, Korea, Republic of, KOR
-33.8859,2000, Jan Average, Korea, Republic of, KOR
-4.23724,2000, Feb Average, Korea, Republic of, KOR
-26.9331,2000, Mar Average, Korea, Republic of, KOR
-39.7456,2000, Apr Average, Korea, Republic of, KOR
-58.5718,2000, May Average, Korea, Republic of, KOR
-185.124,2000, Jun Average, Korea, Republic of, KOR
-238.355,2000, Jul Average, Korea, Republic of, KOR
-392.49,2000, Aug Average, Korea, Republic of, KOR
-243.362,2000, Sep Average, Korea, Republic of, KOR
-32.9219,2000, Oct Average, Korea, Republic of, KOR
-50.4098,2000, Nov Average, Korea, Republic of, KOR
-13.9334,2000, Dec Average, Korea, Republic of, KOR
-48.5158,2001, Jan Average, Korea, Republic of, KOR
-55.1743,2001, Feb Average, Korea, Republic of, KOR
-17.7337,2001, Mar Average, Korea, Republic of, KOR
-25.5244,2001, Apr Average, Korea, Republic of, KOR
-47.2595,2001, May Average, Korea, Republic of, KOR
-271.911,2001, Jun Average, Korea, Republic of, KOR
-314.794,2001, Jul Average, Korea, Republic of, KOR
-151.601,2001, Aug Average, Korea, Republic of, KOR
-90.247,2001, Sep Average, Korea, Republic of, KOR
-106.567,2001, Oct Average, Korea, Republic of, KOR
-18.2964,2001, Nov Average, Korea, Republic of, KOR
-29.3836,2001, Dec Average, Korea, Republic of, KOR
-53.4586,2002, Jan Average, Korea, Republic of, KOR
-7.72773,2002, Feb Average, Korea, Republic of, KOR
-58.4424,2002, Mar Average, Korea, Republic of, KOR
-154.507,2002, Apr Average, Korea, Republic of, KOR
-100.633,2002, May Average, Korea, Republic of, KOR
-73.89,2002, Jun Average, Korea, Republic of, KOR
-295.552,2002, Jul Average, Korea, Republic of, KOR
-464.508,2002, Aug Average, Korea, Republic of, KOR
-80.9085,2002, Sep Average, Korea, Republic of, KOR
-68.8405,2002, Oct Average, Korea, Republic of, KOR
-11.9926,2002, Nov Average, Korea, Republic of, KOR
-39.7777,2002, Dec Average, Korea, Republic of, KOR
-24.2639,2003, Jan Average, Korea, Republic of, KOR
-45.7442,2003, Feb Average, Korea, Republic of, KOR
-57.8714,2003, Mar Average, Korea, Republic of, KOR
-182.648,2003, Apr Average, Korea, Republic of, KOR
-177.74,2003, May Average, Korea, Republic of, KOR
-235.86,2003, Jun Average, Korea, Republic of, KOR
-519.235,2003, Jul Average, Korea, Republic of, KOR
-449.83,2003, Aug Average, Korea, Republic of, KOR
-253.787,2003, Sep Average, Korea, Republic of, KOR
-28.7489,2003, Oct Average, Korea, Republic of, KOR
-86.7156,2003, Nov Average, Korea, Republic of, KOR
-14.9766,2003, Dec Average, Korea, Republic of, KOR
-14.5595,2004, Jan Average, Korea, Republic of, KOR
-50.8525,2004, Feb Average, Korea, Republic of, KOR
-32.7854,2004, Mar Average, Korea, Republic of, KOR
-114.109,2004, Apr Average, Korea, Republic of, KOR
-145.643,2004, May Average, Korea, Republic of, KOR
-200.518,2004, Jun Average, Korea, Republic of, KOR
-337.317,2004, Jul Average, Korea, Republic of, KOR
-367.892,2004, Aug Average, Korea, Republic of, KOR
-206.965,2004, Sep Average, Korea, Republic of, KOR
-14.2216,2004, Oct Average, Korea, Republic of, KOR
-49.2119,2004, Nov Average, Korea, Republic of, KOR
-31.3436,2004, Dec Average, Korea, Republic of, KOR
-14.3147,2005, Jan Average, Korea, Republic of, KOR
-36.4596,2005, Feb Average, Korea, Republic of, KOR
-60.3599,2005, Mar Average, Korea, Republic of, KOR
-79.5844,2005, Apr Average, Korea, Republic of, KOR
-98.9033,2005, May Average, Korea, Republic of, KOR
-184.612,2005, Jun Average, Korea, Republic of, KOR
-268.516,2005, Jul Average, Korea, Republic of, KOR
-271.472,2005, Aug Average, Korea, Republic of, KOR
-233.68,2005, Sep Average, Korea, Republic of, KOR
-43.8854,2005, Oct Average, Korea, Republic of, KOR
-39.1609,2005, Nov Average, Korea, Republic of, KOR
-12.2083,2005, Dec Average, Korea, Republic of, KOR
-30.8365,2006, Jan Average, Korea, Republic of, KOR
-28.6836,2006, Feb Average, Korea, Republic of, KOR
-20.7048,2006, Mar Average, Korea, Republic of, KOR
-106.083,2006, Apr Average, Korea, Republic of, KOR
-194.498,2006, May Average, Korea, Republic of, KOR
-168.661,2006, Jun Average, Korea, Republic of, KOR
-588.072,2006, Jul Average, Korea, Republic of, KOR
-156.459,2006, Aug Average, Korea, Republic of, KOR
-74.0757,2006, Sep Average, Korea, Republic of, KOR
-66.7403,2006, Oct Average, Korea, Republic of, KOR
-46.1531,2006, Nov Average, Korea, Republic of, KOR
-20.2902,2006, Dec Average, Korea, Republic of, KOR
-11.5025,2007, Jan Average, Korea, Republic of, KOR
-42.8224,2007, Feb Average, Korea, Republic of, KOR
-103.493,2007, Mar Average, Korea, Republic of, KOR
-50.2595,2007, Apr Average, Korea, Republic of, KOR
-142.085,2007, May Average, Korea, Republic of, KOR
-95.1066,2007, Jun Average, Korea, Republic of, KOR
-291.065,2007, Jul Average, Korea, Republic of, KOR
-257.549,2007, Aug Average, Korea, Republic of, KOR
-303.297,2007, Sep Average, Korea, Republic of, KOR
-74.7455,2007, Oct Average, Korea, Republic of, KOR
-16.676,2007, Nov Average, Korea, Republic of, KOR
-27.3113,2007, Dec Average, Korea, Republic of, KOR
-39.6636,2008, Jan Average, Korea, Republic of, KOR
-13.0041,2008, Feb Average, Korea, Republic of, KOR
-64.9425,2008, Mar Average, Korea, Republic of, KOR
-58.3981,2008, Apr Average, Korea, Republic of, KOR
-124.849,2008, May Average, Korea, Republic of, KOR
-221.706,2008, Jun Average, Korea, Republic of, KOR
-289.752,2008, Jul Average, Korea, Republic of, KOR
-265.408,2008, Aug Average, Korea, Republic of, KOR
-66.672,2008, Sep Average, Korea, Republic of, KOR
-38.1779,2008, Oct Average, Korea, Republic of, KOR
-22.9631,2008, Nov Average, Korea, Republic of, KOR
-22.0741,2008, Dec Average, Korea, Republic of, KOR
-14.5251,2009, Jan Average, Korea, Republic of, KOR
-40.4465,2009, Feb Average, Korea, Republic of, KOR
-60.7894,2009, Mar Average, Korea, Republic of, KOR
-71.6725,2009, Apr Average, Korea, Republic of, KOR
-118.216,2009, May Average, Korea, Republic of, KOR
-154.557,2009, Jun Average, Korea, Republic of, KOR
-520.691,2009, Jul Average, Korea, Republic of, KOR
-168.848,2009, Aug Average, Korea, Republic of, KOR
-48.494,2009, Sep Average, Korea, Republic of, KOR
-63.0059,2009, Oct Average, Korea, Republic of, KOR
-63.2127,2009, Nov Average, Korea, Republic of, KOR
-22.0526,2009, Dec Average, Korea, Republic of, KOR
-30.2656,2010, Jan Average, Korea, Republic of, KOR
-68.4085,2010, Feb Average, Korea, Republic of, KOR
-104.265,2010, Mar Average, Korea, Republic of, KOR
-94.4549,2010, Apr Average, Korea, Republic of, KOR
-131.192,2010, May Average, Korea, Republic of, KOR
-116.722,2010, Jun Average, Korea, Republic of, KOR
-286.631,2010, Jul Average, Korea, Republic of, KOR
-344.398,2010, Aug Average, Korea, Republic of, KOR
-282.998,2010, Sep Average, Korea, Republic of, KOR
-44.2681,2010, Oct Average, Korea, Republic of, KOR
-16.371,2010, Nov Average, Korea, Republic of, KOR
-31.0577,2010, Dec Average, Korea, Republic of, KOR
-10.8444,2011, Jan Average, Korea, Republic of, KOR
-60.8289,2011, Feb Average, Korea, Republic of, KOR
-23.0313,2011, Mar Average, Korea, Republic of, KOR
-112.653,2011, Apr Average, Korea, Republic of, KOR
-115.363,2011, May Average, Korea, Republic of, KOR
-341.226,2011, Jun Average, Korea, Republic of, KOR
-391.479,2011, Jul Average, Korea, Republic of, KOR
-210.403,2011, Aug Average, Korea, Republic of, KOR
-65.1126,2011, Sep Average, Korea, Republic of, KOR
-61.056,2011, Oct Average, Korea, Republic of, KOR
-101.5,2011, Nov Average, Korea, Republic of, KOR
-21.5489,2011, Dec Average, Korea, Republic of, KOR
-19.22,2012, Jan Average, Korea, Republic of, KOR
-16.4577,2012, Feb Average, Korea, Republic of, KOR
-99.467,2012, Mar Average, Korea, Republic of, KOR
-153.317,2012, Apr Average, Korea, Republic of, KOR
-40.742,2012, May Average, Korea, Republic of, KOR
-103.267,2012, Jun Average, Korea, Republic of, KOR
-362.318,2012, Jul Average, Korea, Republic of, KOR
-394.646,2012, Aug Average, Korea, Republic of, KOR
-251.759,2012, Sep Average, Korea, Republic of, KOR
-76.0072,2012, Oct Average, Korea, Republic of, KOR
-59.5025,2012, Nov Average, Korea, Republic of, KOR
-55.4538,2012, Dec Average, Korea, Republic of, KOR
-26.4388,2013, Jan Average, Korea, Republic of, KOR
-61.4432,2013, Feb Average, Korea, Republic of, KOR
-59.821,2013, Mar Average, Korea, Republic of, KOR
-81.3538,2013, Apr Average, Korea, Republic of, KOR
-139.825,2013, May Average, Korea, Republic of, KOR
-89.0945,2013, Jun Average, Korea, Republic of, KOR
-353.907,2013, Jul Average, Korea, Republic of, KOR
-172.45,2013, Aug Average, Korea, Republic of, KOR
-111.922,2013, Sep Average, Korea, Republic of, KOR
-69.7054,2013, Oct Average, Korea, Republic of, KOR
-49.8409,2013, Nov Average, Korea, Republic of, KOR
-20.6417,2013, Dec Average, Korea, Republic of, KOR
-15.7654,2014, Jan Average, Korea, Republic of, KOR
-47.3477,2014, Feb Average, Korea, Republic of, KOR
-69.0634,2014, Mar Average, Korea, Republic of, KOR
-91.7795,2014, Apr Average, Korea, Republic of, KOR
-72.7986,2014, May Average, Korea, Republic of, KOR
-91.1234,2014, Jun Average, Korea, Republic of, KOR
-175.18,2014, Jul Average, Korea, Republic of, KOR
-411.8,2014, Aug Average, Korea, Republic of, KOR
-101.934,2014, Sep Average, Korea, Republic of, KOR
-104.116,2014, Oct Average, Korea, Republic of, KOR
-54.0085,2014, Nov Average, Korea, Republic of, KOR
-23.6883,2014, Dec Average, Korea, Republic of, KOR
-28.3284,2015, Jan Average, Korea, Republic of, KOR
-27.447,2015, Feb Average, Korea, Republic of, KOR
-39.5139,2015, Mar Average, Korea, Republic of, KOR
-137.368,2015, Apr Average, Korea, Republic of, KOR
-66.1887,2015, May Average, Korea, Republic of, KOR
-123.69,2015, Jun Average, Korea, Republic of, KOR
-199.956,2015, Jul Average, Korea, Republic of, KOR
-162.09,2015, Aug Average, Korea, Republic of, KOR
-70.735,2015, Sep Average, Korea, Republic of, KOR
-63.8656,2015, Oct Average, Korea, Republic of, KOR
-123.503,2015, Nov Average, Korea, Republic of, KOR
-36.5819,2015, Dec Average, Korea, Republic of, KOR
-33.1542,2016, Jan Average, Korea, Republic of, KOR
-50.2835,2016, Feb Average, Korea, Republic of, KOR
-66.2283,2016, Mar Average, Korea, Republic of, KOR
-147.763,2016, Apr Average, Korea, Republic of, KOR
-119.802,2016, May Average, Korea, Republic of, KOR
-100.446,2016, Jun Average, Korea, Republic of, KOR
-312.673,2016, Jul Average, Korea, Republic of, KOR
-113.354,2016, Aug Average, Korea, Republic of, KOR
-157.841,2016, Sep Average, Korea, Republic of, KOR
-146.8,2016, Oct Average, Korea, Republic of, KOR
-39.661,2016, Nov Average, Korea, Republic of, KOR
-58.8117,2016, Dec Average, Korea, Republic of, KOR
+7.6721,1991, Jan Average, Korea, PRK,
+13.2964,1991, Feb Average, Korea, PRK,
+36.9868,1991, Mar Average, Korea, PRK,
+36.9938,1991, Apr Average, Korea, PRK,
+73.0663,1991, May Average, Korea, PRK,
+139.871,1991, Jun Average, Korea, PRK,
+334.299,1991, Jul Average, Korea, PRK,
+55.946,1991, Aug Average, Korea, PRK,
+95.7396,1991, Sep Average, Korea, PRK,
+75.9141,1991, Oct Average, Korea, PRK,
+21.5149,1991, Nov Average, Korea, PRK,
+23.9261,1991, Dec Average, Korea, PRK,
+14.4679,1992, Jan Average, Korea, PRK,
+16.6985,1992, Feb Average, Korea, PRK,
+11.0745,1992, Mar Average, Korea, PRK,
+56.5972,1992, Apr Average, Korea, PRK,
+95.4607,1992, May Average, Korea, PRK,
+156.994,1992, Jun Average, Korea, PRK,
+200.872,1992, Jul Average, Korea, PRK,
+136.033,1992, Aug Average, Korea, PRK,
+221.347,1992, Sep Average, Korea, PRK,
+54.3939,1992, Oct Average, Korea, PRK,
+47.7715,1992, Nov Average, Korea, PRK,
+32.7691,1992, Dec Average, Korea, PRK,
+7.01129,1993, Jan Average, Korea, PRK,
+23.1434,1993, Feb Average, Korea, PRK,
+12.9532,1993, Mar Average, Korea, PRK,
+55.6076,1993, Apr Average, Korea, PRK,
+81.6769,1993, May Average, Korea, PRK,
+223.787,1993, Jun Average, Korea, PRK,
+169.25,1993, Jul Average, Korea, PRK,
+164.005,1993, Aug Average, Korea, PRK,
+81.7253,1993, Sep Average, Korea, PRK,
+29.6102,1993, Oct Average, Korea, PRK,
+61.4859,1993, Nov Average, Korea, PRK,
+18.6032,1993, Dec Average, Korea, PRK,
+12.9645,1994, Jan Average, Korea, PRK,
+8.32028,1994, Feb Average, Korea, PRK,
+25.5406,1994, Mar Average, Korea, PRK,
+43.4479,1994, Apr Average, Korea, PRK,
+158.569,1994, May Average, Korea, PRK,
+88.0016,1994, Jun Average, Korea, PRK,
+204.859,1994, Jul Average, Korea, PRK,
+268.758,1994, Aug Average, Korea, PRK,
+101.492,1994, Sep Average, Korea, PRK,
+80.2833,1994, Oct Average, Korea, PRK,
+41.9035,1994, Nov Average, Korea, PRK,
+10.9946,1994, Dec Average, Korea, PRK,
+5.88239,1995, Jan Average, Korea, PRK,
+18.6803,1995, Feb Average, Korea, PRK,
+28.8815,1995, Mar Average, Korea, PRK,
+34.6273,1995, Apr Average, Korea, PRK,
+118.821,1995, May Average, Korea, PRK,
+163.296,1995, Jun Average, Korea, PRK,
+283.706,1995, Jul Average, Korea, PRK,
+421.885,1995, Aug Average, Korea, PRK,
+51.4871,1995, Sep Average, Korea, PRK,
+61.2423,1995, Oct Average, Korea, PRK,
+23.5446,1995, Nov Average, Korea, PRK,
+2.83087,1995, Dec Average, Korea, PRK,
+6.34343,1996, Jan Average, Korea, PRK,
+5.04234,1996, Feb Average, Korea, PRK,
+47.2313,1996, Mar Average, Korea, PRK,
+33.0337,1996, Apr Average, Korea, PRK,
+58.1808,1996, May Average, Korea, PRK,
+197.595,1996, Jun Average, Korea, PRK,
+351.31,1996, Jul Average, Korea, PRK,
+177.646,1996, Aug Average, Korea, PRK,
+59.3209,1996, Sep Average, Korea, PRK,
+74.1174,1996, Oct Average, Korea, PRK,
+21.2394,1996, Nov Average, Korea, PRK,
+5.01359,1996, Dec Average, Korea, PRK,
+14.6025,1997, Jan Average, Korea, PRK,
+17.606,1997, Feb Average, Korea, PRK,
+27.4158,1997, Mar Average, Korea, PRK,
+22.6253,1997, Apr Average, Korea, PRK,
+208.302,1997, May Average, Korea, PRK,
+83.8802,1997, Jun Average, Korea, PRK,
+157.843,1997, Jul Average, Korea, PRK,
+178.303,1997, Aug Average, Korea, PRK,
+53.8229,1997, Sep Average, Korea, PRK,
+43.3983,1997, Oct Average, Korea, PRK,
+41.2789,1997, Nov Average, Korea, PRK,
+21.5855,1997, Dec Average, Korea, PRK,
+10.1576,1998, Jan Average, Korea, PRK,
+20.6953,1998, Feb Average, Korea, PRK,
+30.6352,1998, Mar Average, Korea, PRK,
+64.8807,1998, Apr Average, Korea, PRK,
+116.389,1998, May Average, Korea, PRK,
+143.271,1998, Jun Average, Korea, PRK,
+292.853,1998, Jul Average, Korea, PRK,
+312.853,1998, Aug Average, Korea, PRK,
+113.343,1998, Sep Average, Korea, PRK,
+37.2528,1998, Oct Average, Korea, PRK,
+41.7626,1998, Nov Average, Korea, PRK,
+13.368,1998, Dec Average, Korea, PRK,
+8.36356,1999, Jan Average, Korea, PRK,
+2.66158,1999, Feb Average, Korea, PRK,
+56.0812,1999, Mar Average, Korea, PRK,
+59.9673,1999, Apr Average, Korea, PRK,
+102.512,1999, May Average, Korea, PRK,
+112.415,1999, Jun Average, Korea, PRK,
+193.774,1999, Jul Average, Korea, PRK,
+261.133,1999, Aug Average, Korea, PRK,
+160.382,1999, Sep Average, Korea, PRK,
+55.8313,1999, Oct Average, Korea, PRK,
+23.3476,1999, Nov Average, Korea, PRK,
+10.233,1999, Dec Average, Korea, PRK,
+32.5454,2000, Jan Average, Korea, PRK,
+5.18211,2000, Feb Average, Korea, PRK,
+30.6233,2000, Mar Average, Korea, PRK,
+42.7664,2000, Apr Average, Korea, PRK,
+80.4436,2000, May Average, Korea, PRK,
+66.7193,2000, Jun Average, Korea, PRK,
+172.988,2000, Jul Average, Korea, PRK,
+282.131,2000, Aug Average, Korea, PRK,
+139.577,2000, Sep Average, Korea, PRK,
+30.7593,2000, Oct Average, Korea, PRK,
+28.0084,2000, Nov Average, Korea, PRK,
+20.2114,2000, Dec Average, Korea, PRK,
+23.7068,2001, Jan Average, Korea, PRK,
+12.6517,2001, Feb Average, Korea, PRK,
+25.6961,2001, Mar Average, Korea, PRK,
+8.7869,2001, Apr Average, Korea, PRK,
+74.5567,2001, May Average, Korea, PRK,
+152.121,2001, Jun Average, Korea, PRK,
+343.329,2001, Jul Average, Korea, PRK,
+152.056,2001, Aug Average, Korea, PRK,
+55.6824,2001, Sep Average, Korea, PRK,
+69.8784,2001, Oct Average, Korea, PRK,
+9.48248,2001, Nov Average, Korea, PRK,
+8.55501,2001, Dec Average, Korea, PRK,
+28.3586,2002, Jan Average, Korea, PRK,
+5.99968,2002, Feb Average, Korea, PRK,
+34.029,2002, Mar Average, Korea, PRK,
+86.6228,2002, Apr Average, Korea, PRK,
+43.799,2002, May Average, Korea, PRK,
+94.0233,2002, Jun Average, Korea, PRK,
+245.709,2002, Jul Average, Korea, PRK,
+254.071,2002, Aug Average, Korea, PRK,
+45.5155,2002, Sep Average, Korea, PRK,
+88.6223,2002, Oct Average, Korea, PRK,
+20.8042,2002, Nov Average, Korea, PRK,
+18.896,2002, Dec Average, Korea, PRK,
+12.0195,2003, Jan Average, Korea, PRK,
+13.8974,2003, Feb Average, Korea, PRK,
+27.5413,2003, Mar Average, Korea, PRK,
+101.69,2003, Apr Average, Korea, PRK,
+68.8176,2003, May Average, Korea, PRK,
+134.979,2003, Jun Average, Korea, PRK,
+291.568,2003, Jul Average, Korea, PRK,
+259.976,2003, Aug Average, Korea, PRK,
+131.034,2003, Sep Average, Korea, PRK,
+65.2753,2003, Oct Average, Korea, PRK,
+59.0167,2003, Nov Average, Korea, PRK,
+6.06835,2003, Dec Average, Korea, PRK,
+6.53136,2004, Jan Average, Korea, PRK,
+52.1471,2004, Feb Average, Korea, PRK,
+39.6533,2004, Mar Average, Korea, PRK,
+47.7167,2004, Apr Average, Korea, PRK,
+119.871,2004, May Average, Korea, PRK,
+100.682,2004, Jun Average, Korea, PRK,
+410.701,2004, Jul Average, Korea, PRK,
+142.586,2004, Aug Average, Korea, PRK,
+151.359,2004, Sep Average, Korea, PRK,
+15.3193,2004, Oct Average, Korea, PRK,
+57.2923,2004, Nov Average, Korea, PRK,
+21.9109,2004, Dec Average, Korea, PRK,
+7.11745,2005, Jan Average, Korea, PRK,
+19.2756,2005, Feb Average, Korea, PRK,
+7.63066,2005, Mar Average, Korea, PRK,
+79.9152,2005, Apr Average, Korea, PRK,
+156.524,2005, May Average, Korea, PRK,
+184.671,2005, Jun Average, Korea, PRK,
+236.827,2005, Jul Average, Korea, PRK,
+302.911,2005, Aug Average, Korea, PRK,
+127.88,2005, Sep Average, Korea, PRK,
+31.7595,2005, Oct Average, Korea, PRK,
+25.0045,2005, Nov Average, Korea, PRK,
+8.444,2005, Dec Average, Korea, PRK,
+16.3025,2006, Jan Average, Korea, PRK,
+21.9804,2006, Feb Average, Korea, PRK,
+14.9716,2006, Mar Average, Korea, PRK,
+75.7778,2006, Apr Average, Korea, PRK,
+130.47,2006, May Average, Korea, PRK,
+188.846,2006, Jun Average, Korea, PRK,
+260.77,2006, Jul Average, Korea, PRK,
+182.553,2006, Aug Average, Korea, PRK,
+30.9034,2006, Sep Average, Korea, PRK,
+96.507,2006, Oct Average, Korea, PRK,
+22.5792,2006, Nov Average, Korea, PRK,
+9.52233,2006, Dec Average, Korea, PRK,
+13.0399,2007, Jan Average, Korea, PRK,
+21.2308,2007, Feb Average, Korea, PRK,
+81.8644,2007, Mar Average, Korea, PRK,
+59.0627,2007, Apr Average, Korea, PRK,
+138.173,2007, May Average, Korea, PRK,
+57.0004,2007, Jun Average, Korea, PRK,
+145.86,2007, Jul Average, Korea, PRK,
+327.038,2007, Aug Average, Korea, PRK,
+239.917,2007, Sep Average, Korea, PRK,
+77.4399,2007, Oct Average, Korea, PRK,
+21.041,2007, Nov Average, Korea, PRK,
+10.0824,2007, Dec Average, Korea, PRK,
+5.63144,2008, Jan Average, Korea, PRK,
+5.00955,2008, Feb Average, Korea, PRK,
+35.6417,2008, Mar Average, Korea, PRK,
+30.7494,2008, Apr Average, Korea, PRK,
+102.473,2008, May Average, Korea, PRK,
+112.621,2008, Jun Average, Korea, PRK,
+304.482,2008, Jul Average, Korea, PRK,
+213.858,2008, Aug Average, Korea, PRK,
+41.114,2008, Sep Average, Korea, PRK,
+41.9201,2008, Oct Average, Korea, PRK,
+9.7091,2008, Nov Average, Korea, PRK,
+12.4497,2008, Dec Average, Korea, PRK,
+7.60026,2009, Jan Average, Korea, PRK,
+33.744,2009, Feb Average, Korea, PRK,
+27.6837,2009, Mar Average, Korea, PRK,
+78.4356,2009, Apr Average, Korea, PRK,
+65.2899,2009, May Average, Korea, PRK,
+166.781,2009, Jun Average, Korea, PRK,
+296.415,2009, Jul Average, Korea, PRK,
+138.402,2009, Aug Average, Korea, PRK,
+48.336,2009, Sep Average, Korea, PRK,
+91.14,2009, Oct Average, Korea, PRK,
+32.2132,2009, Nov Average, Korea, PRK,
+21.2543,2009, Dec Average, Korea, PRK,
+11.7328,2010, Jan Average, Korea, PRK,
+26.5588,2010, Feb Average, Korea, PRK,
+62.2874,2010, Mar Average, Korea, PRK,
+64.2345,2010, Apr Average, Korea, PRK,
+109.513,2010, May Average, Korea, PRK,
+84.0754,2010, Jun Average, Korea, PRK,
+300.35,2010, Jul Average, Korea, PRK,
+328.631,2010, Aug Average, Korea, PRK,
+231.43,2010, Sep Average, Korea, PRK,
+51.6648,2010, Oct Average, Korea, PRK,
+55.9991,2010, Nov Average, Korea, PRK,
+21.5992,2010, Dec Average, Korea, PRK,
+2.98347,2011, Jan Average, Korea, PRK,
+13.2266,2011, Feb Average, Korea, PRK,
+9.07303,2011, Mar Average, Korea, PRK,
+52.9199,2011, Apr Average, Korea, PRK,
+88.9152,2011, May Average, Korea, PRK,
+186.075,2011, Jun Average, Korea, PRK,
+269.552,2011, Jul Average, Korea, PRK,
+226.71,2011, Aug Average, Korea, PRK,
+74.5335,2011, Sep Average, Korea, PRK,
+32.9576,2011, Oct Average, Korea, PRK,
+60.2524,2011, Nov Average, Korea, PRK,
+6.70064,2011, Dec Average, Korea, PRK,
+4.59526,2012, Jan Average, Korea, PRK,
+9.44942,2012, Feb Average, Korea, PRK,
+42.0351,2012, Mar Average, Korea, PRK,
+81.1597,2012, Apr Average, Korea, PRK,
+55.5849,2012, May Average, Korea, PRK,
+169.993,2012, Jun Average, Korea, PRK,
+337.71,2012, Jul Average, Korea, PRK,
+279.425,2012, Aug Average, Korea, PRK,
+155.616,2012, Sep Average, Korea, PRK,
+93.809,2012, Oct Average, Korea, PRK,
+56.8975,2012, Nov Average, Korea, PRK,
+24.7216,2012, Dec Average, Korea, PRK,
+12.0663,2013, Jan Average, Korea, PRK,
+33.2122,2013, Feb Average, Korea, PRK,
+37.2971,2013, Mar Average, Korea, PRK,
+63.6498,2013, Apr Average, Korea, PRK,
+89.9609,2013, May Average, Korea, PRK,
+99.3098,2013, Jun Average, Korea, PRK,
+456.354,2013, Jul Average, Korea, PRK,
+238.248,2013, Aug Average, Korea, PRK,
+94.3624,2013, Sep Average, Korea, PRK,
+54.8553,2013, Oct Average, Korea, PRK,
+53.1884,2013, Nov Average, Korea, PRK,
+12.0787,2013, Dec Average, Korea, PRK,
+6.58488,2014, Jan Average, Korea, PRK,
+15.9507,2014, Feb Average, Korea, PRK,
+15.6786,2014, Mar Average, Korea, PRK,
+37.0895,2014, Apr Average, Korea, PRK,
+86.3435,2014, May Average, Korea, PRK,
+92.3876,2014, Jun Average, Korea, PRK,
+165.024,2014, Jul Average, Korea, PRK,
+157.354,2014, Aug Average, Korea, PRK,
+76.6638,2014, Sep Average, Korea, PRK,
+58.0488,2014, Oct Average, Korea, PRK,
+27.6722,2014, Nov Average, Korea, PRK,
+8.90287,2014, Dec Average, Korea, PRK,
+10.4587,2015, Jan Average, Korea, PRK,
+21.1647,2015, Feb Average, Korea, PRK,
+19.4639,2015, Mar Average, Korea, PRK,
+50.1321,2015, Apr Average, Korea, PRK,
+56.9879,2015, May Average, Korea, PRK,
+118.837,2015, Jun Average, Korea, PRK,
+167.606,2015, Jul Average, Korea, PRK,
+215.069,2015, Aug Average, Korea, PRK,
+35.5969,2015, Sep Average, Korea, PRK,
+79.0568,2015, Oct Average, Korea, PRK,
+64.655,2015, Nov Average, Korea, PRK,
+14.1411,2015, Dec Average, Korea, PRK,
+9.29037,2016, Jan Average, Korea, PRK,
+26.4979,2016, Feb Average, Korea, PRK,
+31.9413,2016, Mar Average, Korea, PRK,
+54.3268,2016, Apr Average, Korea, PRK,
+165.142,2016, May Average, Korea, PRK,
+120.97,2016, Jun Average, Korea, PRK,
+242.087,2016, Jul Average, Korea, PRK,
+156.628,2016, Aug Average, Korea, PRK,
+76.3551,2016, Sep Average, Korea, PRK,
+77.5902,2016, Oct Average, Korea, PRK,
+51.6351,2016, Nov Average, Korea, PRK,
+24.4094,2016, Dec Average, Korea, PRK,
+25.7248,1991, Jan Average, Korea, KOR,
+46.2784,1991, Feb Average, Korea, KOR,
+85.3888,1991, Mar Average, Korea, KOR,
+88.2667,1991, Apr Average, Korea, KOR,
+79.7667,1991, May Average, Korea, KOR,
+154.111,1991, Jun Average, Korea, KOR,
+440.52,1991, Jul Average, Korea, KOR,
+227.884,1991, Aug Average, Korea, KOR,
+165.65,1991, Sep Average, Korea, KOR,
+17.166,1991, Oct Average, Korea, KOR,
+20.6337,1991, Nov Average, Korea, KOR,
+57.2474,1991, Dec Average, Korea, KOR,
+24.5275,1992, Jan Average, Korea, KOR,
+31.6902,1992, Feb Average, Korea, KOR,
+57.3645,1992, Mar Average, Korea, KOR,
+114.52,1992, Apr Average, Korea, KOR,
+107.949,1992, May Average, Korea, KOR,
+58.8577,1992, Jun Average, Korea, KOR,
+187.443,1992, Jul Average, Korea, KOR,
+293.99,1992, Aug Average, Korea, KOR,
+173.693,1992, Sep Average, Korea, KOR,
+36.7228,1992, Oct Average, Korea, KOR,
+40.5563,1992, Nov Average, Korea, KOR,
+48.6197,1992, Dec Average, Korea, KOR,
+25.7929,1993, Jan Average, Korea, KOR,
+65.5564,1993, Feb Average, Korea, KOR,
+50.0594,1993, Mar Average, Korea, KOR,
+57.2619,1993, Apr Average, Korea, KOR,
+145.152,1993, May Average, Korea, KOR,
+223.398,1993, Jun Average, Korea, KOR,
+335.595,1993, Jul Average, Korea, KOR,
+392.977,1993, Aug Average, Korea, KOR,
+71.0516,1993, Sep Average, Korea, KOR,
+41.5724,1993, Oct Average, Korea, KOR,
+73.3624,1993, Nov Average, Korea, KOR,
+21.7799,1993, Dec Average, Korea, KOR,
+25.3809,1994, Jan Average, Korea, KOR,
+23.5634,1994, Feb Average, Korea, KOR,
+33.6883,1994, Mar Average, Korea, KOR,
+53.1749,1994, Apr Average, Korea, KOR,
+150.747,1994, May Average, Korea, KOR,
+112.176,1994, Jun Average, Korea, KOR,
+114.826,1994, Jul Average, Korea, KOR,
+188.232,1994, Aug Average, Korea, KOR,
+44.0341,1994, Sep Average, Korea, KOR,
+126.189,1994, Oct Average, Korea, KOR,
+41.0047,1994, Nov Average, Korea, KOR,
+14.8644,1994, Dec Average, Korea, KOR,
+24.6909,1995, Jan Average, Korea, KOR,
+19.5084,1995, Feb Average, Korea, KOR,
+58.3916,1995, Mar Average, Korea, KOR,
+72.3944,1995, Apr Average, Korea, KOR,
+76.5272,1995, May Average, Korea, KOR,
+97.219,1995, Jun Average, Korea, KOR,
+240.817,1995, Jul Average, Korea, KOR,
+393.218,1995, Aug Average, Korea, KOR,
+55.8884,1995, Sep Average, Korea, KOR,
+35.5744,1995, Oct Average, Korea, KOR,
+19.8453,1995, Nov Average, Korea, KOR,
+5.47,1995, Dec Average, Korea, KOR,
+25.6889,1996, Jan Average, Korea, KOR,
+10.3919,1996, Feb Average, Korea, KOR,
+118.851,1996, Mar Average, Korea, KOR,
+59.6123,1996, Apr Average, Korea, KOR,
+49.43,1996, May Average, Korea, KOR,
+364.855,1996, Jun Average, Korea, KOR,
+245.589,1996, Jul Average, Korea, KOR,
+140.846,1996, Aug Average, Korea, KOR,
+30.1289,1996, Sep Average, Korea, KOR,
+71.251,1996, Oct Average, Korea, KOR,
+62.8065,1996, Nov Average, Korea, KOR,
+23.8176,1996, Dec Average, Korea, KOR,
+15.9149,1997, Jan Average, Korea, KOR,
+29.1997,1997, Feb Average, Korea, KOR,
+40.2842,1997, Mar Average, Korea, KOR,
+67.9888,1997, Apr Average, Korea, KOR,
+199.542,1997, May Average, Korea, KOR,
+228.03,1997, Jun Average, Korea, KOR,
+282.799,1997, Jul Average, Korea, KOR,
+243.087,1997, Aug Average, Korea, KOR,
+54.6025,1997, Sep Average, Korea, KOR,
+12.9491,1997, Oct Average, Korea, KOR,
+134.482,1997, Nov Average, Korea, KOR,
+56.358,1997, Dec Average, Korea, KOR,
+43.7604,1998, Jan Average, Korea, KOR,
+49.5877,1998, Feb Average, Korea, KOR,
+49.4687,1998, Mar Average, Korea, KOR,
+161.835,1998, Apr Average, Korea, KOR,
+119.005,1998, May Average, Korea, KOR,
+306.953,1998, Jun Average, Korea, KOR,
+315.28,1998, Jul Average, Korea, KOR,
+405.411,1998, Aug Average, Korea, KOR,
+239.151,1998, Sep Average, Korea, KOR,
+65.835,1998, Oct Average, Korea, KOR,
+29.5731,1998, Nov Average, Korea, KOR,
+5.77052,1998, Dec Average, Korea, KOR,
+19.7928,1999, Jan Average, Korea, KOR,
+21.3007,1999, Feb Average, Korea, KOR,
+96.1401,1999, Mar Average, Korea, KOR,
+90.5745,1999, Apr Average, Korea, KOR,
+150.549,1999, May Average, Korea, KOR,
+188.639,1999, Jun Average, Korea, KOR,
+283.852,1999, Jul Average, Korea, KOR,
+427.281,1999, Aug Average, Korea, KOR,
+337.437,1999, Sep Average, Korea, KOR,
+105.312,1999, Oct Average, Korea, KOR,
+24.8857,1999, Nov Average, Korea, KOR,
+9.55286,1999, Dec Average, Korea, KOR,
+33.8859,2000, Jan Average, Korea, KOR,
+4.23724,2000, Feb Average, Korea, KOR,
+26.9331,2000, Mar Average, Korea, KOR,
+39.7456,2000, Apr Average, Korea, KOR,
+58.5718,2000, May Average, Korea, KOR,
+185.124,2000, Jun Average, Korea, KOR,
+238.355,2000, Jul Average, Korea, KOR,
+392.49,2000, Aug Average, Korea, KOR,
+243.362,2000, Sep Average, Korea, KOR,
+32.9219,2000, Oct Average, Korea, KOR,
+50.4098,2000, Nov Average, Korea, KOR,
+13.9334,2000, Dec Average, Korea, KOR,
+48.5158,2001, Jan Average, Korea, KOR,
+55.1743,2001, Feb Average, Korea, KOR,
+17.7337,2001, Mar Average, Korea, KOR,
+25.5244,2001, Apr Average, Korea, KOR,
+47.2595,2001, May Average, Korea, KOR,
+271.911,2001, Jun Average, Korea, KOR,
+314.794,2001, Jul Average, Korea, KOR,
+151.601,2001, Aug Average, Korea, KOR,
+90.247,2001, Sep Average, Korea, KOR,
+106.567,2001, Oct Average, Korea, KOR,
+18.2964,2001, Nov Average, Korea, KOR,
+29.3836,2001, Dec Average, Korea, KOR,
+53.4586,2002, Jan Average, Korea, KOR,
+7.72773,2002, Feb Average, Korea, KOR,
+58.4424,2002, Mar Average, Korea, KOR,
+154.507,2002, Apr Average, Korea, KOR,
+100.633,2002, May Average, Korea, KOR,
+73.89,2002, Jun Average, Korea, KOR,
+295.552,2002, Jul Average, Korea, KOR,
+464.508,2002, Aug Average, Korea, KOR,
+80.9085,2002, Sep Average, Korea, KOR,
+68.8405,2002, Oct Average, Korea, KOR,
+11.9926,2002, Nov Average, Korea, KOR,
+39.7777,2002, Dec Average, Korea, KOR,
+24.2639,2003, Jan Average, Korea, KOR,
+45.7442,2003, Feb Average, Korea, KOR,
+57.8714,2003, Mar Average, Korea, KOR,
+182.648,2003, Apr Average, Korea, KOR,
+177.74,2003, May Average, Korea, KOR,
+235.86,2003, Jun Average, Korea, KOR,
+519.235,2003, Jul Average, Korea, KOR,
+449.83,2003, Aug Average, Korea, KOR,
+253.787,2003, Sep Average, Korea, KOR,
+28.7489,2003, Oct Average, Korea, KOR,
+86.7156,2003, Nov Average, Korea, KOR,
+14.9766,2003, Dec Average, Korea, KOR,
+14.5595,2004, Jan Average, Korea, KOR,
+50.8525,2004, Feb Average, Korea, KOR,
+32.7854,2004, Mar Average, Korea, KOR,
+114.109,2004, Apr Average, Korea, KOR,
+145.643,2004, May Average, Korea, KOR,
+200.518,2004, Jun Average, Korea, KOR,
+337.317,2004, Jul Average, Korea, KOR,
+367.892,2004, Aug Average, Korea, KOR,
+206.965,2004, Sep Average, Korea, KOR,
+14.2216,2004, Oct Average, Korea, KOR,
+49.2119,2004, Nov Average, Korea, KOR,
+31.3436,2004, Dec Average, Korea, KOR,
+14.3147,2005, Jan Average, Korea, KOR,
+36.4596,2005, Feb Average, Korea, KOR,
+60.3599,2005, Mar Average, Korea, KOR,
+79.5844,2005, Apr Average, Korea, KOR,
+98.9033,2005, May Average, Korea, KOR,
+184.612,2005, Jun Average, Korea, KOR,
+268.516,2005, Jul Average, Korea, KOR,
+271.472,2005, Aug Average, Korea, KOR,
+233.68,2005, Sep Average, Korea, KOR,
+43.8854,2005, Oct Average, Korea, KOR,
+39.1609,2005, Nov Average, Korea, KOR,
+12.2083,2005, Dec Average, Korea, KOR,
+30.8365,2006, Jan Average, Korea, KOR,
+28.6836,2006, Feb Average, Korea, KOR,
+20.7048,2006, Mar Average, Korea, KOR,
+106.083,2006, Apr Average, Korea, KOR,
+194.498,2006, May Average, Korea, KOR,
+168.661,2006, Jun Average, Korea, KOR,
+588.072,2006, Jul Average, Korea, KOR,
+156.459,2006, Aug Average, Korea, KOR,
+74.0757,2006, Sep Average, Korea, KOR,
+66.7403,2006, Oct Average, Korea, KOR,
+46.1531,2006, Nov Average, Korea, KOR,
+20.2902,2006, Dec Average, Korea, KOR,
+11.5025,2007, Jan Average, Korea, KOR,
+42.8224,2007, Feb Average, Korea, KOR,
+103.493,2007, Mar Average, Korea, KOR,
+50.2595,2007, Apr Average, Korea, KOR,
+142.085,2007, May Average, Korea, KOR,
+95.1066,2007, Jun Average, Korea, KOR,
+291.065,2007, Jul Average, Korea, KOR,
+257.549,2007, Aug Average, Korea, KOR,
+303.297,2007, Sep Average, Korea, KOR,
+74.7455,2007, Oct Average, Korea, KOR,
+16.676,2007, Nov Average, Korea, KOR,
+27.3113,2007, Dec Average, Korea, KOR,
+39.6636,2008, Jan Average, Korea, KOR,
+13.0041,2008, Feb Average, Korea, KOR,
+64.9425,2008, Mar Average, Korea, KOR,
+58.3981,2008, Apr Average, Korea, KOR,
+124.849,2008, May Average, Korea, KOR,
+221.706,2008, Jun Average, Korea, KOR,
+289.752,2008, Jul Average, Korea, KOR,
+265.408,2008, Aug Average, Korea, KOR,
+66.672,2008, Sep Average, Korea, KOR,
+38.1779,2008, Oct Average, Korea, KOR,
+22.9631,2008, Nov Average, Korea, KOR,
+22.0741,2008, Dec Average, Korea, KOR,
+14.5251,2009, Jan Average, Korea, KOR,
+40.4465,2009, Feb Average, Korea, KOR,
+60.7894,2009, Mar Average, Korea, KOR,
+71.6725,2009, Apr Average, Korea, KOR,
+118.216,2009, May Average, Korea, KOR,
+154.557,2009, Jun Average, Korea, KOR,
+520.691,2009, Jul Average, Korea, KOR,
+168.848,2009, Aug Average, Korea, KOR,
+48.494,2009, Sep Average, Korea, KOR,
+63.0059,2009, Oct Average, Korea, KOR,
+63.2127,2009, Nov Average, Korea, KOR,
+22.0526,2009, Dec Average, Korea, KOR,
+30.2656,2010, Jan Average, Korea, KOR,
+68.4085,2010, Feb Average, Korea, KOR,
+104.265,2010, Mar Average, Korea, KOR,
+94.4549,2010, Apr Average, Korea, KOR,
+131.192,2010, May Average, Korea, KOR,
+116.722,2010, Jun Average, Korea, KOR,
+286.631,2010, Jul Average, Korea, KOR,
+344.398,2010, Aug Average, Korea, KOR,
+282.998,2010, Sep Average, Korea, KOR,
+44.2681,2010, Oct Average, Korea, KOR,
+16.371,2010, Nov Average, Korea, KOR,
+31.0577,2010, Dec Average, Korea, KOR,
+10.8444,2011, Jan Average, Korea, KOR,
+60.8289,2011, Feb Average, Korea, KOR,
+23.0313,2011, Mar Average, Korea, KOR,
+112.653,2011, Apr Average, Korea, KOR,
+115.363,2011, May Average, Korea, KOR,
+341.226,2011, Jun Average, Korea, KOR,
+391.479,2011, Jul Average, Korea, KOR,
+210.403,2011, Aug Average, Korea, KOR,
+65.1126,2011, Sep Average, Korea, KOR,
+61.056,2011, Oct Average, Korea, KOR,
+101.5,2011, Nov Average, Korea, KOR,
+21.5489,2011, Dec Average, Korea, KOR,
+19.22,2012, Jan Average, Korea, KOR,
+16.4577,2012, Feb Average, Korea, KOR,
+99.467,2012, Mar Average, Korea, KOR,
+153.317,2012, Apr Average, Korea, KOR,
+40.742,2012, May Average, Korea, KOR,
+103.267,2012, Jun Average, Korea, KOR,
+362.318,2012, Jul Average, Korea, KOR,
+394.646,2012, Aug Average, Korea, KOR,
+251.759,2012, Sep Average, Korea, KOR,
+76.0072,2012, Oct Average, Korea, KOR,
+59.5025,2012, Nov Average, Korea, KOR,
+55.4538,2012, Dec Average, Korea, KOR,
+26.4388,2013, Jan Average, Korea, KOR,
+61.4432,2013, Feb Average, Korea, KOR,
+59.821,2013, Mar Average, Korea, KOR,
+81.3538,2013, Apr Average, Korea, KOR,
+139.825,2013, May Average, Korea, KOR,
+89.0945,2013, Jun Average, Korea, KOR,
+353.907,2013, Jul Average, Korea, KOR,
+172.45,2013, Aug Average, Korea, KOR,
+111.922,2013, Sep Average, Korea, KOR,
+69.7054,2013, Oct Average, Korea, KOR,
+49.8409,2013, Nov Average, Korea, KOR,
+20.6417,2013, Dec Average, Korea, KOR,
+15.7654,2014, Jan Average, Korea, KOR,
+47.3477,2014, Feb Average, Korea, KOR,
+69.0634,2014, Mar Average, Korea, KOR,
+91.7795,2014, Apr Average, Korea, KOR,
+72.7986,2014, May Average, Korea, KOR,
+91.1234,2014, Jun Average, Korea, KOR,
+175.18,2014, Jul Average, Korea, KOR,
+411.8,2014, Aug Average, Korea, KOR,
+101.934,2014, Sep Average, Korea, KOR,
+104.116,2014, Oct Average, Korea, KOR,
+54.0085,2014, Nov Average, Korea, KOR,
+23.6883,2014, Dec Average, Korea, KOR,
+28.3284,2015, Jan Average, Korea, KOR,
+27.447,2015, Feb Average, Korea, KOR,
+39.5139,2015, Mar Average, Korea, KOR,
+137.368,2015, Apr Average, Korea, KOR,
+66.1887,2015, May Average, Korea, KOR,
+123.69,2015, Jun Average, Korea, KOR,
+199.956,2015, Jul Average, Korea, KOR,
+162.09,2015, Aug Average, Korea, KOR,
+70.735,2015, Sep Average, Korea, KOR,
+63.8656,2015, Oct Average, Korea, KOR,
+123.503,2015, Nov Average, Korea, KOR,
+36.5819,2015, Dec Average, Korea, KOR,
+33.1542,2016, Jan Average, Korea, KOR,
+50.2835,2016, Feb Average, Korea, KOR,
+66.2283,2016, Mar Average, Korea, KOR,
+147.763,2016, Apr Average, Korea, KOR,
+119.802,2016, May Average, Korea, KOR,
+100.446,2016, Jun Average, Korea, KOR,
+312.673,2016, Jul Average, Korea, KOR,
+113.354,2016, Aug Average, Korea, KOR,
+157.841,2016, Sep Average, Korea, KOR,
+146.8,2016, Oct Average, Korea, KOR,
+39.661,2016, Nov Average, Korea, KOR,
+58.8117,2016, Dec Average, Korea, KOR,
 49.6331,1991, Jan Average, Kuwait, KWT,
 17.2835,1991, Feb Average, Kuwait, KWT,
 47.5682,1991, Mar Average, Kuwait, KWT,
@@ -53975,318 +53975,318 @@ Rainfall - (MM), Year, Statistics, Country, ISO3,
 22.1489,2016, Oct Average, Tajikistan, TJK,
 68.3156,2016, Nov Average, Tajikistan, TJK,
 110.164,2016, Dec Average, Tajikistan, TJK,
-189.55,1991, Jan Average, Tanzania, United Republic of, TZA
-112.109,1991, Feb Average, Tanzania, United Republic of, TZA
-197.159,1991, Mar Average, Tanzania, United Republic of, TZA
-151.026,1991, Apr Average, Tanzania, United Republic of, TZA
-82.8311,1991, May Average, Tanzania, United Republic of, TZA
-9.43056,1991, Jun Average, Tanzania, United Republic of, TZA
-9.55096,1991, Jul Average, Tanzania, United Republic of, TZA
-8.17598,1991, Aug Average, Tanzania, United Republic of, TZA
-14.2885,1991, Sep Average, Tanzania, United Republic of, TZA
-43.9668,1991, Oct Average, Tanzania, United Republic of, TZA
-81.5788,1991, Nov Average, Tanzania, United Republic of, TZA
-167.593,1991, Dec Average, Tanzania, United Republic of, TZA
-90.1893,1992, Jan Average, Tanzania, United Republic of, TZA
-143.049,1992, Feb Average, Tanzania, United Republic of, TZA
-128.725,1992, Mar Average, Tanzania, United Republic of, TZA
-182.558,1992, Apr Average, Tanzania, United Republic of, TZA
-73.9676,1992, May Average, Tanzania, United Republic of, TZA
-15.1946,1992, Jun Average, Tanzania, United Republic of, TZA
-8.29667,1992, Jul Average, Tanzania, United Republic of, TZA
-4.18528,1992, Aug Average, Tanzania, United Republic of, TZA
-12.0556,1992, Sep Average, Tanzania, United Republic of, TZA
-30.2789,1992, Oct Average, Tanzania, United Republic of, TZA
-120.326,1992, Nov Average, Tanzania, United Republic of, TZA
-151.898,1992, Dec Average, Tanzania, United Republic of, TZA
-171.3,1993, Jan Average, Tanzania, United Republic of, TZA
-143.037,1993, Feb Average, Tanzania, United Republic of, TZA
-175.642,1993, Mar Average, Tanzania, United Republic of, TZA
-153.517,1993, Apr Average, Tanzania, United Republic of, TZA
-62.8034,1993, May Average, Tanzania, United Republic of, TZA
-12.8529,1993, Jun Average, Tanzania, United Republic of, TZA
-5.76061,1993, Jul Average, Tanzania, United Republic of, TZA
-8.95719,1993, Aug Average, Tanzania, United Republic of, TZA
-6.61319,1993, Sep Average, Tanzania, United Republic of, TZA
-16.9775,1993, Oct Average, Tanzania, United Republic of, TZA
-59.5686,1993, Nov Average, Tanzania, United Republic of, TZA
-51.6446,1993, Dec Average, Tanzania, United Republic of, TZA
-166.442,1994, Jan Average, Tanzania, United Republic of, TZA
-171.197,1994, Feb Average, Tanzania, United Republic of, TZA
-185.011,1994, Mar Average, Tanzania, United Republic of, TZA
-121.202,1994, Apr Average, Tanzania, United Republic of, TZA
-60.0556,1994, May Average, Tanzania, United Republic of, TZA
-7.11365,1994, Jun Average, Tanzania, United Republic of, TZA
-10.082,1994, Jul Average, Tanzania, United Republic of, TZA
-10.8051,1994, Aug Average, Tanzania, United Republic of, TZA
-8.65605,1994, Sep Average, Tanzania, United Republic of, TZA
-30.6484,1994, Oct Average, Tanzania, United Republic of, TZA
-90.0906,1994, Nov Average, Tanzania, United Republic of, TZA
-149.261,1994, Dec Average, Tanzania, United Republic of, TZA
-153.085,1995, Jan Average, Tanzania, United Republic of, TZA
-160.654,1995, Feb Average, Tanzania, United Republic of, TZA
-201.858,1995, Mar Average, Tanzania, United Republic of, TZA
-130.175,1995, Apr Average, Tanzania, United Republic of, TZA
-79.8466,1995, May Average, Tanzania, United Republic of, TZA
-6.84641,1995, Jun Average, Tanzania, United Republic of, TZA
-3.3684,1995, Jul Average, Tanzania, United Republic of, TZA
-12.0057,1995, Aug Average, Tanzania, United Republic of, TZA
-17.171,1995, Sep Average, Tanzania, United Republic of, TZA
-38.7939,1995, Oct Average, Tanzania, United Republic of, TZA
-32.4053,1995, Nov Average, Tanzania, United Republic of, TZA
-113.471,1995, Dec Average, Tanzania, United Republic of, TZA
-137.776,1996, Jan Average, Tanzania, United Republic of, TZA
-223.183,1996, Feb Average, Tanzania, United Republic of, TZA
-191.186,1996, Mar Average, Tanzania, United Republic of, TZA
-132.75,1996, Apr Average, Tanzania, United Republic of, TZA
-72.9495,1996, May Average, Tanzania, United Republic of, TZA
-6.18287,1996, Jun Average, Tanzania, United Republic of, TZA
-7.6822,1996, Jul Average, Tanzania, United Republic of, TZA
-6.1952,1996, Aug Average, Tanzania, United Republic of, TZA
-13.7074,1996, Sep Average, Tanzania, United Republic of, TZA
-22.3603,1996, Oct Average, Tanzania, United Republic of, TZA
-46.7393,1996, Nov Average, Tanzania, United Republic of, TZA
-92.8502,1996, Dec Average, Tanzania, United Republic of, TZA
-111.655,1997, Jan Average, Tanzania, United Republic of, TZA
-105.651,1997, Feb Average, Tanzania, United Republic of, TZA
-161.855,1997, Mar Average, Tanzania, United Republic of, TZA
-188.742,1997, Apr Average, Tanzania, United Republic of, TZA
-60.7435,1997, May Average, Tanzania, United Republic of, TZA
-28.6652,1997, Jun Average, Tanzania, United Republic of, TZA
-6.76379,1997, Jul Average, Tanzania, United Republic of, TZA
-4.08814,1997, Aug Average, Tanzania, United Republic of, TZA
-3.1552,1997, Sep Average, Tanzania, United Republic of, TZA
-61.6584,1997, Oct Average, Tanzania, United Republic of, TZA
-152.23,1997, Nov Average, Tanzania, United Republic of, TZA
-267.428,1997, Dec Average, Tanzania, United Republic of, TZA
-258.534,1998, Jan Average, Tanzania, United Republic of, TZA
-184.91,1998, Feb Average, Tanzania, United Republic of, TZA
-153.761,1998, Mar Average, Tanzania, United Republic of, TZA
-195.798,1998, Apr Average, Tanzania, United Republic of, TZA
-65.2294,1998, May Average, Tanzania, United Republic of, TZA
-11.1376,1998, Jun Average, Tanzania, United Republic of, TZA
-3.74077,1998, Jul Average, Tanzania, United Republic of, TZA
-4.33337,1998, Aug Average, Tanzania, United Republic of, TZA
-14.9856,1998, Sep Average, Tanzania, United Republic of, TZA
-23.9682,1998, Oct Average, Tanzania, United Republic of, TZA
-44.6506,1998, Nov Average, Tanzania, United Republic of, TZA
-52.1769,1998, Dec Average, Tanzania, United Republic of, TZA
-158.396,1999, Jan Average, Tanzania, United Republic of, TZA
-78.6559,1999, Feb Average, Tanzania, United Republic of, TZA
-263.679,1999, Mar Average, Tanzania, United Republic of, TZA
-167.51,1999, Apr Average, Tanzania, United Republic of, TZA
-38.9683,1999, May Average, Tanzania, United Republic of, TZA
-21.9958,1999, Jun Average, Tanzania, United Republic of, TZA
-10.1546,1999, Jul Average, Tanzania, United Republic of, TZA
-13.9779,1999, Aug Average, Tanzania, United Republic of, TZA
-13.8494,1999, Sep Average, Tanzania, United Republic of, TZA
-17.2308,1999, Oct Average, Tanzania, United Republic of, TZA
-102.748,1999, Nov Average, Tanzania, United Republic of, TZA
-99.742,1999, Dec Average, Tanzania, United Republic of, TZA
-87.5101,2000, Jan Average, Tanzania, United Republic of, TZA
-76.1479,2000, Feb Average, Tanzania, United Republic of, TZA
-183.653,2000, Mar Average, Tanzania, United Republic of, TZA
-104.61,2000, Apr Average, Tanzania, United Republic of, TZA
-38.0731,2000, May Average, Tanzania, United Republic of, TZA
-18.1722,2000, Jun Average, Tanzania, United Republic of, TZA
-4.52536,2000, Jul Average, Tanzania, United Republic of, TZA
-12.235,2000, Aug Average, Tanzania, United Republic of, TZA
-8.34864,2000, Sep Average, Tanzania, United Republic of, TZA
-21.0767,2000, Oct Average, Tanzania, United Republic of, TZA
-142.386,2000, Nov Average, Tanzania, United Republic of, TZA
-198.603,2000, Dec Average, Tanzania, United Republic of, TZA
-226.168,2001, Jan Average, Tanzania, United Republic of, TZA
-116.949,2001, Feb Average, Tanzania, United Republic of, TZA
-158.833,2001, Mar Average, Tanzania, United Republic of, TZA
-130.489,2001, Apr Average, Tanzania, United Republic of, TZA
-40.3075,2001, May Average, Tanzania, United Republic of, TZA
-13.8067,2001, Jun Average, Tanzania, United Republic of, TZA
-7.32159,2001, Jul Average, Tanzania, United Republic of, TZA
-7.55591,2001, Aug Average, Tanzania, United Republic of, TZA
-17.2088,2001, Sep Average, Tanzania, United Republic of, TZA
-30.5498,2001, Oct Average, Tanzania, United Republic of, TZA
-56.6257,2001, Nov Average, Tanzania, United Republic of, TZA
-134.795,2001, Dec Average, Tanzania, United Republic of, TZA
-212.903,2002, Jan Average, Tanzania, United Republic of, TZA
-127,2002, Feb Average, Tanzania, United Republic of, TZA
-237.909,2002, Mar Average, Tanzania, United Republic of, TZA
-166.945,2002, Apr Average, Tanzania, United Republic of, TZA
-47.4094,2002, May Average, Tanzania, United Republic of, TZA
-8.62647,2002, Jun Average, Tanzania, United Republic of, TZA
-3.28928,2002, Jul Average, Tanzania, United Republic of, TZA
-12.9645,2002, Aug Average, Tanzania, United Republic of, TZA
-18.822,2002, Sep Average, Tanzania, United Republic of, TZA
-36.4127,2002, Oct Average, Tanzania, United Republic of, TZA
-95.9263,2002, Nov Average, Tanzania, United Republic of, TZA
-178.081,2002, Dec Average, Tanzania, United Republic of, TZA
-137.881,2003, Jan Average, Tanzania, United Republic of, TZA
-94.2762,2003, Feb Average, Tanzania, United Republic of, TZA
-125.169,2003, Mar Average, Tanzania, United Republic of, TZA
-112.749,2003, Apr Average, Tanzania, United Republic of, TZA
-81.4682,2003, May Average, Tanzania, United Republic of, TZA
-10.6031,2003, Jun Average, Tanzania, United Republic of, TZA
-2.41171,2003, Jul Average, Tanzania, United Republic of, TZA
-5.14858,2003, Aug Average, Tanzania, United Republic of, TZA
-14.3118,2003, Sep Average, Tanzania, United Republic of, TZA
-31.1167,2003, Oct Average, Tanzania, United Republic of, TZA
-37.9661,2003, Nov Average, Tanzania, United Republic of, TZA
-117.996,2003, Dec Average, Tanzania, United Republic of, TZA
-144.773,2004, Jan Average, Tanzania, United Republic of, TZA
-179.85,2004, Feb Average, Tanzania, United Republic of, TZA
-150.068,2004, Mar Average, Tanzania, United Republic of, TZA
-169.92,2004, Apr Average, Tanzania, United Republic of, TZA
-10.3264,2004, May Average, Tanzania, United Republic of, TZA
-10.0208,2004, Jun Average, Tanzania, United Republic of, TZA
-0.96025,2004, Jul Average, Tanzania, United Republic of, TZA
-3.14984,2004, Aug Average, Tanzania, United Republic of, TZA
-51.5303,2004, Sep Average, Tanzania, United Republic of, TZA
-39.4939,2004, Oct Average, Tanzania, United Republic of, TZA
-100.524,2004, Nov Average, Tanzania, United Republic of, TZA
-175.496,2004, Dec Average, Tanzania, United Republic of, TZA
-165.341,2005, Jan Average, Tanzania, United Republic of, TZA
-103.738,2005, Feb Average, Tanzania, United Republic of, TZA
-158.271,2005, Mar Average, Tanzania, United Republic of, TZA
-102.109,2005, Apr Average, Tanzania, United Republic of, TZA
-69.9653,2005, May Average, Tanzania, United Republic of, TZA
-3.75021,2005, Jun Average, Tanzania, United Republic of, TZA
-2.01755,2005, Jul Average, Tanzania, United Republic of, TZA
-7.02827,2005, Aug Average, Tanzania, United Republic of, TZA
-11.8336,2005, Sep Average, Tanzania, United Republic of, TZA
-27.4307,2005, Oct Average, Tanzania, United Republic of, TZA
-35.3533,2005, Nov Average, Tanzania, United Republic of, TZA
-70.1465,2005, Dec Average, Tanzania, United Republic of, TZA
-91.5708,2006, Jan Average, Tanzania, United Republic of, TZA
-128.079,2006, Feb Average, Tanzania, United Republic of, TZA
-174.91,2006, Mar Average, Tanzania, United Republic of, TZA
-193.081,2006, Apr Average, Tanzania, United Republic of, TZA
-85.2088,2006, May Average, Tanzania, United Republic of, TZA
-15.4708,2006, Jun Average, Tanzania, United Republic of, TZA
-10.6532,2006, Jul Average, Tanzania, United Republic of, TZA
-9.64865,2006, Aug Average, Tanzania, United Republic of, TZA
-21.0038,2006, Sep Average, Tanzania, United Republic of, TZA
-34.4825,2006, Oct Average, Tanzania, United Republic of, TZA
-166.723,2006, Nov Average, Tanzania, United Republic of, TZA
-267.868,2006, Dec Average, Tanzania, United Republic of, TZA
-175.283,2007, Jan Average, Tanzania, United Republic of, TZA
-133.551,2007, Feb Average, Tanzania, United Republic of, TZA
-155.902,2007, Mar Average, Tanzania, United Republic of, TZA
-107.449,2007, Apr Average, Tanzania, United Republic of, TZA
-51.0482,2007, May Average, Tanzania, United Republic of, TZA
-10.1644,2007, Jun Average, Tanzania, United Republic of, TZA
-8.81773,2007, Jul Average, Tanzania, United Republic of, TZA
-14.2634,2007, Aug Average, Tanzania, United Republic of, TZA
-29.5605,2007, Sep Average, Tanzania, United Republic of, TZA
-28.7704,2007, Oct Average, Tanzania, United Republic of, TZA
-53.5827,2007, Nov Average, Tanzania, United Republic of, TZA
-155.915,2007, Dec Average, Tanzania, United Republic of, TZA
-138.212,2008, Jan Average, Tanzania, United Republic of, TZA
-175.797,2008, Feb Average, Tanzania, United Republic of, TZA
-202.854,2008, Mar Average, Tanzania, United Republic of, TZA
-114.797,2008, Apr Average, Tanzania, United Republic of, TZA
-32.4938,2008, May Average, Tanzania, United Republic of, TZA
-6.61048,2008, Jun Average, Tanzania, United Republic of, TZA
-2.9346,2008, Jul Average, Tanzania, United Republic of, TZA
-2.46052,2008, Aug Average, Tanzania, United Republic of, TZA
-19.7502,2008, Sep Average, Tanzania, United Republic of, TZA
-50.5761,2008, Oct Average, Tanzania, United Republic of, TZA
-94.8757,2008, Nov Average, Tanzania, United Republic of, TZA
-101.559,2008, Dec Average, Tanzania, United Republic of, TZA
-133.061,2009, Jan Average, Tanzania, United Republic of, TZA
-164.79,2009, Feb Average, Tanzania, United Republic of, TZA
-186.286,2009, Mar Average, Tanzania, United Republic of, TZA
-102.721,2009, Apr Average, Tanzania, United Republic of, TZA
-37.1435,2009, May Average, Tanzania, United Republic of, TZA
-7.93347,2009, Jun Average, Tanzania, United Republic of, TZA
-1.95245,2009, Jul Average, Tanzania, United Republic of, TZA
-1.74205,2009, Aug Average, Tanzania, United Republic of, TZA
-13.8697,2009, Sep Average, Tanzania, United Republic of, TZA
-35.7358,2009, Oct Average, Tanzania, United Republic of, TZA
-116.667,2009, Nov Average, Tanzania, United Republic of, TZA
-171.663,2009, Dec Average, Tanzania, United Republic of, TZA
-140.494,2010, Jan Average, Tanzania, United Republic of, TZA
-161.691,2010, Feb Average, Tanzania, United Republic of, TZA
-178.768,2010, Mar Average, Tanzania, United Republic of, TZA
-129.512,2010, Apr Average, Tanzania, United Republic of, TZA
-63.171,2010, May Average, Tanzania, United Republic of, TZA
-22.2705,2010, Jun Average, Tanzania, United Republic of, TZA
-1.39221,2010, Jul Average, Tanzania, United Republic of, TZA
-2.94437,2010, Aug Average, Tanzania, United Republic of, TZA
-9.76374,2010, Sep Average, Tanzania, United Republic of, TZA
-16.5239,2010, Oct Average, Tanzania, United Republic of, TZA
-49.1624,2010, Nov Average, Tanzania, United Republic of, TZA
-116.087,2010, Dec Average, Tanzania, United Republic of, TZA
-101.776,2011, Jan Average, Tanzania, United Republic of, TZA
-138.434,2011, Feb Average, Tanzania, United Republic of, TZA
-176.072,2011, Mar Average, Tanzania, United Republic of, TZA
-131.283,2011, Apr Average, Tanzania, United Republic of, TZA
-51.7223,2011, May Average, Tanzania, United Republic of, TZA
-21.9333,2011, Jun Average, Tanzania, United Republic of, TZA
-3.85908,2011, Jul Average, Tanzania, United Republic of, TZA
-7.1308,2011, Aug Average, Tanzania, United Republic of, TZA
-42.1947,2011, Sep Average, Tanzania, United Republic of, TZA
-41.077,2011, Oct Average, Tanzania, United Republic of, TZA
-120.808,2011, Nov Average, Tanzania, United Republic of, TZA
-207.473,2011, Dec Average, Tanzania, United Republic of, TZA
-101.814,2012, Jan Average, Tanzania, United Republic of, TZA
-91.5278,2012, Feb Average, Tanzania, United Republic of, TZA
-104.581,2012, Mar Average, Tanzania, United Republic of, TZA
-141.309,2012, Apr Average, Tanzania, United Republic of, TZA
-42.0875,2012, May Average, Tanzania, United Republic of, TZA
-19.6995,2012, Jun Average, Tanzania, United Republic of, TZA
-2.34608,2012, Jul Average, Tanzania, United Republic of, TZA
-11.6461,2012, Aug Average, Tanzania, United Republic of, TZA
-9.80791,2012, Sep Average, Tanzania, United Republic of, TZA
-33.4241,2012, Oct Average, Tanzania, United Republic of, TZA
-80.8135,2012, Nov Average, Tanzania, United Republic of, TZA
-158.005,2012, Dec Average, Tanzania, United Republic of, TZA
-157.643,2013, Jan Average, Tanzania, United Republic of, TZA
-75.0285,2013, Feb Average, Tanzania, United Republic of, TZA
-222.333,2013, Mar Average, Tanzania, United Republic of, TZA
-168.927,2013, Apr Average, Tanzania, United Republic of, TZA
-36.5546,2013, May Average, Tanzania, United Republic of, TZA
-2.76643,2013, Jun Average, Tanzania, United Republic of, TZA
-2.39679,2013, Jul Average, Tanzania, United Republic of, TZA
-7.64686,2013, Aug Average, Tanzania, United Republic of, TZA
-33.4599,2013, Sep Average, Tanzania, United Republic of, TZA
-23.8706,2013, Oct Average, Tanzania, United Republic of, TZA
-91.767,2013, Nov Average, Tanzania, United Republic of, TZA
-168.722,2013, Dec Average, Tanzania, United Republic of, TZA
-150.547,2014, Jan Average, Tanzania, United Republic of, TZA
-134.483,2014, Feb Average, Tanzania, United Republic of, TZA
-148.209,2014, Mar Average, Tanzania, United Republic of, TZA
-132.472,2014, Apr Average, Tanzania, United Republic of, TZA
-53.1271,2014, May Average, Tanzania, United Republic of, TZA
-7.91846,2014, Jun Average, Tanzania, United Republic of, TZA
-2.51411,2014, Jul Average, Tanzania, United Republic of, TZA
-8.64984,2014, Aug Average, Tanzania, United Republic of, TZA
-36.9189,2014, Sep Average, Tanzania, United Republic of, TZA
-55.4904,2014, Oct Average, Tanzania, United Republic of, TZA
-115.517,2014, Nov Average, Tanzania, United Republic of, TZA
-157.503,2014, Dec Average, Tanzania, United Republic of, TZA
-148.346,2015, Jan Average, Tanzania, United Republic of, TZA
-69.1067,2015, Feb Average, Tanzania, United Republic of, TZA
-102.202,2015, Mar Average, Tanzania, United Republic of, TZA
-196.944,2015, Apr Average, Tanzania, United Republic of, TZA
-83.1896,2015, May Average, Tanzania, United Republic of, TZA
-18.0186,2015, Jun Average, Tanzania, United Republic of, TZA
-1.06265,2015, Jul Average, Tanzania, United Republic of, TZA
-1.72711,2015, Aug Average, Tanzania, United Republic of, TZA
-14.1884,2015, Sep Average, Tanzania, United Republic of, TZA
-43.3486,2015, Oct Average, Tanzania, United Republic of, TZA
-126.78,2015, Nov Average, Tanzania, United Republic of, TZA
-188.534,2015, Dec Average, Tanzania, United Republic of, TZA
-247.081,2016, Jan Average, Tanzania, United Republic of, TZA
-162.16,2016, Feb Average, Tanzania, United Republic of, TZA
-159.638,2016, Mar Average, Tanzania, United Republic of, TZA
-236.497,2016, Apr Average, Tanzania, United Republic of, TZA
-50.1026,2016, May Average, Tanzania, United Republic of, TZA
-13.2669,2016, Jun Average, Tanzania, United Republic of, TZA
-14.2868,2016, Jul Average, Tanzania, United Republic of, TZA
-7.18494,2016, Aug Average, Tanzania, United Republic of, TZA
-15.7348,2016, Sep Average, Tanzania, United Republic of, TZA
-19.0238,2016, Oct Average, Tanzania, United Republic of, TZA
-67.3688,2016, Nov Average, Tanzania, United Republic of, TZA
-143.873,2016, Dec Average, Tanzania, United Republic of, TZA
+189.55,1991, Jan Average, Tanzania, TZA,
+112.109,1991, Feb Average, Tanzania, TZA,
+197.159,1991, Mar Average, Tanzania, TZA,
+151.026,1991, Apr Average, Tanzania, TZA,
+82.8311,1991, May Average, Tanzania, TZA,
+9.43056,1991, Jun Average, Tanzania, TZA,
+9.55096,1991, Jul Average, Tanzania, TZA,
+8.17598,1991, Aug Average, Tanzania, TZA,
+14.2885,1991, Sep Average, Tanzania, TZA,
+43.9668,1991, Oct Average, Tanzania, TZA,
+81.5788,1991, Nov Average, Tanzania, TZA,
+167.593,1991, Dec Average, Tanzania, TZA,
+90.1893,1992, Jan Average, Tanzania, TZA,
+143.049,1992, Feb Average, Tanzania, TZA,
+128.725,1992, Mar Average, Tanzania, TZA,
+182.558,1992, Apr Average, Tanzania, TZA,
+73.9676,1992, May Average, Tanzania, TZA,
+15.1946,1992, Jun Average, Tanzania, TZA,
+8.29667,1992, Jul Average, Tanzania, TZA,
+4.18528,1992, Aug Average, Tanzania, TZA,
+12.0556,1992, Sep Average, Tanzania, TZA,
+30.2789,1992, Oct Average, Tanzania, TZA,
+120.326,1992, Nov Average, Tanzania, TZA,
+151.898,1992, Dec Average, Tanzania, TZA,
+171.3,1993, Jan Average, Tanzania, TZA,
+143.037,1993, Feb Average, Tanzania, TZA,
+175.642,1993, Mar Average, Tanzania, TZA,
+153.517,1993, Apr Average, Tanzania, TZA,
+62.8034,1993, May Average, Tanzania, TZA,
+12.8529,1993, Jun Average, Tanzania, TZA,
+5.76061,1993, Jul Average, Tanzania, TZA,
+8.95719,1993, Aug Average, Tanzania, TZA,
+6.61319,1993, Sep Average, Tanzania, TZA,
+16.9775,1993, Oct Average, Tanzania, TZA,
+59.5686,1993, Nov Average, Tanzania, TZA,
+51.6446,1993, Dec Average, Tanzania, TZA,
+166.442,1994, Jan Average, Tanzania, TZA,
+171.197,1994, Feb Average, Tanzania, TZA,
+185.011,1994, Mar Average, Tanzania, TZA,
+121.202,1994, Apr Average, Tanzania, TZA,
+60.0556,1994, May Average, Tanzania, TZA,
+7.11365,1994, Jun Average, Tanzania, TZA,
+10.082,1994, Jul Average, Tanzania, TZA,
+10.8051,1994, Aug Average, Tanzania, TZA,
+8.65605,1994, Sep Average, Tanzania, TZA,
+30.6484,1994, Oct Average, Tanzania, TZA,
+90.0906,1994, Nov Average, Tanzania, TZA,
+149.261,1994, Dec Average, Tanzania, TZA,
+153.085,1995, Jan Average, Tanzania, TZA,
+160.654,1995, Feb Average, Tanzania, TZA,
+201.858,1995, Mar Average, Tanzania, TZA,
+130.175,1995, Apr Average, Tanzania, TZA,
+79.8466,1995, May Average, Tanzania, TZA,
+6.84641,1995, Jun Average, Tanzania, TZA,
+3.3684,1995, Jul Average, Tanzania, TZA,
+12.0057,1995, Aug Average, Tanzania, TZA,
+17.171,1995, Sep Average, Tanzania, TZA,
+38.7939,1995, Oct Average, Tanzania, TZA,
+32.4053,1995, Nov Average, Tanzania, TZA,
+113.471,1995, Dec Average, Tanzania, TZA,
+137.776,1996, Jan Average, Tanzania, TZA,
+223.183,1996, Feb Average, Tanzania, TZA,
+191.186,1996, Mar Average, Tanzania, TZA,
+132.75,1996, Apr Average, Tanzania, TZA,
+72.9495,1996, May Average, Tanzania, TZA,
+6.18287,1996, Jun Average, Tanzania, TZA,
+7.6822,1996, Jul Average, Tanzania, TZA,
+6.1952,1996, Aug Average, Tanzania, TZA,
+13.7074,1996, Sep Average, Tanzania, TZA,
+22.3603,1996, Oct Average, Tanzania, TZA,
+46.7393,1996, Nov Average, Tanzania, TZA,
+92.8502,1996, Dec Average, Tanzania, TZA,
+111.655,1997, Jan Average, Tanzania, TZA,
+105.651,1997, Feb Average, Tanzania, TZA,
+161.855,1997, Mar Average, Tanzania, TZA,
+188.742,1997, Apr Average, Tanzania, TZA,
+60.7435,1997, May Average, Tanzania, TZA,
+28.6652,1997, Jun Average, Tanzania, TZA,
+6.76379,1997, Jul Average, Tanzania, TZA,
+4.08814,1997, Aug Average, Tanzania, TZA,
+3.1552,1997, Sep Average, Tanzania, TZA,
+61.6584,1997, Oct Average, Tanzania, TZA,
+152.23,1997, Nov Average, Tanzania, TZA,
+267.428,1997, Dec Average, Tanzania, TZA,
+258.534,1998, Jan Average, Tanzania, TZA,
+184.91,1998, Feb Average, Tanzania, TZA,
+153.761,1998, Mar Average, Tanzania, TZA,
+195.798,1998, Apr Average, Tanzania, TZA,
+65.2294,1998, May Average, Tanzania, TZA,
+11.1376,1998, Jun Average, Tanzania, TZA,
+3.74077,1998, Jul Average, Tanzania, TZA,
+4.33337,1998, Aug Average, Tanzania, TZA,
+14.9856,1998, Sep Average, Tanzania, TZA,
+23.9682,1998, Oct Average, Tanzania, TZA,
+44.6506,1998, Nov Average, Tanzania, TZA,
+52.1769,1998, Dec Average, Tanzania, TZA,
+158.396,1999, Jan Average, Tanzania, TZA,
+78.6559,1999, Feb Average, Tanzania, TZA,
+263.679,1999, Mar Average, Tanzania, TZA,
+167.51,1999, Apr Average, Tanzania, TZA,
+38.9683,1999, May Average, Tanzania, TZA,
+21.9958,1999, Jun Average, Tanzania, TZA,
+10.1546,1999, Jul Average, Tanzania, TZA,
+13.9779,1999, Aug Average, Tanzania, TZA,
+13.8494,1999, Sep Average, Tanzania, TZA,
+17.2308,1999, Oct Average, Tanzania, TZA,
+102.748,1999, Nov Average, Tanzania, TZA,
+99.742,1999, Dec Average, Tanzania, TZA,
+87.5101,2000, Jan Average, Tanzania, TZA,
+76.1479,2000, Feb Average, Tanzania, TZA,
+183.653,2000, Mar Average, Tanzania, TZA,
+104.61,2000, Apr Average, Tanzania, TZA,
+38.0731,2000, May Average, Tanzania, TZA,
+18.1722,2000, Jun Average, Tanzania, TZA,
+4.52536,2000, Jul Average, Tanzania, TZA,
+12.235,2000, Aug Average, Tanzania, TZA,
+8.34864,2000, Sep Average, Tanzania, TZA,
+21.0767,2000, Oct Average, Tanzania, TZA,
+142.386,2000, Nov Average, Tanzania, TZA,
+198.603,2000, Dec Average, Tanzania, TZA,
+226.168,2001, Jan Average, Tanzania, TZA,
+116.949,2001, Feb Average, Tanzania, TZA,
+158.833,2001, Mar Average, Tanzania, TZA,
+130.489,2001, Apr Average, Tanzania, TZA,
+40.3075,2001, May Average, Tanzania, TZA,
+13.8067,2001, Jun Average, Tanzania, TZA,
+7.32159,2001, Jul Average, Tanzania, TZA,
+7.55591,2001, Aug Average, Tanzania, TZA,
+17.2088,2001, Sep Average, Tanzania, TZA,
+30.5498,2001, Oct Average, Tanzania, TZA,
+56.6257,2001, Nov Average, Tanzania, TZA,
+134.795,2001, Dec Average, Tanzania, TZA,
+212.903,2002, Jan Average, Tanzania, TZA,
+127,2002, Feb Average, Tanzania, TZA,
+237.909,2002, Mar Average, Tanzania, TZA,
+166.945,2002, Apr Average, Tanzania, TZA,
+47.4094,2002, May Average, Tanzania, TZA,
+8.62647,2002, Jun Average, Tanzania, TZA,
+3.28928,2002, Jul Average, Tanzania, TZA,
+12.9645,2002, Aug Average, Tanzania, TZA,
+18.822,2002, Sep Average, Tanzania, TZA,
+36.4127,2002, Oct Average, Tanzania, TZA,
+95.9263,2002, Nov Average, Tanzania, TZA,
+178.081,2002, Dec Average, Tanzania, TZA,
+137.881,2003, Jan Average, Tanzania, TZA,
+94.2762,2003, Feb Average, Tanzania, TZA,
+125.169,2003, Mar Average, Tanzania, TZA,
+112.749,2003, Apr Average, Tanzania, TZA,
+81.4682,2003, May Average, Tanzania, TZA,
+10.6031,2003, Jun Average, Tanzania, TZA,
+2.41171,2003, Jul Average, Tanzania, TZA,
+5.14858,2003, Aug Average, Tanzania, TZA,
+14.3118,2003, Sep Average, Tanzania, TZA,
+31.1167,2003, Oct Average, Tanzania, TZA,
+37.9661,2003, Nov Average, Tanzania, TZA,
+117.996,2003, Dec Average, Tanzania, TZA,
+144.773,2004, Jan Average, Tanzania, TZA,
+179.85,2004, Feb Average, Tanzania, TZA,
+150.068,2004, Mar Average, Tanzania, TZA,
+169.92,2004, Apr Average, Tanzania, TZA,
+10.3264,2004, May Average, Tanzania, TZA,
+10.0208,2004, Jun Average, Tanzania, TZA,
+0.96025,2004, Jul Average, Tanzania, TZA,
+3.14984,2004, Aug Average, Tanzania, TZA,
+51.5303,2004, Sep Average, Tanzania, TZA,
+39.4939,2004, Oct Average, Tanzania, TZA,
+100.524,2004, Nov Average, Tanzania, TZA,
+175.496,2004, Dec Average, Tanzania, TZA,
+165.341,2005, Jan Average, Tanzania, TZA,
+103.738,2005, Feb Average, Tanzania, TZA,
+158.271,2005, Mar Average, Tanzania, TZA,
+102.109,2005, Apr Average, Tanzania, TZA,
+69.9653,2005, May Average, Tanzania, TZA,
+3.75021,2005, Jun Average, Tanzania, TZA,
+2.01755,2005, Jul Average, Tanzania, TZA,
+7.02827,2005, Aug Average, Tanzania, TZA,
+11.8336,2005, Sep Average, Tanzania, TZA,
+27.4307,2005, Oct Average, Tanzania, TZA,
+35.3533,2005, Nov Average, Tanzania, TZA,
+70.1465,2005, Dec Average, Tanzania, TZA,
+91.5708,2006, Jan Average, Tanzania, TZA,
+128.079,2006, Feb Average, Tanzania, TZA,
+174.91,2006, Mar Average, Tanzania, TZA,
+193.081,2006, Apr Average, Tanzania, TZA,
+85.2088,2006, May Average, Tanzania, TZA,
+15.4708,2006, Jun Average, Tanzania, TZA,
+10.6532,2006, Jul Average, Tanzania, TZA,
+9.64865,2006, Aug Average, Tanzania, TZA,
+21.0038,2006, Sep Average, Tanzania, TZA,
+34.4825,2006, Oct Average, Tanzania, TZA,
+166.723,2006, Nov Average, Tanzania, TZA,
+267.868,2006, Dec Average, Tanzania, TZA,
+175.283,2007, Jan Average, Tanzania, TZA,
+133.551,2007, Feb Average, Tanzania, TZA,
+155.902,2007, Mar Average, Tanzania, TZA,
+107.449,2007, Apr Average, Tanzania, TZA,
+51.0482,2007, May Average, Tanzania, TZA,
+10.1644,2007, Jun Average, Tanzania, TZA,
+8.81773,2007, Jul Average, Tanzania, TZA,
+14.2634,2007, Aug Average, Tanzania, TZA,
+29.5605,2007, Sep Average, Tanzania, TZA,
+28.7704,2007, Oct Average, Tanzania, TZA,
+53.5827,2007, Nov Average, Tanzania, TZA,
+155.915,2007, Dec Average, Tanzania, TZA,
+138.212,2008, Jan Average, Tanzania, TZA,
+175.797,2008, Feb Average, Tanzania, TZA,
+202.854,2008, Mar Average, Tanzania, TZA,
+114.797,2008, Apr Average, Tanzania, TZA,
+32.4938,2008, May Average, Tanzania, TZA,
+6.61048,2008, Jun Average, Tanzania, TZA,
+2.9346,2008, Jul Average, Tanzania, TZA,
+2.46052,2008, Aug Average, Tanzania, TZA,
+19.7502,2008, Sep Average, Tanzania, TZA,
+50.5761,2008, Oct Average, Tanzania, TZA,
+94.8757,2008, Nov Average, Tanzania, TZA,
+101.559,2008, Dec Average, Tanzania, TZA,
+133.061,2009, Jan Average, Tanzania, TZA,
+164.79,2009, Feb Average, Tanzania, TZA,
+186.286,2009, Mar Average, Tanzania, TZA,
+102.721,2009, Apr Average, Tanzania, TZA,
+37.1435,2009, May Average, Tanzania, TZA,
+7.93347,2009, Jun Average, Tanzania, TZA,
+1.95245,2009, Jul Average, Tanzania, TZA,
+1.74205,2009, Aug Average, Tanzania, TZA,
+13.8697,2009, Sep Average, Tanzania, TZA,
+35.7358,2009, Oct Average, Tanzania, TZA,
+116.667,2009, Nov Average, Tanzania, TZA,
+171.663,2009, Dec Average, Tanzania, TZA,
+140.494,2010, Jan Average, Tanzania, TZA,
+161.691,2010, Feb Average, Tanzania, TZA,
+178.768,2010, Mar Average, Tanzania, TZA,
+129.512,2010, Apr Average, Tanzania, TZA,
+63.171,2010, May Average, Tanzania, TZA,
+22.2705,2010, Jun Average, Tanzania, TZA,
+1.39221,2010, Jul Average, Tanzania, TZA,
+2.94437,2010, Aug Average, Tanzania, TZA,
+9.76374,2010, Sep Average, Tanzania, TZA,
+16.5239,2010, Oct Average, Tanzania, TZA,
+49.1624,2010, Nov Average, Tanzania, TZA,
+116.087,2010, Dec Average, Tanzania, TZA,
+101.776,2011, Jan Average, Tanzania, TZA,
+138.434,2011, Feb Average, Tanzania, TZA,
+176.072,2011, Mar Average, Tanzania, TZA,
+131.283,2011, Apr Average, Tanzania, TZA,
+51.7223,2011, May Average, Tanzania, TZA,
+21.9333,2011, Jun Average, Tanzania, TZA,
+3.85908,2011, Jul Average, Tanzania, TZA,
+7.1308,2011, Aug Average, Tanzania, TZA,
+42.1947,2011, Sep Average, Tanzania, TZA,
+41.077,2011, Oct Average, Tanzania, TZA,
+120.808,2011, Nov Average, Tanzania, TZA,
+207.473,2011, Dec Average, Tanzania, TZA,
+101.814,2012, Jan Average, Tanzania, TZA,
+91.5278,2012, Feb Average, Tanzania, TZA,
+104.581,2012, Mar Average, Tanzania, TZA,
+141.309,2012, Apr Average, Tanzania, TZA,
+42.0875,2012, May Average, Tanzania, TZA,
+19.6995,2012, Jun Average, Tanzania, TZA,
+2.34608,2012, Jul Average, Tanzania, TZA,
+11.6461,2012, Aug Average, Tanzania, TZA,
+9.80791,2012, Sep Average, Tanzania, TZA,
+33.4241,2012, Oct Average, Tanzania, TZA,
+80.8135,2012, Nov Average, Tanzania, TZA,
+158.005,2012, Dec Average, Tanzania, TZA,
+157.643,2013, Jan Average, Tanzania, TZA,
+75.0285,2013, Feb Average, Tanzania, TZA,
+222.333,2013, Mar Average, Tanzania, TZA,
+168.927,2013, Apr Average, Tanzania, TZA,
+36.5546,2013, May Average, Tanzania, TZA,
+2.76643,2013, Jun Average, Tanzania, TZA,
+2.39679,2013, Jul Average, Tanzania, TZA,
+7.64686,2013, Aug Average, Tanzania, TZA,
+33.4599,2013, Sep Average, Tanzania, TZA,
+23.8706,2013, Oct Average, Tanzania, TZA,
+91.767,2013, Nov Average, Tanzania, TZA,
+168.722,2013, Dec Average, Tanzania, TZA,
+150.547,2014, Jan Average, Tanzania, TZA,
+134.483,2014, Feb Average, Tanzania, TZA,
+148.209,2014, Mar Average, Tanzania, TZA,
+132.472,2014, Apr Average, Tanzania, TZA,
+53.1271,2014, May Average, Tanzania, TZA,
+7.91846,2014, Jun Average, Tanzania, TZA,
+2.51411,2014, Jul Average, Tanzania, TZA,
+8.64984,2014, Aug Average, Tanzania, TZA,
+36.9189,2014, Sep Average, Tanzania, TZA,
+55.4904,2014, Oct Average, Tanzania, TZA,
+115.517,2014, Nov Average, Tanzania, TZA,
+157.503,2014, Dec Average, Tanzania, TZA,
+148.346,2015, Jan Average, Tanzania, TZA,
+69.1067,2015, Feb Average, Tanzania, TZA,
+102.202,2015, Mar Average, Tanzania, TZA,
+196.944,2015, Apr Average, Tanzania, TZA,
+83.1896,2015, May Average, Tanzania, TZA,
+18.0186,2015, Jun Average, Tanzania, TZA,
+1.06265,2015, Jul Average, Tanzania, TZA,
+1.72711,2015, Aug Average, Tanzania, TZA,
+14.1884,2015, Sep Average, Tanzania, TZA,
+43.3486,2015, Oct Average, Tanzania, TZA,
+126.78,2015, Nov Average, Tanzania, TZA,
+188.534,2015, Dec Average, Tanzania, TZA,
+247.081,2016, Jan Average, Tanzania, TZA,
+162.16,2016, Feb Average, Tanzania, TZA,
+159.638,2016, Mar Average, Tanzania, TZA,
+236.497,2016, Apr Average, Tanzania, TZA,
+50.1026,2016, May Average, Tanzania, TZA,
+13.2669,2016, Jun Average, Tanzania, TZA,
+14.2868,2016, Jul Average, Tanzania, TZA,
+7.18494,2016, Aug Average, Tanzania, TZA,
+15.7348,2016, Sep Average, Tanzania, TZA,
+19.0238,2016, Oct Average, Tanzania, TZA,
+67.3688,2016, Nov Average, Tanzania, TZA,
+143.873,2016, Dec Average, Tanzania, TZA,
 8.14374,1991, Jan Average, Thailand, THA,
 6.82322,1991, Feb Average, Thailand, THA,
 31.4434,1991, Mar Average, Thailand, THA,
