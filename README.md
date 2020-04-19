@@ -13,17 +13,11 @@ Correlation Analysis is a statistical technique in which we evaluate the strengt
 
 `
 pearsoncorr = dataframe[[ 
-
     'Temperature - (Celsius)',
-
     'Nitrous oxide emissions (thousand metric tons of CO2 equivalent)',
-    
     'Methane emissions (kt of CO2 equivalent)',
-    
     'CO2 emissions (kt)',
-    
     'Energy use (kg of oil equivalent per capita)'
-
 ]].corr(method='pearson')
 
 `
