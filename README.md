@@ -13,12 +13,19 @@ Correlation Analysis is a statistical technique in which we evaluate the strengt
 
 `
 pearsoncorr = dataframe[[ 
+
     'Temperature - (Celsius)',
+
     'Nitrous oxide emissions (thousand metric tons of CO2 equivalent)',
+    
     'Methane emissions (kt of CO2 equivalent)',
+    
     'CO2 emissions (kt)',
+    
     'Energy use (kg of oil equivalent per capita)'
+
 ]].corr(method='pearson')
+
 `
 
 # Effect Mining
@@ -28,9 +35,13 @@ Climate change has different impact on different aspects of society and economic
 Here we have used important data mining technique called K-means Clustering to find mine important information out of the dataset. Following steps were followed as a pre-processing step to perform effect mining using K-means algorithm:
 `
 a. Select an indicator
+
 b. Categorize data into 3 decades, 1990-2000, 2000-2010, 2010-2020
+
 c. For each country find mean values of each indicator in those category
+
 d. Calculate percentage change in those values for decades 2000-2010 and 2010-2020 from the 1990-2000
+
 e. Based on percentage change, apply k-means cluster to group data
 `
 
@@ -39,7 +50,9 @@ Here we took important  parameters such as temperature change, rainfall pattern 
 
 `
 kmeans = cluster.KMeans(nclusters=3, maxiter = 200000)
+
 kmeans.fit(dataframe[['agri area change 2000', 'agri area change 2010']])
+
 dataframe['cluster label'] = kmeans.labels
 `
 
@@ -47,17 +60,25 @@ dataframe['cluster label'] = kmeans.labels
 
 Climate change has diverse impacts on the socio-economic aspect of the world across different societies.  In this project, we used linear regression to predict the effect of climate change (temperature and rainfall) on different socioeconomic aspects for the coming years (decade of 2020-2030)  so that we can start preparing for the changes to come and also focus on ways of preventing it. Following steps were performed before performing Regression analysis as a pre-processing steps: 
 
-`a. Extrapolate values of Temperature and Rainfall to find its value for 2020-2030 
+`
+a. Extrapolate values of Temperature and Rainfall to find its value for 2020-2030 
+
 b. Based on value of Rainfall, Temperature and Indicators train a Linear Regressor 
+
 c. Predict value of Indicator (eg. cereal yield) using trained model 
+
 d. Use k-means cluster analysis to group similar countries 
+
 `
 # Regression Analysis 
 Regression analysis is a set of statistical processes for estimating the relationships between a dependent variable and one or more independent variables. In this analysis we model different variable such as cereal production, forest area, GDP contribution of agriculture as dependent variable and temperature, rainfall as independent variable. Using linear regression analysis technique, we then predict the values of those independent variable  from the values of dependent variable. Following code demonstrates implementing linear regressor in Python:
 
 `
-  regr = linearmodel.LinearRegression()
-  regr.fit(XTrain, yTrain)
-  XTest = data[['Temperature - (Celsius)', 'Rainfall - (MM)']]
-  yPredicted = regr.predict(XTest)
+regr = linearmodel.LinearRegression()
+
+regr.fit(XTrain, yTrain)
+
+XTest = data[['Temperature - (Celsius)', 'Rainfall - (MM)']]
+
+yPredicted = regr.predict(XTest)
 `
