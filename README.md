@@ -64,5 +64,6 @@ a. Download the repository or git clone the repository
 b. Open Jupyter notebook
 c. Open the main.py.ipynb file
 
-Alternatively to view the code and results, you can also click: https://github.com/ym96/cpsc8650/blob/master/main.py.ipynb
 ```
+
+Alternatively to view the code and results, you can also click: https://github.com/ym96/cpsc8650/blob/master/main.py.ipynb
