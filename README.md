@@ -11,7 +11,7 @@ To mine the climate change data and predict its effects in near future, we initi
 # Correlation Analysis 
 Correlation Analysis is a statistical technique in which we evaluate the strength of relationship between quantitative variables. We loaded the dataset into pandas dataframe and then use panda's inbuilt function for calculating Perason's coefficient. Following code demonstrates how we implemented correlation analysis using Pearson's coefficient in python:
 
-``
+```
 pearsoncorr = dataframe[[ 
     'Temperature - (Celsius)',
     'Nitrous oxide emissions (thousand metric tons of CO2 equivalent)',
@@ -20,7 +20,7 @@ pearsoncorr = dataframe[[
     'Energy use (kg of oil equivalent per capita)'
 ]].corr(method='pearson')
 
-``
+```
 
 # Effect Mining
 Climate change has different impact on different aspects of society and economics. To achieve this solution, we have have used the following data mining techniques:
@@ -42,13 +42,11 @@ e. Based on percentage change, apply k-means cluster to group data
 # K-Means Clustering
 Here we took important  parameters such as temperature change, rainfall pattern change and different indicators such as land area in agriculture, population growth and others of different countries for different years (decade) and used k-means cluster analysis techniques to group the countries in different clusters. With this we got group of countries based on impact of climate change on those factors. This information can be used by concerned agencies such as world bank and governments of countries that are in those clusters to initiate joint aid efforts, relief or mitigation programs to counter the challenges posed by climate change. Following example shows how we implemented k-means algorithm in python. \newline
 
-`
+```
 kmeans = cluster.KMeans(nclusters=3, maxiter = 200000)
-
 kmeans.fit(dataframe[['agri area change 2000', 'agri area change 2010']])
-
 dataframe['cluster label'] = kmeans.labels
-`
+```
 
 # Predicting the Future
 
@@ -67,12 +65,9 @@ d. Use k-means cluster analysis to group similar countries
 # Regression Analysis 
 Regression analysis is a set of statistical processes for estimating the relationships between a dependent variable and one or more independent variables. In this analysis we model different variable such as cereal production, forest area, GDP contribution of agriculture as dependent variable and temperature, rainfall as independent variable. Using linear regression analysis technique, we then predict the values of those independent variable  from the values of dependent variable. Following code demonstrates implementing linear regressor in Python:
 
-`
+```
 regr = linearmodel.LinearRegression()
-
 regr.fit(XTrain, yTrain)
-
 XTest = data[['Temperature - (Celsius)', 'Rainfall - (MM)']]
-
 yPredicted = regr.predict(XTest)
-`
+```
