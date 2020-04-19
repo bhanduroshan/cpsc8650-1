@@ -11,16 +11,16 @@ To mine the climate change data and predict its effects in near future, we initi
 # Correlation Analysis 
 Correlation Analysis is a statistical technique in which we evaluate the strength of relationship between quantitative variables. We loaded the dataset into pandas dataframe and then use panda's inbuilt function for calculating Perason's coefficient. Following code demonstrates how we implemented correlation analysis using Pearson's coefficient in python:
 
-`
-    pearsoncorr = dataframe[[ 
-        'Temperature - (Celsius)',
-        'Nitrous oxide emissions (thousand metric tons of CO2 equivalent)',
-        'Methane emissions (kt of CO2 equivalent)',
-        'CO2 emissions (kt)',
-        'Energy use (kg of oil equivalent per capita)'
-    ]].corr(method='pearson')
+``
+pearsoncorr = dataframe[[ 
+    'Temperature - (Celsius)',
+    'Nitrous oxide emissions (thousand metric tons of CO2 equivalent)',
+    'Methane emissions (kt of CO2 equivalent)',
+    'CO2 emissions (kt)',
+    'Energy use (kg of oil equivalent per capita)'
+]].corr(method='pearson')
 
-`
+``
 
 # Effect Mining
 Climate change has different impact on different aspects of society and economics. To achieve this solution, we have have used the following data mining techniques:
